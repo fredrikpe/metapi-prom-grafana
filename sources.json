@@ -1,0 +1,98 @@
+[
+{
+    "@type": "SensorSystem",
+    "id": "SN27600",
+    "name": "SANDEFJORD",
+    "shortName": "Sandefjord",
+    "country": "Norge",
+    "countryCode": "NO",
+    "geometry": {
+        "@type": "Point",
+        "coordinates": [
+            10.2147,
+        59.132
+        ],
+        "nearest": false
+    },
+    "masl": 6,
+    "validFrom": "1936-01-01T00:00:00.000Z",
+    "county": "VESTFOLD OG TELEMARK",
+    "countyId": 38,
+    "municipality": "SANDEFJORD",
+    "municipalityId": 3804,
+    "stationHolders": [
+        "SANDEFJORD KOMMUNE"
+    ],
+    "wigosId": "0-578-0-27600"
+},
+{
+    "@type": "SensorSystem",
+    "id": "SN18700",
+    "name": "OSLO - BLINDERN",
+    "shortName": "Oslo (Blindern)",
+    "country": "Norge",
+    "countryCode": "NO",
+    "wmoId": 1492,
+    "geometry": {
+        "@type": "Point",
+        "coordinates": [
+            10.72,
+        59.9423
+        ],
+        "nearest": false
+    },
+    "masl": 94,
+    "validFrom": "1931-01-01T00:00:00.000Z",
+    "county": "OSLO",
+    "countyId": 3,
+    "municipality": "OSLO",
+    "municipalityId": 301,
+    "stationHolders": [
+        "MET.NO"
+    ],
+    "externalIds": [
+        "0-20000-0-01492",
+    "0-20001-0-01492",
+    "157.249.0.180:6785"
+    ],
+    "wigosId": "0-20000-0-01492"
+},
+{
+    "@type": "SensorSystem",
+    "id": "SN87110",
+    "name": "ANDØYA",
+    "shortName": "Andøya LH",
+    "country": "Norge",
+    "countryCode": "NO",
+    "wmoId": 1010,
+    "geometry": {
+        "@type": "Point",
+        "coordinates": [
+            16.1312,
+        69.3073
+        ],
+        "nearest": false
+    },
+    "masl": 10,
+    "validFrom": "1958-06-01T00:00:00.000Z",
+    "county": "NORDLAND",
+    "countyId": 18,
+    "municipality": "ANDØY",
+    "municipalityId": 1871,
+    "stationHolders": [
+        "AVINOR",
+    "MET.NO"
+    ],
+    "externalIds": [
+        "0-20000-0-01010",
+    "10.249.0.55",
+    "10.249.1.89",
+    "ENAN"
+    ],
+    "icaoCodes": [
+        "ENAN"
+    ],
+    "wigosId": "0-20000-0-01010"
+}
+]
+
