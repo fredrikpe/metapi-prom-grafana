@@ -1,98 +1,9882 @@
 [
-{
-    "@type": "SensorSystem",
+  {
+    "id": "SN47230",
+    "name": "\u00c5KRA UNGDOMSSKOLE",
+    "include": false
+  },
+  {
+    "id": "SN23670",
+    "name": "E16 RYFOSS",
+    "include": false
+  },
+  {
+    "id": "SN59450",
+    "name": "STADLANDET",
+    "include": false
+  },
+  {
+    "id": "SN12590",
+    "name": "E6 MJ\u00d8SBRUA",
+    "include": false
+  },
+  {
+    "id": "SN26640",
+    "name": "E134 DARBU",
+    "include": false
+  },
+  {
+    "id": "SN67650",
+    "name": "FV30 REITST\u00d8A",
+    "include": false
+  },
+  {
+    "id": "SN18269",
+    "name": "OSLO - HAUGENSTUA",
+    "include": false
+  },
+  {
+    "id": "SN57790",
+    "name": "MYKLEBUSTFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN99895",
+    "name": "KVADEHUKEN II",
+    "include": false
+  },
+  {
+    "id": "SN233100",
+    "name": "HUNGE",
+    "include": false
+  },
+  {
+    "id": "SN61065",
+    "name": "E136 TRESFJORDBRUA",
+    "include": false
+  },
+  {
+    "id": "SN1039300",
+    "name": "LINDENBERG",
+    "include": false
+  },
+  {
+    "id": "SN743400",
+    "name": "LIMOGES-BELLEGARDE",
+    "include": false
+  },
+  {
     "id": "SN27600",
     "name": "SANDEFJORD",
-    "shortName": "Sandefjord",
-    "country": "Norge",
-    "countryCode": "NO",
-    "geometry": {
-        "@type": "Point",
-        "coordinates": [
-            10.2147,
-        59.132
-        ],
-        "nearest": false
-    },
-    "masl": 6,
-    "validFrom": "1936-01-01T00:00:00.000Z",
-    "county": "VESTFOLD OG TELEMARK",
-    "countyId": 38,
-    "municipality": "SANDEFJORD",
-    "municipalityId": 3804,
-    "stationHolders": [
-        "SANDEFJORD KOMMUNE"
-    ],
-    "wigosId": "0-578-0-27600"
-},
-{
-    "@type": "SensorSystem",
+    "include": false
+  },
+  {
     "id": "SN18700",
     "name": "OSLO - BLINDERN",
-    "shortName": "Oslo (Blindern)",
-    "country": "Norge",
-    "countryCode": "NO",
-    "wmoId": 1492,
-    "geometry": {
-        "@type": "Point",
-        "coordinates": [
-            10.72,
-        59.9423
-        ],
-        "nearest": false
-    },
-    "masl": 94,
-    "validFrom": "1931-01-01T00:00:00.000Z",
-    "county": "OSLO",
-    "countyId": 3,
-    "municipality": "OSLO",
-    "municipalityId": 301,
-    "stationHolders": [
-        "MET.NO"
-    ],
-    "externalIds": [
-        "0-20000-0-01492",
-    "0-20001-0-01492",
-    "157.249.0.180:6785"
-    ],
-    "wigosId": "0-20000-0-01492"
-},
-{
-    "@type": "SensorSystem",
+    "include": true
+  },
+  {
     "id": "SN87110",
-    "name": "ANDØYA",
-    "shortName": "Andøya LH",
-    "country": "Norge",
-    "countryCode": "NO",
-    "wmoId": 1010,
-    "geometry": {
-        "@type": "Point",
-        "coordinates": [
-            16.1312,
-        69.3073
-        ],
-        "nearest": false
-    },
-    "masl": 10,
-    "validFrom": "1958-06-01T00:00:00.000Z",
-    "county": "NORDLAND",
-    "countyId": 18,
-    "municipality": "ANDØY",
-    "municipalityId": 1871,
-    "stationHolders": [
-        "AVINOR",
-    "MET.NO"
-    ],
-    "externalIds": [
-        "0-20000-0-01010",
-    "10.249.0.55",
-    "10.249.1.89",
-    "ENAN"
-    ],
-    "icaoCodes": [
-        "ENAN"
-    ],
-    "wigosId": "0-20000-0-01010"
-}
+    "name": "AND\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN40905",
+    "name": "RV9 HOVDEN",
+    "include": false
+  },
+  {
+    "id": "SN27295",
+    "name": "FV307 GRAVDAL",
+    "include": false
+  },
+  {
+    "id": "SN40250",
+    "name": "VALLE",
+    "include": false
+  },
+  {
+    "id": "SN224720",
+    "name": "FORSE",
+    "include": false
+  },
+  {
+    "id": "SN43220",
+    "name": "FV44 S\u00c6LEB\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN19660",
+    "name": "E16 SKUI",
+    "include": false
+  },
+  {
+    "id": "SN18260",
+    "name": "OSLO - H\u00d8YBR\u00c5TEN",
+    "include": false
+  },
+  {
+    "id": "SN49240",
+    "name": "RV13 L\u00c5TEFOSS ",
+    "include": false
+  },
+  {
+    "id": "SN1240000",
+    "name": "ZIELONA GORA",
+    "include": false
+  },
+  {
+    "id": "SN623500",
+    "name": "DE KOOIJ VK",
+    "include": false
+  },
+  {
+    "id": "SN52990",
+    "name": "ORTNEVIK",
+    "include": false
+  },
+  {
+    "id": "SN5350",
+    "name": "NORD-ODAL",
+    "include": false
+  },
+  {
+    "id": "SN76963",
+    "name": "KRISTINFELTET",
+    "include": false
+  },
+  {
+    "id": "SN92170",
+    "name": "OKSFJORD",
+    "include": false
+  },
+  {
+    "id": "SN62240",
+    "name": "E39 L\u00d8NNSET",
+    "include": false
+  },
+  {
+    "id": "SN80740",
+    "name": "REIP\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN226900",
+    "name": "SKAGSUDDE",
+    "include": false
+  },
+  {
+    "id": "SN848200",
+    "name": "MALAGA/AEROPUERTO",
+    "include": true
+  },
+  {
+    "id": "SN27564",
+    "name": "SANDEFJORD - MOSSER\u00d8D",
+    "include": false
+  },
+  {
+    "id": "SN241300",
+    "name": "BRATTMON",
+    "include": false
+  },
+  {
+    "id": "SN1070",
+    "name": "HVALER - BREKKE",
+    "include": false
+  },
+  {
+    "id": "SN1298200",
+    "name": "SZEGED",
+    "include": false
+  },
+  {
+    "id": "SN350200",
+    "name": "ABERPORTH",
+    "include": false
+  },
+  {
+    "id": "SN71230",
+    "name": "FV755 MELTINGEN",
+    "include": false
+  },
+  {
+    "id": "SN26990",
+    "name": "SANDE - GALLEBERG",
+    "include": false
+  },
+  {
+    "id": "SN255700",
+    "name": "HORN",
+    "include": false
+  },
+  {
+    "id": "SN810",
+    "name": "TUFSINGDAL - MIDTDAL",
+    "include": false
+  },
+  {
+    "id": "SN55520",
+    "name": "FV55 INDRE HAFSLO",
+    "include": false
+  },
+  {
+    "id": "SN60670",
+    "name": "FV650 LIABYGDA",
+    "include": false
+  },
+  {
+    "id": "SN63595",
+    "name": "RV70 GR\u00c5URA",
+    "include": false
+  },
+  {
+    "id": "SN90250",
+    "name": "E6 HEIA",
+    "include": false
+  },
+  {
+    "id": "SN76954",
+    "name": "GJ\u00d8AFELTET",
+    "include": false
+  },
+  {
+    "id": "SN242610",
+    "name": "FREDRIKSBERG",
+    "include": false
+  },
+  {
+    "id": "SN76927",
+    "name": "OSEBERG A",
+    "include": false
+  },
+  {
+    "id": "SN34580",
+    "name": "DRANGEDAL-REFSDALSKILEN",
+    "include": false
+  },
+  {
+    "id": "SN76245",
+    "name": "FV17 V\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN26864",
+    "name": "DRAMMEN SYKEHUS",
+    "include": false
+  },
+  {
+    "id": "SN55260",
+    "name": "FV55 HERVAVATN",
+    "include": false
+  },
+  {
+    "id": "SN19830",
+    "name": "FV289 HURUM",
+    "include": false
+  },
+  {
+    "id": "SN44485",
+    "name": "E39 S\u00d8YLAND",
+    "include": false
+  },
+  {
+    "id": "SN76936",
+    "name": "SNORRE B",
+    "include": false
+  },
+  {
+    "id": "SN76999",
+    "name": "SCARABEO 8",
+    "include": false
+  },
+  {
+    "id": "SN231700",
+    "name": "DRAVAGEN",
+    "include": false
+  },
+  {
+    "id": "SN26900",
+    "name": "DRAMMEN - BERSKOG",
+    "include": false
+  },
+  {
+    "id": "SN27214",
+    "name": "V\u00c5LE",
+    "include": false
+  },
+  {
+    "id": "SN20925",
+    "name": "WISTING",
+    "include": false
+  },
+  {
+    "id": "SN19525",
+    "name": "B\u00c6RUMS VERK",
+    "include": false
+  },
+  {
+    "id": "SN50505",
+    "name": "KV5738 NATTLANDSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN79215",
+    "name": "E6 YTTERVIKA",
+    "include": false
+  },
+  {
+    "id": "SN61630",
+    "name": "BJORLI",
+    "include": false
+  },
+  {
+    "id": "SN31700",
+    "name": "FV37 J\u00d8NJILJO",
+    "include": false
+  },
+  {
+    "id": "SN83710",
+    "name": "DRAG - AJLUOKTA",
+    "include": false
+  },
+  {
+    "id": "SN91551",
+    "name": "BIRTAVARRE - HOLMEN",
+    "include": false
+  },
+  {
+    "id": "SN255000",
+    "name": "JONKOPING/AXAMO",
+    "include": false
+  },
+  {
+    "id": "SN50514",
+    "name": "FV555 KROSSLEITET",
+    "include": false
+  },
+  {
+    "id": "SN78910",
+    "name": "FV17 H\u00d8YLANDET",
+    "include": false
+  },
+  {
+    "id": "SN82310",
+    "name": "BOD\u00d8 - SKIVIKA",
+    "include": false
+  },
+  {
+    "id": "SN46432",
+    "name": "R\u00d8LDALSFJELLET - ELVERSHEI",
+    "include": false
+  },
+  {
+    "id": "SN8140",
+    "name": "EVENSTAD",
+    "include": false
+  },
+  {
+    "id": "SN222190",
+    "name": "OLDEN D",
+    "include": false
+  },
+  {
+    "id": "SN217390",
+    "name": "KL\u00d6VERTR\u00c4SK D",
+    "include": false
+  },
+  {
+    "id": "SN268000",
+    "name": "HOBURG",
+    "include": false
+  },
+  {
+    "id": "SN2683200",
+    "name": "LIDA",
+    "include": false
+  },
+  {
+    "id": "SN98648",
+    "name": "RAGNAROKK",
+    "include": false
+  },
+  {
+    "id": "SN244090",
+    "name": "KILAFORS D",
+    "include": false
+  },
+  {
+    "id": "SN27160",
+    "name": "HORTEN II",
+    "include": false
+  },
+  {
+    "id": "SN291300",
+    "name": "KAUHAVA AIRFIELD",
+    "include": false
+  },
+  {
+    "id": "SN15730",
+    "name": "BR\u00c5T\u00c5 - SLETTOM",
+    "include": false
+  },
+  {
+    "id": "SN85450",
+    "name": "SVOLV\u00c6R LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN99868",
+    "name": "ENDALEN",
+    "include": false
+  },
+  {
+    "id": "SN2210600",
+    "name": "PADUN",
+    "include": false
+  },
+  {
+    "id": "SN629000",
+    "name": "TWENTE AWS",
+    "include": false
+  },
+  {
+    "id": "SN1033800",
+    "name": "HANNOVER",
+    "include": false
+  },
+  {
+    "id": "SN85890",
+    "name": "R\u00d8ST LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN47060",
+    "name": "E39 AKSDAL S\u00d8R",
+    "include": false
+  },
+  {
+    "id": "SN99877",
+    "name": "ADVENTDALEN - ICE-WEDGE",
+    "include": false
+  },
+  {
+    "id": "SN39030",
+    "name": "KRISTIANSAND - H\u00c5NES",
+    "include": false
+  },
+  {
+    "id": "SN23500",
+    "name": "L\u00d8KEN I VOLBU",
+    "include": false
+  },
+  {
+    "id": "SN50810",
+    "name": "\u00c5SANE",
+    "include": false
+  },
+  {
+    "id": "SN857100",
+    "name": "PORTALEGRE",
+    "include": false
+  },
+  {
+    "id": "SN4040",
+    "name": "ENEBAKK - BARB\u00d8L",
+    "include": false
+  },
+  {
+    "id": "SN44530",
+    "name": "TJELTA",
+    "include": false
+  },
+  {
+    "id": "SN1193400",
+    "name": "POPRAD/TATRY",
+    "include": false
+  },
+  {
+    "id": "SN1618100",
+    "name": "PERUGIA S. EGIDIO (16181-0)",
+    "include": false
+  },
+  {
+    "id": "SN72710",
+    "name": "OVERHALLA - SKOGMO",
+    "include": false
+  },
+  {
+    "id": "SN58705",
+    "name": "RV15 STRYNEFJELL-KVITENOVA",
+    "include": false
+  },
+  {
+    "id": "SN42520",
+    "name": "RISNES I FJOTLAND",
+    "include": false
+  },
+  {
+    "id": "SN98630",
+    "name": "E75 KOMAGV\u00c6R",
+    "include": false
+  },
+  {
+    "id": "SN59800",
+    "name": "SVIN\u00d8Y FYR",
+    "include": false
+  },
+  {
+    "id": "SN50245",
+    "name": "FV48 TYSSE VEST",
+    "include": false
+  },
+  {
+    "id": "SN1640000",
+    "name": "USTICA",
+    "include": false
+  },
+  {
+    "id": "SN292000",
+    "name": "PIETARSAARI KALLAN",
+    "include": false
+  },
+  {
+    "id": "SN263200",
+    "name": "UTKLIPPAN",
+    "include": false
+  },
+  {
+    "id": "SN52452",
+    "name": "E39 NORDHORDLANDSBRUA",
+    "include": false
+  },
+  {
+    "id": "SN802300",
+    "name": "SANTANDER",
+    "include": false
+  },
+  {
+    "id": "SN23410",
+    "name": "FAGERNES LUFTHAMN",
+    "include": false
+  },
+  {
+    "id": "SN1666700",
+    "name": "MYTILINI (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN59665",
+    "name": "VOLDA BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN50110",
+    "name": "KVAM - AKSNESET",
+    "include": false
+  },
+  {
+    "id": "SN12680",
+    "name": "LILLEHAMMER - S\u00c6THERENGEN",
+    "include": false
+  },
+  {
+    "id": "SN99841",
+    "name": "SVALBARD LH - PLAT\u00c5BERGET",
+    "include": false
+  },
+  {
+    "id": "SN99500",
+    "name": "SKOGFOSS",
+    "include": false
+  },
+  {
+    "id": "SN2200300",
+    "name": "VAJDA-GUBA",
+    "include": false
+  },
+  {
+    "id": "SN64510",
+    "name": "TINGVOLL",
+    "include": false
+  },
+  {
+    "id": "SN1070800",
+    "name": "SAARBRUECKEN/ENSHEIM",
+    "include": false
+  },
+  {
+    "id": "SN17650",
+    "name": "E6 VESTBY",
+    "include": false
+  },
+  {
+    "id": "SN830600",
+    "name": "PALMA DE MALLORCA/SON SAN JUAN",
+    "include": false
+  },
+  {
+    "id": "SN42810",
+    "name": "TONSTAD - NETTFED",
+    "include": false
+  },
+  {
+    "id": "SN30330",
+    "name": "GJERPEN - \u00c5RHUS",
+    "include": false
+  },
+  {
+    "id": "SN51010",
+    "name": "FOSSMARK",
+    "include": false
+  },
+  {
+    "id": "SN3370",
+    "name": "\u00d8SAKER",
+    "include": false
+  },
+  {
+    "id": "SN1277200",
+    "name": "MISKOLC",
+    "include": false
+  },
+  {
+    "id": "SN99090",
+    "name": "E6 GANDVIKBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN44730",
+    "name": "SANDNES - ROVIK",
+    "include": false
+  },
+  {
+    "id": "SN1213500",
+    "name": "HEL",
+    "include": false
+  },
+  {
+    "id": "SN4590",
+    "name": "E16 ROMERIKS\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN71385",
+    "name": "FV715 HOGSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN51800",
+    "name": "MJ\u00d8LFJELL UH",
+    "include": false
+  },
+  {
+    "id": "SN31900",
+    "name": "TUDDAL",
+    "include": false
+  },
+  {
+    "id": "SN255200",
+    "name": "MALEXANDER",
+    "include": false
+  },
+  {
+    "id": "SN57380",
+    "name": "RV5 LUNDEBOTN",
+    "include": false
+  },
+  {
+    "id": "SN17895",
+    "name": "E18 SVARTSKOG",
+    "include": false
+  },
+  {
+    "id": "SN56420",
+    "name": "FURENESET",
+    "include": false
+  },
+  {
+    "id": "SN240890",
+    "name": "SVANEHOLM D",
+    "include": false
+  },
+  {
+    "id": "SN80707",
+    "name": "GLOMFJORD - TVERRFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN99862",
+    "name": "BREINOSA - BLOCKFIELD PLATEAU",
+    "include": false
+  },
+  {
+    "id": "SN59695",
+    "name": "\u00d8RSTA - EITREFJELL",
+    "include": false
+  },
+  {
+    "id": "SN91150",
+    "name": "LYNGEN - URA",
+    "include": false
+  },
+  {
+    "id": "SN18317",
+    "name": "OSLO - ELVEBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN1022400",
+    "name": "BREMEN",
+    "include": false
+  },
+  {
+    "id": "SN70820",
+    "name": "UTG\u00c5RD",
+    "include": false
+  },
+  {
+    "id": "SN3280",
+    "name": "RAKKESTAD - SANDER",
+    "include": false
+  },
+  {
+    "id": "SN292900",
+    "name": "LIPERI JOENSUU AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN91500",
+    "name": "NORDNESFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN16271",
+    "name": "H\u00d8VRINGEN II",
+    "include": false
+  },
+  {
+    "id": "SN44640",
+    "name": "STAVANGER - V\u00c5LAND",
+    "include": false
+  },
+  {
+    "id": "SN26580",
+    "name": "DRAMMEN - BANGEL\u00d8KKA",
+    "include": false
+  },
+  {
+    "id": "SN47260",
+    "name": "HAUGESUND LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN61310",
+    "name": "FV63 TROLLSTIGEN",
+    "include": false
+  },
+  {
+    "id": "SN53280",
+    "name": "E16 FL\u00c5M",
+    "include": false
+  },
+  {
+    "id": "SN71780",
+    "name": "\u00c5FJORD II",
+    "include": false
+  },
+  {
+    "id": "SN65060",
+    "name": "E39 VALS\u00d8YFJORDEN",
+    "include": false
+  },
+  {
+    "id": "SN29720",
+    "name": "DAGALI LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN94640",
+    "name": "E69 NORDKAPP",
+    "include": false
+  },
+  {
+    "id": "SN62270",
+    "name": "MOLDE LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN1327200",
+    "name": "BEOGRAD/SURCIN",
+    "include": false
+  },
+  {
+    "id": "SN72650",
+    "name": "OVERHALLA - UNNSET",
+    "include": false
+  },
+  {
+    "id": "SN37310",
+    "name": "GRYT\u00c5I",
+    "include": false
+  },
+  {
+    "id": "SN1016200",
+    "name": "SCHWERIN",
+    "include": false
+  },
+  {
+    "id": "SN54590",
+    "name": "E16 HONING BRU",
+    "include": false
+  },
+  {
+    "id": "SN306600",
+    "name": "KINLOSS",
+    "include": false
+  },
+  {
+    "id": "SN30285",
+    "name": "SKIEN - BORGE\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN27262",
+    "name": "T\u00d8NSBERG - KARLSVIK",
+    "include": false
+  },
+  {
+    "id": "SN224400",
+    "name": "JUNSELE",
+    "include": false
+  },
+  {
+    "id": "SN223000",
+    "name": "GUBBHOGEN",
+    "include": false
+  },
+  {
+    "id": "SN1258000",
+    "name": "RZESZOW-JASIONKA",
+    "include": false
+  },
+  {
+    "id": "SN13750",
+    "name": "\u00d8VRE HEIMDALSVATN",
+    "include": false
+  },
+  {
+    "id": "SN99763",
+    "name": "REINDALSPASSET",
+    "include": false
+  },
+  {
+    "id": "SN19923",
+    "name": "E18 LIERSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN54330",
+    "name": "E16 BORGUND",
+    "include": false
+  },
+  {
+    "id": "SN52930",
+    "name": "BREKKE I SOGN",
+    "include": false
+  },
+  {
+    "id": "SN46300",
+    "name": "SULDALSVATN",
+    "include": false
+  },
+  {
+    "id": "SN231990",
+    "name": "MARBY D",
+    "include": false
+  },
+  {
+    "id": "SN223090",
+    "name": "KYRKT\u00c5SJ\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN1632000",
+    "name": "BRINDISI",
+    "include": false
+  },
+  {
+    "id": "SN88010",
+    "name": "E6 GRATANGSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN20470",
+    "name": "E16 BEKKEHALLUM",
+    "include": false
+  },
+  {
+    "id": "SN19815",
+    "name": "FV281 STORSAND HURUM",
+    "include": false
+  },
+  {
+    "id": "SN99880",
+    "name": "PYRAMIDEN",
+    "include": false
+  },
+  {
+    "id": "SN397000",
+    "name": "CLAREMORRIS",
+    "include": false
+  },
+  {
+    "id": "SN90630",
+    "name": "FV863 GAMNES",
+    "include": false
+  },
+  {
+    "id": "SN224310",
+    "name": "BACKE D",
+    "include": false
+  },
+  {
+    "id": "SN1653900",
+    "name": "CAPO FRASCA",
+    "include": false
+  },
+  {
+    "id": "SN47170",
+    "name": "NORHEIM",
+    "include": false
+  },
+  {
+    "id": "SN27271",
+    "name": "T\u00d8NSBERG GJESTEHAVN",
+    "include": false
+  },
+  {
+    "id": "SN87750",
+    "name": "GAUSVIK",
+    "include": false
+  },
+  {
+    "id": "SN26840",
+    "name": "KROKSTADELVA - LANGEL\u00d8KKA",
+    "include": false
+  },
+  {
+    "id": "SN96650",
+    "name": "FV98 IFJORDFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN401800",
+    "name": "KEFLAVIKURFLUGVOLLUR",
+    "include": false
+  },
+  {
+    "id": "SN47610",
+    "name": "BASURA",
+    "include": false
+  },
+  {
+    "id": "SN79720",
+    "name": "LAPPS\u00c6TRA",
+    "include": false
+  },
+  {
+    "id": "SN8780",
+    "name": "LI BRU",
+    "include": false
+  },
+  {
+    "id": "SN12180",
+    "name": "ILSENG",
+    "include": false
+  },
+  {
+    "id": "SN68290",
+    "name": "SELBU II",
+    "include": false
+  },
+  {
+    "id": "SN729200",
+    "name": "LUXEUIL",
+    "include": false
+  },
+  {
+    "id": "SN212620",
+    "name": "BLAIKEN D",
+    "include": false
+  },
+  {
+    "id": "SN90495",
+    "name": "STAKKEVOLLAN",
+    "include": false
+  },
+  {
+    "id": "SN33300",
+    "name": "HONNEGRASNUTEN",
+    "include": false
+  },
+  {
+    "id": "SN99754",
+    "name": "HORNSUND",
+    "include": false
+  },
+  {
+    "id": "SN66630",
+    "name": "FV700 VOLL",
+    "include": false
+  },
+  {
+    "id": "SN27800",
+    "name": "HEDRUM",
+    "include": false
+  },
+  {
+    "id": "SN18245",
+    "name": "OSLO - AMMERUD",
+    "include": false
+  },
+  {
+    "id": "SN77280",
+    "name": "LAKSFORS",
+    "include": false
+  },
+  {
+    "id": "SN76939",
+    "name": "VALHALL A",
+    "include": false
+  },
+  {
+    "id": "SN27540",
+    "name": "SANDEFJORD - GJEKSTAD",
+    "include": false
+  },
+  {
+    "id": "SN56250",
+    "name": "E39 \u00c5BERGSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN19510",
+    "name": "\u00d8VREVOLL",
+    "include": false
+  },
+  {
+    "id": "SN76957",
+    "name": "TROLL B",
+    "include": false
+  },
+  {
+    "id": "SN26894",
+    "name": "DRAMMEN - GULSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN55290",
+    "name": "SOGNEFJELLHYTTA",
+    "include": false
+  },
+  {
+    "id": "SN296300",
+    "name": "JOKIOINEN OBSERVATORY",
+    "include": false
+  },
+  {
+    "id": "SN60870",
+    "name": "SULA - LANGEV\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN50526",
+    "name": "RV555 SOTRABRUA VIND",
+    "include": false
+  },
+  {
+    "id": "SN3317700",
+    "name": "Volodymyr-Volynskyi",
+    "include": false
+  },
+  {
+    "id": "SN19932",
+    "name": "GLITREVANN",
+    "include": false
+  },
+  {
+    "id": "SN39212",
+    "name": "E39 FIDJANE",
+    "include": false
+  },
+  {
+    "id": "SN26230",
+    "name": "FV287 SANDSBR\u00c5TEN",
+    "include": false
+  },
+  {
+    "id": "SN2210100",
+    "name": "YANISKOSKI",
+    "include": false
+  },
+  {
+    "id": "SN27450",
+    "name": "MELSOM",
+    "include": false
+  },
+  {
+    "id": "SN76930",
+    "name": "NORNE",
+    "include": false
+  },
+  {
+    "id": "SN251800",
+    "name": "NIDINGEN",
+    "include": false
+  },
+  {
+    "id": "SN98265",
+    "name": "FV890 GEDNJE",
+    "include": false
+  },
+  {
+    "id": "SN63580",
+    "name": "\u00c5NG\u00c5RDSVATNET",
+    "include": false
+  },
+  {
+    "id": "SN90980",
+    "name": "OLDERVIK",
+    "include": false
+  },
+  {
+    "id": "SN58780",
+    "name": "NORDFJORDEID - NYMARK",
+    "include": false
+  },
+  {
+    "id": "SN99790",
+    "name": "ISFJORD RADIO",
+    "include": false
+  },
+  {
+    "id": "SN55550",
+    "name": "HAFSLO",
+    "include": false
+  },
+  {
+    "id": "SN244120",
+    "name": "LEKSAND",
+    "include": false
+  },
+  {
+    "id": "SN42720",
+    "name": "BAKKE",
+    "include": false
+  },
+  {
+    "id": "SN97251",
+    "name": "KARASJOK - MARKANNJARGA",
+    "include": false
+  },
+  {
+    "id": "SN227190",
+    "name": "HOLMFORS D",
+    "include": false
+  },
+  {
+    "id": "SN264800",
+    "name": "VAXJO",
+    "include": false
+  },
+  {
+    "id": "SN83300",
+    "name": "STEIGEN",
+    "include": false
+  },
+  {
+    "id": "SN85480",
+    "name": "E10 GIMS\u00d8YSTRAUMEN BRU",
+    "include": false
+  },
+  {
+    "id": "SN97350",
+    "name": "CUOVDDATMOHKKI",
+    "include": false
+  },
+  {
+    "id": "SN1227200",
+    "name": "OLSZTYN",
+    "include": false
+  },
+  {
+    "id": "SN88100",
+    "name": "BONES I BARDU",
+    "include": false
+  },
+  {
+    "id": "SN310000",
+    "name": "TIREE",
+    "include": false
+  },
+  {
+    "id": "SN57150",
+    "name": "E39 HALBRENDSLIA",
+    "include": false
+  },
+  {
+    "id": "SN34370",
+    "name": "E18 FARSJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN713000",
+    "name": "RENNES-SAINT JACQUES",
+    "include": false
+  },
+  {
+    "id": "SN73550",
+    "name": "GARTLAND",
+    "include": false
+  },
+  {
+    "id": "SN88623",
+    "name": "STEINFJORD",
+    "include": false
+  },
+  {
+    "id": "SN27435",
+    "name": "N\u00d8TTER\u00d8Y - VESTSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN19405",
+    "name": "B\u00c6RUM - STOR\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN307500",
+    "name": "WICK AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN67270",
+    "name": "E6 SOKNEDAL",
+    "include": false
+  },
+  {
+    "id": "SN27785",
+    "name": "E18 R\u00d8DB\u00d8L",
+    "include": false
+  },
+  {
+    "id": "SN27130",
+    "name": "FV310 KOTTERUD",
+    "include": false
+  },
+  {
+    "id": "SN202000",
+    "name": "KATTERJAKK",
+    "include": false
+  },
+  {
+    "id": "SN96850",
+    "name": "TANA BRU",
+    "include": false
+  },
+  {
+    "id": "SN57365",
+    "name": "E39 VASSENDEN",
+    "include": false
+  },
+  {
+    "id": "SN13125",
+    "name": "E6 TINGBERG",
+    "include": false
+  },
+  {
+    "id": "SN763000",
+    "name": "TOULOUSE BLAGNAC",
+    "include": false
+  },
+  {
+    "id": "SN2202800",
+    "name": "TERIBERKA",
+    "include": false
+  },
+  {
+    "id": "SN96931",
+    "name": "POLMAK TOLLSTED",
+    "include": false
+  },
+  {
+    "id": "SN46150",
+    "name": "SAND I RYFYLKE II",
+    "include": false
+  },
+  {
+    "id": "SN8720",
+    "name": "ATNSJ\u00d8EN",
+    "include": false
+  },
+  {
+    "id": "SN68230",
+    "name": "TRONDHEIM - RISVOLLAN",
+    "include": false
+  },
+  {
+    "id": "SN29400",
+    "name": "SANDHAUG",
+    "include": false
+  },
+  {
+    "id": "SN261600",
+    "name": "FALSTERBO",
+    "include": false
+  },
+  {
+    "id": "SN30270",
+    "name": "PORSGRUNN - KJ\u00d8LNES",
+    "include": false
+  },
+  {
+    "id": "SN80880",
+    "name": "SANDHORN\u00d8YA - V\u00c5TVIKFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN70850",
+    "name": "SN\u00c5SA - KJEVLIA",
+    "include": false
+  },
+  {
+    "id": "SN91530",
+    "name": "GAMANJUNNI",
+    "include": false
+  },
+  {
+    "id": "SN802700",
+    "name": "SAN SEBASTIAN/IGUELDO",
+    "include": false
+  },
+  {
+    "id": "SN228790",
+    "name": "V\u00c4NN\u00c4S D",
+    "include": false
+  },
+  {
+    "id": "SN253920",
+    "name": "K\u00c4LLSJ\u00d6",
+    "include": false
+  },
+  {
+    "id": "SN42490",
+    "name": "FV42 HADDELANDSHEIA",
+    "include": false
+  },
+  {
+    "id": "SN284900",
+    "name": "SALLA KK MYLLYTIE",
+    "include": false
+  },
+  {
+    "id": "SN283500",
+    "name": "INARI NELLIM",
+    "include": false
+  },
+  {
+    "id": "SN48070",
+    "name": "E39 STORDABRUA",
+    "include": false
+  },
+  {
+    "id": "SN206405",
+    "name": "SAITTAROVA D",
+    "include": false
+  },
+  {
+    "id": "SN256540",
+    "name": "OSKARSHAMN",
+    "include": false
+  },
+  {
+    "id": "SN19710",
+    "name": "ASKER",
+    "include": false
+  },
+  {
+    "id": "SN232980",
+    "name": "LOBON\u00c4S D",
+    "include": false
+  },
+  {
+    "id": "SN69190",
+    "name": "RV705 SELBUSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN1650",
+    "name": "STR\u00d8MSFOSS SLUSE",
+    "include": false
+  },
+  {
+    "id": "SN297900",
+    "name": "KOKAR BOGSKAR",
+    "include": false
+  },
+  {
+    "id": "SN702700",
+    "name": "CAEN-CARPIQUET",
+    "include": false
+  },
+  {
+    "id": "SN240830",
+    "name": "BENGTSFORS D",
+    "include": false
+  },
+  {
+    "id": "SN43010",
+    "name": "EIK - HOVE",
+    "include": false
+  },
+  {
+    "id": "SN262910",
+    "name": "MARKARYD",
+    "include": false
+  },
+  {
+    "id": "SN89233",
+    "name": "FV86 ANDSVANNET",
+    "include": false
+  },
+  {
+    "id": "SN228700",
+    "name": "HOLMON",
+    "include": false
+  },
+  {
+    "id": "SN81930",
+    "name": "STORSTILLA",
+    "include": false
+  },
+  {
+    "id": "SN252000",
+    "name": "SATENAS",
+    "include": false
+  },
+  {
+    "id": "SN6003000",
+    "name": "LAS PALMAS DE GRAN CANARIA/GANDO",
+    "include": false
+  },
+  {
+    "id": "SN91180",
+    "name": "LENANGSSTRAUMEN",
+    "include": false
+  },
+  {
+    "id": "SN15951",
+    "name": "RV15 BREIDALEN II",
+    "include": false
+  },
+  {
+    "id": "SN16265",
+    "name": "E6 ROSTEN",
+    "include": false
+  },
+  {
+    "id": "SN48061",
+    "name": "FV542 BREMNES",
+    "include": false
+  },
+  {
+    "id": "SN297200",
+    "name": "TURKU AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN2280200",
+    "name": "SORTAVALA",
+    "include": false
+  },
+  {
+    "id": "SN9303",
+    "name": "E6 HJERKINN",
+    "include": false
+  },
+  {
+    "id": "SN201300",
+    "name": "RITSEM",
+    "include": false
+  },
+  {
+    "id": "SN626000",
+    "name": "DE BILT AWS",
+    "include": false
+  },
+  {
+    "id": "SN3480",
+    "name": "E18 MELLEBY",
+    "include": false
+  },
+  {
+    "id": "SN1054800",
+    "name": "MEININGEN",
+    "include": false
+  },
+  {
+    "id": "SN91727",
+    "name": "ARN\u00d8YHAMN",
+    "include": false
+  },
+  {
+    "id": "SN71810",
+    "name": "\u00c5FJORD - MOMYR",
+    "include": false
+  },
+  {
+    "id": "SN26780",
+    "name": "SOLBERGELVA - OLLEVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN647900",
+    "name": "KLEINE BROGEL",
+    "include": false
+  },
+  {
+    "id": "SN251300",
+    "name": "GOTEBORG",
+    "include": false
+  },
+  {
+    "id": "SN857500",
+    "name": "BRAGANCA (8575-0)",
+    "include": false
+  },
+  {
+    "id": "SN44580",
+    "name": "STAVANGER - MADLA",
+    "include": false
+  },
+  {
+    "id": "SN4781",
+    "name": "GARDERMOEN S\u00d8R",
+    "include": false
+  },
+  {
+    "id": "SN59680",
+    "name": "\u00d8RSTA-VOLDA LUFTHAMN",
+    "include": false
+  },
+  {
+    "id": "SN45675",
+    "name": "RV13 \u00c5RDAL",
+    "include": false
+  },
+  {
+    "id": "SN209590",
+    "name": "T\u00c4REND\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN1724000",
+    "name": "ISPARTA",
+    "include": false
+  },
+  {
+    "id": "SN78350",
+    "name": "BARDAL",
+    "include": false
+  },
+  {
+    "id": "SN39520",
+    "name": "RV9 MOISUND",
+    "include": false
+  },
+  {
+    "id": "SN374600",
+    "name": "BOSCOMBE DOWN",
+    "include": false
+  },
+  {
+    "id": "SN41090",
+    "name": "MANDAL III",
+    "include": false
+  },
+  {
+    "id": "SN280100",
+    "name": "ENONTEKIO KILPISJARVI",
+    "include": false
+  },
+  {
+    "id": "SN3005",
+    "name": "E6 INGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN211905",
+    "name": "KVIKKJOKK-\u00c5RRENJARKA",
+    "include": false
+  },
+  {
+    "id": "SN99380",
+    "name": "KIRKENES LUFTHAVN - H\u00d8YDE 212",
+    "include": false
+  },
+  {
+    "id": "SN60640",
+    "name": "VALLDAL - MURI",
+    "include": false
+  },
+  {
+    "id": "SN92750",
+    "name": "HASVIK LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN1031500",
+    "name": "MUENSTER/OSNABRUECK",
+    "include": false
+  },
+  {
+    "id": "SN1250000",
+    "name": "JELENIA GORA",
+    "include": false
+  },
+  {
+    "id": "SN44562",
+    "name": "ULLANDHAUG",
+    "include": false
+  },
+  {
+    "id": "SN23550",
+    "name": "BEITOST\u00d8LEN II",
+    "include": false
+  },
+  {
+    "id": "SN86290",
+    "name": "GIMS\u00d8Y - \u00c5RRSTRANDA",
+    "include": false
+  },
+  {
+    "id": "SN26852",
+    "name": "DRAMMEN - BRAGERNES SKOLE",
+    "include": false
+  },
+  {
+    "id": "SN53480",
+    "name": "KLEVAVATNET",
+    "include": false
+  },
+  {
+    "id": "SN46850",
+    "name": "HUNDSEID I VIKEDAL",
+    "include": false
+  },
+  {
+    "id": "SN30288",
+    "name": "SKIEN - KJ\u00d8RBEKKSVINGEN",
+    "include": false
+  },
+  {
+    "id": "SN30261",
+    "name": "PORSGRUNN",
+    "include": false
+  },
+  {
+    "id": "SN226520",
+    "name": "BREDBYN D",
+    "include": false
+  },
+  {
+    "id": "SN218490",
+    "name": "SKR\u00d6VEN D",
+    "include": false
+  },
+  {
+    "id": "SN3300800",
+    "name": "BREST",
+    "include": false
+  },
+  {
+    "id": "SN76780",
+    "name": "SANDNESSJ\u00d8EN - \u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN32540",
+    "name": "RV36 ULEFOSS",
+    "include": false
+  },
+  {
+    "id": "SN25165",
+    "name": "RV52 HEMSEDALSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN12210",
+    "name": "ARSTADTAJET",
+    "include": false
+  },
+  {
+    "id": "SN32890",
+    "name": "H\u00d8YDALSMO II",
+    "include": false
+  },
+  {
+    "id": "SN60945",
+    "name": "\u00c5LESUND IV",
+    "include": false
+  },
+  {
+    "id": "SN69100",
+    "name": "V\u00c6RNES",
+    "include": false
+  },
+  {
+    "id": "SN292400",
+    "name": "AHTARI MYLLYMAKI",
+    "include": false
+  },
+  {
+    "id": "SN210200",
+    "name": "STEKENJOKK",
+    "include": false
+  },
+  {
+    "id": "SN68840",
+    "name": "STUGUDAL - K\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN24600",
+    "name": "GRIMELI I KR\u00d8DSHERAD",
+    "include": false
+  },
+  {
+    "id": "SN81365",
+    "name": "GJ\u00d8MMERVATNET",
+    "include": false
+  },
+  {
+    "id": "SN60810",
+    "name": "LEBERGSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN99990",
+    "name": "TROLL I ANTARKTIS",
+    "include": false
+  },
+  {
+    "id": "SN37600",
+    "name": "FV355 VEUM",
+    "include": false
+  },
+  {
+    "id": "SN266400",
+    "name": "RONNEBY-BREDAKRA",
+    "include": false
+  },
+  {
+    "id": "SN53160",
+    "name": "JORDALEN - N\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN30282",
+    "name": "SKIEN - R\u00d8DMYRLIA",
+    "include": false
+  },
+  {
+    "id": "SN29600",
+    "name": "TUNHOVD",
+    "include": false
+  },
+  {
+    "id": "SN631000",
+    "name": "VLISSINGEN AWS",
+    "include": false
+  },
+  {
+    "id": "SN18170",
+    "name": "OSLO - \u00d8STENSJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN11450",
+    "name": "MINNESUND JERNBANESTASJON",
+    "include": false
+  },
+  {
+    "id": "SN29950",
+    "name": "SVENNER FYR",
+    "include": false
+  },
+  {
+    "id": "SN67560",
+    "name": "KOTS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN70960",
+    "name": "E6 SN\u00c5SA",
+    "include": false
+  },
+  {
+    "id": "SN59530",
+    "name": "FV61 KVILEHYTTA",
+    "include": false
+  },
+  {
+    "id": "SN244000",
+    "name": "AMOT",
+    "include": false
+  },
+  {
+    "id": "SN271400",
+    "name": "VAALA PELSO",
+    "include": false
+  },
+  {
+    "id": "SN1077600",
+    "name": "REGENSBURG",
+    "include": false
+  },
+  {
+    "id": "SN34095",
+    "name": "E18 STOKKEBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN1711200",
+    "name": "CANAKKALE",
+    "include": false
+  },
+  {
+    "id": "SN61064",
+    "name": "VESTNES - R\u00c5DHUSET",
+    "include": false
+  },
+  {
+    "id": "SN203600",
+    "name": "NIKKALUOKTA",
+    "include": false
+  },
+  {
+    "id": "SN808400",
+    "name": "LOGRONO/AGONCILLO",
+    "include": false
+  },
+  {
+    "id": "SN1642000",
+    "name": "MESSINA",
+    "include": false
+  },
+  {
+    "id": "SN26810",
+    "name": "HOKKSUND - LOE",
+    "include": false
+  },
+  {
+    "id": "SN1255000",
+    "name": "CZESTOCHOWA",
+    "include": false
+  },
+  {
+    "id": "SN30246",
+    "name": "E18 PAULER",
+    "include": false
+  },
+  {
+    "id": "SN88626",
+    "name": "SENJAHOPEN",
+    "include": false
+  },
+  {
+    "id": "SN644700",
+    "name": "UCCLE",
+    "include": false
+  },
+  {
+    "id": "SN67210",
+    "name": "E6 HORG",
+    "include": false
+  },
+  {
+    "id": "SN81915",
+    "name": "SULITJELMA - FAGERLI",
+    "include": false
+  },
+  {
+    "id": "SN32220",
+    "name": "LIFJELL - \u00d8YSTEINNATTEN",
+    "include": false
+  },
+  {
+    "id": "SN75410",
+    "name": "NORD\u00d8YAN FYR",
+    "include": false
+  },
+  {
+    "id": "SN27770",
+    "name": "STOKKE - SOLLI",
+    "include": false
+  },
+  {
+    "id": "SN18215",
+    "name": "OSLO - BROBEKK",
+    "include": false
+  },
+  {
+    "id": "SN90510",
+    "name": "TROMSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN48450",
+    "name": "HUSNES",
+    "include": false
+  },
+  {
+    "id": "SN1523500",
+    "name": "FAGARAS",
+    "include": false
+  },
+  {
+    "id": "SN241820",
+    "name": "KRISTINEHAMN",
+    "include": false
+  },
+  {
+    "id": "SN40420",
+    "name": "BYKLE - KULTRAN",
+    "include": false
+  },
+  {
+    "id": "SN1009100",
+    "name": "ARKONA",
+    "include": false
+  },
+  {
+    "id": "SN88500",
+    "name": "GRYLLEFJORD",
+    "include": false
+  },
+  {
+    "id": "SN79600",
+    "name": "MO I RANA LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN82220",
+    "name": "RV80 HUNSTAD",
+    "include": false
+  },
+  {
+    "id": "SN822100",
+    "name": "MADRID/BARAJAS",
+    "include": false
+  },
+  {
+    "id": "SN1223500",
+    "name": "CHOJNICE",
+    "include": false
+  },
+  {
+    "id": "SN248190",
+    "name": "V\u00c4STER\u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN41990",
+    "name": "E39 VATLAND",
+    "include": false
+  },
+  {
+    "id": "SN94870",
+    "name": "OLDERFJORD",
+    "include": false
+  },
+  {
+    "id": "SN27330",
+    "name": "T\u00d8NSBERG - TARANR\u00d8D",
+    "include": false
+  },
+  {
+    "id": "SN49087",
+    "name": "FOLGEFONNA SKISENTER TOPP",
+    "include": false
+  },
+  {
+    "id": "SN27420",
+    "name": "TJ\u00d8ME",
+    "include": false
+  },
+  {
+    "id": "SN57000",
+    "name": "F\u00d8RDE LH - BRINGELAND",
+    "include": false
+  },
+  {
+    "id": "SN258400",
+    "name": "GOTSKA SANDON",
+    "include": false
+  },
+  {
+    "id": "SN47445",
+    "name": "E39 SVEIO",
+    "include": false
+  },
+  {
+    "id": "SN68125",
+    "name": "SVERRESBORG",
+    "include": false
+  },
+  {
+    "id": "SN86598",
+    "name": "STOKMARKNES LH - VEST",
+    "include": false
+  },
+  {
+    "id": "SN98360",
+    "name": "B\u00c5TSFJORD - STRAUMSNESAKSLA",
+    "include": false
+  },
+  {
+    "id": "SN13110",
+    "name": "E6 F\u00c5BERG",
+    "include": false
+  },
+  {
+    "id": "SN11710",
+    "name": "EINAVATN",
+    "include": false
+  },
+  {
+    "id": "SN1624200",
+    "name": "ROMA/FIUMICINO",
+    "include": false
+  },
+  {
+    "id": "SN294700",
+    "name": "MIKKELI AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN77007",
+    "name": "KRISTINE BONNEVIE",
+    "include": false
+  },
+  {
+    "id": "SN261845",
+    "name": "HALMSTAD",
+    "include": false
+  },
+  {
+    "id": "SN77043",
+    "name": "DEEPSEA NORDKAPP",
+    "include": false
+  },
+  {
+    "id": "SN28380",
+    "name": "KONGSBERG BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN47194",
+    "name": "SKUDENES UNGDOMSSKOLE",
+    "include": false
+  },
+  {
+    "id": "SN298100",
+    "name": "PARAINEN UTO",
+    "include": false
+  },
+  {
+    "id": "SN718000",
+    "name": "NANCY-ESSEY",
+    "include": false
+  },
+  {
+    "id": "SN222100",
+    "name": "KORSVATTNET",
+    "include": false
+  },
+  {
+    "id": "SN30255",
+    "name": "PORSGRUNN - \u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN220700",
+    "name": "STORLIEN-STORVALLEN A",
+    "include": false
+  },
+  {
+    "id": "SN1196800",
+    "name": "KOSICE",
+    "include": false
+  },
+  {
+    "id": "SN55430",
+    "name": "JOSTEDALEN - MJ\u00d8LVERSGRENDI",
+    "include": false
+  },
+  {
+    "id": "SN30650",
+    "name": "NOTODDEN LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN38150",
+    "name": "E18 INNTJORHEIA",
+    "include": false
+  },
+  {
+    "id": "SN17820",
+    "name": "E6 N\u00d8STVET",
+    "include": false
+  },
+  {
+    "id": "SN261800",
+    "name": "TORUP",
+    "include": false
+  },
+  {
+    "id": "SN91380",
+    "name": "SKIBOTN II",
+    "include": false
+  },
+  {
+    "id": "SN18233",
+    "name": "OSLO - NYLAND",
+    "include": false
+  },
+  {
+    "id": "SN44520",
+    "name": "HELLAND I GJESDAL",
+    "include": false
+  },
+  {
+    "id": "SN46090",
+    "name": "RV13 EIANE",
+    "include": false
+  },
+  {
+    "id": "SN245615",
+    "name": "FILMS KYRKBY",
+    "include": false
+  },
+  {
+    "id": "SN1542000",
+    "name": "BUCURESTI BANEASA",
+    "include": false
+  },
+  {
+    "id": "SN44610",
+    "name": "KVITS\u00d8Y - NORDB\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN55735",
+    "name": "RV5 FRUDALEN",
+    "include": false
+  },
+  {
+    "id": "SN17775",
+    "name": "FAGERSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN64330",
+    "name": "KRISTIANSUND LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN39200",
+    "name": "KRISTIANSAND - KVADRATUREN",
+    "include": false
+  },
+  {
+    "id": "SN262500",
+    "name": "SKILLINGE",
+    "include": false
+  },
+  {
+    "id": "SN71750",
+    "name": "BREIVOLL",
+    "include": false
+  },
+  {
+    "id": "SN31520",
+    "name": "GROSET",
+    "include": false
+  },
+  {
+    "id": "SN63630",
+    "name": "TROLLHEIMEN - STORHORNET",
+    "include": false
+  },
+  {
+    "id": "SN24890",
+    "name": "NESBYEN - TODOKK",
+    "include": false
+  },
+  {
+    "id": "SN1615300",
+    "name": "CAPO MELE",
+    "include": false
+  },
+  {
+    "id": "SN82130",
+    "name": "RV80 NORDVIKA",
+    "include": false
+  },
+  {
+    "id": "SN275500",
+    "name": "YLIVIESKA AIRFIELD",
+    "include": false
+  },
+  {
+    "id": "SN77034",
+    "name": "FAUSKANE",
+    "include": false
+  },
+  {
+    "id": "SN51940",
+    "name": "E16 VINJE VEST",
+    "include": false
+  },
+  {
+    "id": "SN618000",
+    "name": "KOEBENHAVNS LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN40510",
+    "name": "BL\u00c5SJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN202900",
+    "name": "TARFALA",
+    "include": false
+  },
+  {
+    "id": "SN91120",
+    "name": "LYNGEN - GJERDELVDALEN",
+    "include": false
+  },
+  {
+    "id": "SN64590",
+    "name": "FV65 \u00d8VRE RINDAL",
+    "include": false
+  },
+  {
+    "id": "SN1674900",
+    "name": "RHODES (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN12960",
+    "name": "SJUSJ\u00d8EN - STOR\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN280500",
+    "name": "UTSJOKI KEVO",
+    "include": false
+  },
+  {
+    "id": "SN50570",
+    "name": "SKREDDERDALEN",
+    "include": false
+  },
+  {
+    "id": "SN214710",
+    "name": "MAL\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN54320",
+    "name": "BORGUND - LO",
+    "include": false
+  },
+  {
+    "id": "SN64970",
+    "name": "FV65 NORDMARKA I SURNADAL",
+    "include": false
+  },
+  {
+    "id": "SN3352600",
+    "name": "Ivano-Frankivsk",
+    "include": false
+  },
+  {
+    "id": "SN76965",
+    "name": "OSEBERG C",
+    "include": false
+  },
+  {
+    "id": "SN99700",
+    "name": "BJ\u00d8RN\u00d8YA RADIOSONDESTASJON",
+    "include": false
+  },
+  {
+    "id": "SN1151800",
+    "name": "PRAHA/RUZYNE",
+    "include": false
+  },
+  {
+    "id": "SN31855",
+    "name": "E134 AMBJ\u00d8RNDALEN",
+    "include": false
+  },
+  {
+    "id": "SN17850",
+    "name": "\u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN57030",
+    "name": "FV609 HOLMEDAL VEST",
+    "include": false
+  },
+  {
+    "id": "SN27261",
+    "name": "T\u00d8NSBERG - VALL\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN91060",
+    "name": "SJURSNES",
+    "include": false
+  },
+  {
+    "id": "SN245600",
+    "name": "FILM",
+    "include": false
+  },
+  {
+    "id": "SN37570",
+    "name": "BORS\u00c6",
+    "include": false
+  },
+  {
+    "id": "SN242370",
+    "name": "\u00d6STMARK-\u00c5SARNA",
+    "include": false
+  },
+  {
+    "id": "SN211040",
+    "name": "HEMAVAN D",
+    "include": false
+  },
+  {
+    "id": "SN90360",
+    "name": "E8 SANDVIKEIDET",
+    "include": false
+  },
+  {
+    "id": "SN32061",
+    "name": "GVARV - NES BIOFORSK",
+    "include": false
+  },
+  {
+    "id": "SN4455",
+    "name": "RV4 \u00c5NEBY",
+    "include": false
+  },
+  {
+    "id": "SN601100",
+    "name": "TORSHAVN",
+    "include": false
+  },
+  {
+    "id": "SN27010",
+    "name": "KONNERUD",
+    "include": false
+  },
+  {
+    "id": "SN65275",
+    "name": "E39 HEMNEKJ\u00d8LEN",
+    "include": false
+  },
+  {
+    "id": "SN57990",
+    "name": "GJENGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN76929",
+    "name": "YME",
+    "include": false
+  },
+  {
+    "id": "SN203100",
+    "name": "RENSJON",
+    "include": false
+  },
+  {
+    "id": "SN59210",
+    "name": "RV 15 M\u00c5L\u00d8YBRUA",
+    "include": false
+  },
+  {
+    "id": "SN50310",
+    "name": "KVAMSKOGEN - JONSH\u00d8GDI",
+    "include": false
+  },
+  {
+    "id": "SN76938",
+    "name": "ULA",
+    "include": false
+  },
+  {
+    "id": "SN85040",
+    "name": "ROTV\u00c6R",
+    "include": false
+  },
+  {
+    "id": "SN51530",
+    "name": "VOSSEVANGEN",
+    "include": false
+  },
+  {
+    "id": "SN16845",
+    "name": "E136 LORA",
+    "include": false
+  },
+  {
+    "id": "SN44900",
+    "name": "OLTEDAL",
+    "include": false
+  },
+  {
+    "id": "SN12700",
+    "name": "LILLEHAMMER - V\u00c5RS\u00c6TERGRENDA",
+    "include": false
+  },
+  {
+    "id": "SN26750",
+    "name": "FV35 HEMSDALEN HOF",
+    "include": false
+  },
+  {
+    "id": "SN58860",
+    "name": "TROLLEDALSEGGA",
+    "include": false
+  },
+  {
+    "id": "SN79253",
+    "name": "E12 UMBUKTA",
+    "include": false
+  },
+  {
+    "id": "SN50175",
+    "name": "AUSTEVOLL",
+    "include": false
+  },
+  {
+    "id": "SN50830",
+    "name": "E16 INDRE ARNA",
+    "include": false
+  },
+  {
+    "id": "SN3190",
+    "name": "SARPSBORG",
+    "include": false
+  },
+  {
+    "id": "SN50525",
+    "name": "RV555 SOTRABRUA",
+    "include": false
+  },
+  {
+    "id": "SN224740",
+    "name": "BORGVATTNET D",
+    "include": false
+  },
+  {
+    "id": "SN43895",
+    "name": "FV44 KVASSHEIM",
+    "include": false
+  },
+  {
+    "id": "SN45770",
+    "name": "HJELMELAND",
+    "include": false
+  },
+  {
+    "id": "SN56895",
+    "name": "FV13 GAULARFJELL - MJELL",
+    "include": false
+  },
+  {
+    "id": "SN59820",
+    "name": "FV654 HER\u00d8YBRUA ",
+    "include": false
+  },
+  {
+    "id": "SN2282000",
+    "name": "PETROZAVODSK",
+    "include": false
+  },
+  {
+    "id": "SN5370",
+    "name": "FV24 RASAN ",
+    "include": false
+  },
+  {
+    "id": "SN99879",
+    "name": "ADVENTDALEN - INNERHYTTA PINGO",
+    "include": false
+  },
+  {
+    "id": "SN94245",
+    "name": "HAMMERFEST - MOLLA",
+    "include": false
+  },
+  {
+    "id": "SN17150",
+    "name": "RYGGE",
+    "include": false
+  },
+  {
+    "id": "SN18020",
+    "name": "OSLO - LAMBERTSETER",
+    "include": false
+  },
+  {
+    "id": "SN50507",
+    "name": "FV285 B\u00d8NESSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN1182600",
+    "name": "PIESTANY",
+    "include": false
+  },
+  {
+    "id": "SN68173",
+    "name": "TRONDHEIM - GL\u00d8SHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN73466",
+    "name": "NORDLI - SANDVIKA",
+    "include": false
+  },
+  {
+    "id": "SN67150",
+    "name": "LEINSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN84905",
+    "name": "E10 BJ\u00d8RNFJELL",
+    "include": false
+  },
+  {
+    "id": "SN55720",
+    "name": "SKARDSB\u00d8FJELLET",
+    "include": false
+  },
+  {
+    "id": "SN19958",
+    "name": "SYLLING",
+    "include": false
+  },
+  {
+    "id": "SN76750",
+    "name": "SANDNESSJ\u00d8EN LH - STOKKA",
+    "include": false
+  },
+  {
+    "id": "SN605200",
+    "name": "THYBOROEN",
+    "include": false
+  },
+  {
+    "id": "SN30428",
+    "name": "RV36 FJ\u00c6REKILEN",
+    "include": false
+  },
+  {
+    "id": "SN90800",
+    "name": "TORSV\u00c5G FYR",
+    "include": false
+  },
+  {
+    "id": "SN52535",
+    "name": "FEDJE",
+    "include": false
+  },
+  {
+    "id": "SN294200",
+    "name": "KANKAANPAA NIINISALO PUOLVOIM",
+    "include": false
+  },
+  {
+    "id": "SN1561400",
+    "name": "SOFIA (OBSERV.)",
+    "include": false
+  },
+  {
+    "id": "SN99870",
+    "name": "ADVENTDALEN",
+    "include": false
+  },
+  {
+    "id": "SN1065500",
+    "name": "WUERZBURG",
+    "include": false
+  },
+  {
+    "id": "SN86520",
+    "name": "SORTLAND - KLEIVA",
+    "include": false
+  },
+  {
+    "id": "SN18980",
+    "name": "OSLO - LILLEAKER",
+    "include": false
+  },
+  {
+    "id": "SN40405",
+    "name": "RV9 BYKLE",
+    "include": false
+  },
+  {
+    "id": "SN39750",
+    "name": "BYGLANDSFJORD - NESET",
+    "include": false
+  },
+  {
+    "id": "SN76956",
+    "name": "GOLIAT FPSO",
+    "include": false
+  },
+  {
+    "id": "SN63705",
+    "name": "OPPDAL - S\u00c6TER",
+    "include": false
+  },
+  {
+    "id": "SN20954",
+    "name": "DRAUPNER",
+    "include": false
+  },
+  {
+    "id": "SN52750",
+    "name": "FR\u00d8YSET",
+    "include": false
+  },
+  {
+    "id": "SN77037",
+    "name": "MS NORDBJ\u00d8RN",
+    "include": false
+  },
+  {
+    "id": "SN207290",
+    "name": "KANGOS D",
+    "include": false
+  },
+  {
+    "id": "SN27315",
+    "name": "RAMNES - KILE VESTRE",
+    "include": false
+  },
+  {
+    "id": "SN19940",
+    "name": "LIER",
+    "include": false
+  },
+  {
+    "id": "SN69420",
+    "name": "KLUKSDAL",
+    "include": false
+  },
+  {
+    "id": "SN33990",
+    "name": "E134 HAUKELIFJELL",
+    "include": false
+  },
+  {
+    "id": "SN30249",
+    "name": "LANGANGEN",
+    "include": false
+  },
+  {
+    "id": "SN804500",
+    "name": "VIGO/PEINADOR",
+    "include": false
+  },
+  {
+    "id": "SN1135",
+    "name": "FV101 PRESTEBAKKE",
+    "include": false
+  },
+  {
+    "id": "SN62700",
+    "name": "HUSTADVATN",
+    "include": false
+  },
+  {
+    "id": "SN90100",
+    "name": "MALANGEN - P\u00c5LFINNMOEN",
+    "include": false
+  },
+  {
+    "id": "SN27055",
+    "name": "FV312 HANEKLEIVA",
+    "include": false
+  },
+  {
+    "id": "SN90450",
+    "name": "TROMS\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN35210",
+    "name": "GJERSTAD JERNBANESTASJON",
+    "include": false
+  },
+  {
+    "id": "SN61408",
+    "name": "E136 HORGHEIM",
+    "include": false
+  },
+  {
+    "id": "SN88440",
+    "name": "SIFJORD",
+    "include": false
+  },
+  {
+    "id": "SN43007",
+    "name": "E39 DRANGSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN240800",
+    "name": "BLOMSKOG",
+    "include": false
+  },
+  {
+    "id": "SN212000",
+    "name": "KVIKKJOKK-ARRENJARKA",
+    "include": false
+  },
+  {
+    "id": "SN231900",
+    "name": "BORTNAN",
+    "include": false
+  },
+  {
+    "id": "SN68110",
+    "name": "SKISTUA",
+    "include": false
+  },
+  {
+    "id": "SN31550",
+    "name": "M\u00d8SVASSDAMMEN",
+    "include": false
+  },
+  {
+    "id": "SN91715",
+    "name": "FV866 SKATT\u00d8RSUND",
+    "include": false
+  },
+  {
+    "id": "SN3366300",
+    "name": "Mohyliv-Podilskyi",
+    "include": false
+  },
+  {
+    "id": "SN27270",
+    "name": "T\u00d8NSBERG - KILEN",
+    "include": false
+  },
+  {
+    "id": "SN46425",
+    "name": "E134 R\u00d8LDALSTUNNELEN AUST",
+    "include": false
+  },
+  {
+    "id": "SN77001",
+    "name": "G.O. SARS",
+    "include": false
+  },
+  {
+    "id": "SN44550",
+    "name": "SOLA RADIOSONDESTASJON",
+    "include": false
+  },
+  {
+    "id": "SN85560",
+    "name": "LEKNES LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN65230",
+    "name": "HEMNE - LENES",
+    "include": false
+  },
+  {
+    "id": "SN1210000",
+    "name": "KOLOBRZEG",
+    "include": false
+  },
+  {
+    "id": "SN47262",
+    "name": "KARM\u00d8Y - STORASUND",
+    "include": false
+  },
+  {
+    "id": "SN55705",
+    "name": "RV5 KAUPANGER",
+    "include": false
+  },
+  {
+    "id": "SN48330",
+    "name": "SL\u00c5TTER\u00d8Y FYR",
+    "include": false
+  },
+  {
+    "id": "SN46930",
+    "name": "VATS I VINDAFJORD",
+    "include": false
+  },
+  {
+    "id": "SN69010",
+    "name": "SVARTTJ\u00d8RNBEKKEN",
+    "include": false
+  },
+  {
+    "id": "SN27318",
+    "name": "UNDRUMSDAL",
+    "include": false
+  },
+  {
+    "id": "SN91251",
+    "name": "MANNDALEN - VADDJA",
+    "include": false
+  },
+  {
+    "id": "SN60980",
+    "name": "FV658 GISKEBRUA",
+    "include": false
+  },
+  {
+    "id": "SN286900",
+    "name": "KUUSAMO AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN5660",
+    "name": "ROVERUD",
+    "include": false
+  },
+  {
+    "id": "SN715700",
+    "name": "ROISSY",
+    "include": false
+  },
+  {
+    "id": "SN18310",
+    "name": "OSLO - T\u00d8YEN",
+    "include": false
+  },
+  {
+    "id": "SN47890",
+    "name": "OPSTVEIT",
+    "include": false
+  },
+  {
+    "id": "SN240390",
+    "name": "V\u00c4RMLANDS-EKEN\u00c4S D",
+    "include": false
+  },
+  {
+    "id": "SN296500",
+    "name": "LAHTI LAUNE",
+    "include": false
+  },
+  {
+    "id": "SN61070",
+    "name": "E39 \u00d8RSKOGFJELL",
+    "include": false
+  },
+  {
+    "id": "SN20930",
+    "name": "POLARSTERN",
+    "include": false
+  },
+  {
+    "id": "SN90650",
+    "name": "GRUNNFJORD - STAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN46410",
+    "name": "RV13 BOTNEN",
+    "include": false
+  },
+  {
+    "id": "SN1051300",
+    "name": "KOELN/BONN",
+    "include": false
+  },
+  {
+    "id": "SN226080",
+    "name": "NORA-\u00d6STAN\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN62290",
+    "name": "MOLDE - N\u00d8ISOMHED",
+    "include": false
+  },
+  {
+    "id": "SN728000",
+    "name": "DIJON-LONGVIC",
+    "include": false
+  },
+  {
+    "id": "SN82970",
+    "name": "E6 KR\u00c5KMOFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN38730",
+    "name": "HYNNEKLEIV",
+    "include": false
+  },
+  {
+    "id": "SN3363100",
+    "name": "Uzhhorod",
+    "include": false
+  },
+  {
+    "id": "SN8800",
+    "name": "RV3 \u00d8STLUND",
+    "include": false
+  },
+  {
+    "id": "SN56010",
+    "name": "H\u00d8YANGER VERK",
+    "include": false
+  },
+  {
+    "id": "SN770",
+    "name": "ELLEFSPLASS",
+    "include": false
+  },
+  {
+    "id": "SN19925",
+    "name": "LIERSKOGEN - HEIA",
+    "include": false
+  },
+  {
+    "id": "SN85590",
+    "name": "BALLSTAD",
+    "include": false
+  },
+  {
+    "id": "SN12550",
+    "name": "KISE PA HEDMARK",
+    "include": false
+  },
+  {
+    "id": "SN234720",
+    "name": "HUDIKSVALL",
+    "include": false
+  },
+  {
+    "id": "SN254000",
+    "name": "KROPPEFJALL-GRANAN",
+    "include": false
+  },
+  {
+    "id": "SN71280",
+    "name": "LEKSVIK - MYRAN",
+    "include": false
+  },
+  {
+    "id": "SN25640",
+    "name": "GEILO",
+    "include": false
+  },
+  {
+    "id": "SN391700",
+    "name": "ALDERGROVE",
+    "include": false
+  },
+  {
+    "id": "SN18265",
+    "name": "E6 DJUPDALEN",
+    "include": false
+  },
+  {
+    "id": "SN241090",
+    "name": "KINDSJ\u00d6N D",
+    "include": false
+  },
+  {
+    "id": "SN295800",
+    "name": "LAPPEENRANTA AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN37070",
+    "name": "RV41 \u00c5MLI",
+    "include": false
+  },
+  {
+    "id": "SN214910",
+    "name": "GLOMMERSTR\u00c4SK",
+    "include": false
+  },
+  {
+    "id": "SN76968",
+    "name": "VISUNDFELTET",
+    "include": false
+  },
+  {
+    "id": "SN76250",
+    "name": "S\u00d8MNA - STEIN",
+    "include": false
+  },
+  {
+    "id": "SN291700",
+    "name": "SIILINJARVI KUOPIO AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN715000",
+    "name": "LE BOURGET",
+    "include": false
+  },
+  {
+    "id": "SN219100",
+    "name": "STORON",
+    "include": false
+  },
+  {
+    "id": "SN628000",
+    "name": "GRONINGEN AP EELDE",
+    "include": false
+  },
+  {
+    "id": "SN85545",
+    "name": "LEKNES NORD",
+    "include": false
+  },
+  {
+    "id": "SN8450",
+    "name": "ATNDALEN - R\u00d8NNINGEN",
+    "include": false
+  },
+  {
+    "id": "SN26950",
+    "name": "SVELVIK - KNEM",
+    "include": false
+  },
+  {
+    "id": "SN30530",
+    "name": "NOTODDEN",
+    "include": false
+  },
+  {
+    "id": "SN420",
+    "name": "HEGGERISET - NORDSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN241000",
+    "name": "MALUNG",
+    "include": false
+  },
+  {
+    "id": "SN67153",
+    "name": "E39 \u00d8YSAND",
+    "include": false
+  },
+  {
+    "id": "SN765000",
+    "name": "MARIGNANE",
+    "include": false
+  },
+  {
+    "id": "SN760200",
+    "name": "BIARRITZ-ANGLET",
+    "include": false
+  },
+  {
+    "id": "SN70930",
+    "name": "SN\u00c5SA - NAGELHUS",
+    "include": false
+  },
+  {
+    "id": "SN64300",
+    "name": "KRISTIANSUND - KARIHOLA",
+    "include": false
+  },
+  {
+    "id": "SN62900",
+    "name": "EIDE P\u00c5 NORDM\u00d8RE",
+    "include": false
+  },
+  {
+    "id": "SN68050",
+    "name": "LADE",
+    "include": false
+  },
+  {
+    "id": "SN76950",
+    "name": "WEST VENTURE",
+    "include": false
+  },
+  {
+    "id": "SN66175",
+    "name": "FV65 BYE",
+    "include": false
+  },
+  {
+    "id": "SN1380",
+    "name": "RV111 GAUTESTAD",
+    "include": false
+  },
+  {
+    "id": "SN49245",
+    "name": "SKARE",
+    "include": false
+  },
+  {
+    "id": "SN291000",
+    "name": "MUSTASAARI VALASSAARET",
+    "include": false
+  },
+  {
+    "id": "SN52170",
+    "name": "EKSINGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN80700",
+    "name": "GLOMFJORD",
+    "include": false
+  },
+  {
+    "id": "SN13160",
+    "name": "KVITFJELL",
+    "include": false
+  },
+  {
+    "id": "SN76959",
+    "name": "BRAGE",
+    "include": false
+  },
+  {
+    "id": "SN50770",
+    "name": "KV4339 BLINDHEIM",
+    "include": false
+  },
+  {
+    "id": "SN76932",
+    "name": "HEIMDAL",
+    "include": false
+  },
+  {
+    "id": "SN1252000",
+    "name": "KLODZKO",
+    "include": false
+  },
+  {
+    "id": "SN77040",
+    "name": "AASTA HANSTEEN",
+    "include": false
+  },
+  {
+    "id": "SN1571200",
+    "name": "SANDANSKI",
+    "include": false
+  },
+  {
+    "id": "SN209500",
+    "name": "PAJALA",
+    "include": false
+  },
+  {
+    "id": "SN79220",
+    "name": "SKAMDAL",
+    "include": false
+  },
+  {
+    "id": "SN828000",
+    "name": "ALBACETE/LOS LLANOS",
+    "include": false
+  },
+  {
+    "id": "SN99927",
+    "name": "VERLEGENHUKEN",
+    "include": false
+  },
+  {
+    "id": "SN211025",
+    "name": "KITTELFJ\u00c4LL D",
+    "include": false
+  },
+  {
+    "id": "SN4090",
+    "name": "VALLERUD\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN36200",
+    "name": "TORUNGEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN31400",
+    "name": "FYRIEGG",
+    "include": false
+  },
+  {
+    "id": "SN3731",
+    "name": "E18 SMAALENENE VIND",
+    "include": false
+  },
+  {
+    "id": "SN84630",
+    "name": "NARVIK - FAGERNESFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN17090",
+    "name": "E6 KARLSHUS",
+    "include": false
+  },
+  {
+    "id": "SN58100",
+    "name": "SANDANE LUFTHAMN",
+    "include": false
+  },
+  {
+    "id": "SN86810",
+    "name": "FV915 B\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN76914",
+    "name": "ITASMOBAWS1",
+    "include": false
+  },
+  {
+    "id": "SN202430",
+    "name": "BJ\u00d6RKUDDEN",
+    "include": false
+  },
+  {
+    "id": "SN52475",
+    "name": "BLOMV\u00c5G - SELE",
+    "include": false
+  },
+  {
+    "id": "SN76923",
+    "name": "GULLFAKS C",
+    "include": false
+  },
+  {
+    "id": "SN1220500",
+    "name": "SZCZECIN",
+    "include": false
+  },
+  {
+    "id": "SN4960",
+    "name": "RV2 UVESUND BRU",
+    "include": false
+  },
+  {
+    "id": "SN76995",
+    "name": "VESLEFRIKK A",
+    "include": false
+  },
+  {
+    "id": "SN15430",
+    "name": "B\u00d8VERDAL",
+    "include": false
+  },
+  {
+    "id": "SN36110",
+    "name": "ARENDAL BRANNSTASJON II",
+    "include": false
+  },
+  {
+    "id": "SN99882",
+    "name": "NEDRE SASSENDALEN",
+    "include": false
+  },
+  {
+    "id": "SN31660",
+    "name": "MOGEN",
+    "include": false
+  },
+  {
+    "id": "SN50815",
+    "name": "E39 V\u00c5GSBOTN",
+    "include": false
+  },
+  {
+    "id": "SN243530",
+    "name": "FALUN-LUGNET",
+    "include": false
+  },
+  {
+    "id": "SN26932",
+    "name": "DRAMMEN - AUSTAD",
+    "include": false
+  },
+  {
+    "id": "SN27282",
+    "name": "T\u00d8NSBERG - VEAR",
+    "include": false
+  },
+  {
+    "id": "SN53130",
+    "name": "FRESVIK",
+    "include": false
+  },
+  {
+    "id": "SN98976",
+    "name": "TORVHAUGDALEN",
+    "include": false
+  },
+  {
+    "id": "SN38380",
+    "name": "DOVLAND",
+    "include": false
+  },
+  {
+    "id": "SN87860",
+    "name": "GROVFJORD",
+    "include": false
+  },
+  {
+    "id": "SN23720",
+    "name": "VANG I VALDRES",
+    "include": false
+  },
+  {
+    "id": "SN18920",
+    "name": "OSLO - BESSERUD",
+    "include": false
+  },
+  {
+    "id": "SN12290",
+    "name": "HAMAR II",
+    "include": false
+  },
+  {
+    "id": "SN99855",
+    "name": "LONGYEARDALEN - VALLEY BOTTOM",
+    "include": false
+  },
+  {
+    "id": "SN4260",
+    "name": "SKEDSMO - HELLERUD",
+    "include": false
+  },
+  {
+    "id": "SN262900",
+    "name": "HASTVEDA",
+    "include": false
+  },
+  {
+    "id": "SN51470",
+    "name": "BULKEN",
+    "include": false
+  },
+  {
+    "id": "SN82450",
+    "name": "TENNHOLMEN",
+    "include": false
+  },
+  {
+    "id": "SN16040",
+    "name": "OTTA - SKANSEN",
+    "include": false
+  },
+  {
+    "id": "SN94230",
+    "name": "ROGNSUNDET",
+    "include": false
+  },
+  {
+    "id": "SN286200",
+    "name": "KEMI AJOS",
+    "include": false
+  },
+  {
+    "id": "SN12030",
+    "name": "E6 ESPA",
+    "include": false
+  },
+  {
+    "id": "SN78170",
+    "name": "E6 OSEN",
+    "include": false
+  },
+  {
+    "id": "SN66740",
+    "name": "E6 ULSBERG",
+    "include": false
+  },
+  {
+    "id": "SN61420",
+    "name": "MARSTEIN",
+    "include": false
+  },
+  {
+    "id": "SN51210",
+    "name": "E16 DALSEID",
+    "include": false
+  },
+  {
+    "id": "SN43530",
+    "name": "FV316 SAGLANDSBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN218400",
+    "name": "PAHAROVA",
+    "include": false
+  },
+  {
+    "id": "SN17000",
+    "name": "STR\u00d8MTANGEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN2980",
+    "name": "FV118 SVINESUND",
+    "include": false
+  },
+  {
+    "id": "SN35090",
+    "name": "EIKELAND",
+    "include": false
+  },
+  {
+    "id": "SN91200",
+    "name": "NORD-LENANGEN II",
+    "include": false
+  },
+  {
+    "id": "SN84920",
+    "name": "E10 TROLLVIKDAL",
+    "include": false
+  },
+  {
+    "id": "SN17380",
+    "name": "RYGGE - HUGGENES",
+    "include": false
+  },
+  {
+    "id": "SN26594",
+    "name": "DRAMMEN - DANVIK",
+    "include": false
+  },
+  {
+    "id": "SN58390",
+    "name": "INNVIK - HEGGDAL",
+    "include": false
+  },
+  {
+    "id": "SN217380",
+    "name": "KOLER D",
+    "include": false
+  },
+  {
+    "id": "SN26630",
+    "name": "VESTFOSSEN",
+    "include": false
+  },
+  {
+    "id": "SN44080",
+    "name": "OBRESTAD FYR",
+    "include": false
+  },
+  {
+    "id": "SN64760",
+    "name": "SURNADAL - SYLTE",
+    "include": false
+  },
+  {
+    "id": "SN98790",
+    "name": "VADS\u00d8 LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN12320",
+    "name": "HAMAR - STAVSBERG",
+    "include": false
+  },
+  {
+    "id": "SN1185800",
+    "name": "HURBANOVO",
+    "include": false
+  },
+  {
+    "id": "SN3377700",
+    "name": "Voznesensk",
+    "include": false
+  },
+  {
+    "id": "SN256300",
+    "name": "HARSTENA",
+    "include": false
+  },
+  {
+    "id": "SN670000",
+    "name": "GENEVE / COINTRIN",
+    "include": false
+  },
+  {
+    "id": "SN1080300",
+    "name": "FREIBURG",
+    "include": false
+  },
+  {
+    "id": "SN53680",
+    "name": "FL\u00c5M - JOASETBERGI",
+    "include": false
+  },
+  {
+    "id": "SN99867",
+    "name": "GRUVEFJELLET - BLOCKFIELD PLATEAU",
+    "include": false
+  },
+  {
+    "id": "SN261100",
+    "name": "HELSINGBORG",
+    "include": false
+  },
+  {
+    "id": "SN18690",
+    "name": "E18 HJORTNES",
+    "include": false
+  },
+  {
+    "id": "SN1631000",
+    "name": "CAPO PALINURO",
+    "include": false
+  },
+  {
+    "id": "SN24710",
+    "name": "GULSVIK II",
+    "include": false
+  },
+  {
+    "id": "SN91505",
+    "name": "E6 NORDNES",
+    "include": false
+  },
+  {
+    "id": "SN94430",
+    "name": "FV889 SELVIKH\u00d8YDEN",
+    "include": false
+  },
+  {
+    "id": "SN1249500",
+    "name": "LUBLIN RADAWIEC",
+    "include": false
+  },
+  {
+    "id": "SN17030",
+    "name": "ONS\u00d8Y - EVJA",
+    "include": false
+  },
+  {
+    "id": "SN60247",
+    "name": "FV60 KJELLSTADLIA",
+    "include": false
+  },
+  {
+    "id": "SN210400",
+    "name": "HEMAVAN",
+    "include": false
+  },
+  {
+    "id": "SN12580",
+    "name": "E6 RUDSH\u00d8GDA",
+    "include": false
+  },
+  {
+    "id": "SN46610",
+    "name": "SAUDA",
+    "include": false
+  },
+  {
+    "id": "SN31080",
+    "name": "TESSUNGDALEN - BAKKHUS",
+    "include": false
+  },
+  {
+    "id": "SN87970",
+    "name": "E6 \u00d8SE",
+    "include": false
+  },
+  {
+    "id": "SN81340",
+    "name": "FV812 HOGNDALEN",
+    "include": false
+  },
+  {
+    "id": "SN204990",
+    "name": "SADJEM D",
+    "include": false
+  },
+  {
+    "id": "SN99840",
+    "name": "SVALBARD LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN25580",
+    "name": "RV7 KVISLA",
+    "include": false
+  },
+  {
+    "id": "SN76926",
+    "name": "SLEIPNER A",
+    "include": false
+  },
+  {
+    "id": "SN2761200",
+    "name": "MOSKVA VDNH",
+    "include": false
+  },
+  {
+    "id": "SN18645",
+    "name": "OSLO - SOLLI PLASS",
+    "include": false
+  },
+  {
+    "id": "SN1608400",
+    "name": "PIACENZA S. DAMIANO",
+    "include": false
+  },
+  {
+    "id": "SN250100",
+    "name": "VADEROARNA",
+    "include": false
+  },
+  {
+    "id": "SN1103600",
+    "name": "WIEN/SCHWECHAT-FLUGHAFEN",
+    "include": false
+  },
+  {
+    "id": "SN213540",
+    "name": "GARGN\u00c4S D",
+    "include": false
+  },
+  {
+    "id": "SN26872",
+    "name": "DRAMMEN - \u00d8REN SKOLE",
+    "include": false
+  },
+  {
+    "id": "SN707000",
+    "name": "REIMS-COURCY",
+    "include": false
+  },
+  {
+    "id": "SN53070",
+    "name": "VIK I SOGN III",
+    "include": false
+  },
+  {
+    "id": "SN291900",
+    "name": "LAPPEENRANTA HIEKKAPAKKA",
+    "include": false
+  },
+  {
+    "id": "SN65370",
+    "name": "SM\u00d8LA - MOLDSTAD",
+    "include": false
+  },
+  {
+    "id": "SN80102",
+    "name": "SOLV\u00c6R III",
+    "include": false
+  },
+  {
+    "id": "SN82650",
+    "name": "VALLJORD",
+    "include": false
+  },
+  {
+    "id": "SN47220",
+    "name": "FV47 FERKINGSTAD",
+    "include": false
+  },
+  {
+    "id": "SN296700",
+    "name": "KOTKA HAAPASAARI",
+    "include": false
+  },
+  {
+    "id": "SN18205",
+    "name": "OSLO - L\u00d8REN",
+    "include": false
+  },
+  {
+    "id": "SN4200",
+    "name": "KJELLER",
+    "include": false
+  },
+  {
+    "id": "SN69865",
+    "name": "LEVANGER II",
+    "include": false
+  },
+  {
+    "id": "SN60310",
+    "name": "FV63 KORSMYRA",
+    "include": false
+  },
+  {
+    "id": "SN253680",
+    "name": "ULRICEHAMN",
+    "include": false
+  },
+  {
+    "id": "SN42160",
+    "name": "LISTA FYR",
+    "include": false
+  },
+  {
+    "id": "SN34130",
+    "name": "JOMFRULAND",
+    "include": false
+  },
+  {
+    "id": "SN27500",
+    "name": "F\u00c6RDER FYR",
+    "include": false
+  },
+  {
+    "id": "SN218600",
+    "name": "LULEA-KALLAX (2186-0)",
+    "include": false
+  },
+  {
+    "id": "SN68860",
+    "name": "TRONDHEIM - VOLL",
+    "include": false
+  },
+  {
+    "id": "SN757700",
+    "name": "MONTELIMAR",
+    "include": false
+  },
+  {
+    "id": "SN19820",
+    "name": "HURUM RADAR",
+    "include": false
+  },
+  {
+    "id": "SN80730",
+    "name": "FV17 TORSVIKA",
+    "include": false
+  },
+  {
+    "id": "SN60400",
+    "name": "NORDDAL",
+    "include": false
+  },
+  {
+    "id": "SN89980",
+    "name": "TAMOKDALEN",
+    "include": false
+  },
+  {
+    "id": "SN1531000",
+    "name": "GALATI",
+    "include": false
+  },
+  {
+    "id": "SN27590",
+    "name": "SANDEFJORD - SENTRUM",
+    "include": false
+  },
+  {
+    "id": "SN27285",
+    "name": "E18 GULLI NORD",
+    "include": false
+  },
+  {
+    "id": "SN77850",
+    "name": "SUSENDAL",
+    "include": false
+  },
+  {
+    "id": "SN100",
+    "name": "PLASSEN",
+    "include": false
+  },
+  {
+    "id": "SN60947",
+    "name": "E136 \u00c5LESUND",
+    "include": false
+  },
+  {
+    "id": "SN7190900",
+    "name": "IQALUIT A, NU",
+    "include": false
+  },
+  {
+    "id": "SN254290",
+    "name": "SKARA",
+    "include": false
+  },
+  {
+    "id": "SN49490",
+    "name": "ULLENSVANG FORS\u00d8KSGARD",
+    "include": false
+  },
+  {
+    "id": "SN619300",
+    "name": "HAMMER ODDE FYR",
+    "include": false
+  },
+  {
+    "id": "SN1705000",
+    "name": "EDIRNE",
+    "include": false
+  },
+  {
+    "id": "SN85440",
+    "name": "KVITFOSSEN I V\u00c5GAN",
+    "include": false
+  },
+  {
+    "id": "SN58480",
+    "name": "OLDEDALEN",
+    "include": false
+  },
+  {
+    "id": "SN50450",
+    "name": "FANA - STEND",
+    "include": false
+  },
+  {
+    "id": "SN41550",
+    "name": "LJOSLAND - MONEN",
+    "include": false
+  },
+  {
+    "id": "SN82560",
+    "name": "KJERRING\u00d8Y - STRAND\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN76962",
+    "name": "HULDRAFELTET",
+    "include": false
+  },
+  {
+    "id": "SN274100",
+    "name": "JOMALA JOMALABY",
+    "include": false
+  },
+  {
+    "id": "SN216115",
+    "name": "MURJEK D",
+    "include": false
+  },
+  {
+    "id": "SN36490",
+    "name": "B\u00d8YLEFOSS",
+    "include": false
+  },
+  {
+    "id": "SN282300",
+    "name": "MUONIO ALAMUONIO",
+    "include": false
+  },
+  {
+    "id": "SN297400",
+    "name": "VANTAA HELSINKI-VANTAA AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN50540",
+    "name": "BERGEN - FLORIDA",
+    "include": false
+  },
+  {
+    "id": "SN204900",
+    "name": "GALLIVARE",
+    "include": false
+  },
+  {
+    "id": "SN1048800",
+    "name": "DRESDEN-KLOTZSCHE",
+    "include": false
+  },
+  {
+    "id": "SN1655000",
+    "name": "CAPO BELLAVISTA",
+    "include": false
+  },
+  {
+    "id": "SN1239900",
+    "name": "TERESPOL",
+    "include": false
+  },
+  {
+    "id": "SN91245",
+    "name": "LYNGSEIDET V",
+    "include": false
+  },
+  {
+    "id": "SN52415",
+    "name": "FV57 SKODVIN",
+    "include": false
+  },
+  {
+    "id": "SN725500",
+    "name": "BOURGES",
+    "include": false
+  },
+  {
+    "id": "SN77240",
+    "name": "MOSJ\u00d8EN - SMALMO\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN30380",
+    "name": "GODAL",
+    "include": false
+  },
+  {
+    "id": "SN18950",
+    "name": "TRYVANNSH\u00d8GDA",
+    "include": false
+  },
+  {
+    "id": "SN76935",
+    "name": "SNORRE A",
+    "include": false
+  },
+  {
+    "id": "SN221920",
+    "name": "FROSTVIKEN D",
+    "include": false
+  },
+  {
+    "id": "SN20520",
+    "name": "LUNNER",
+    "include": false
+  },
+  {
+    "id": "SN65451",
+    "name": "HITRA - SANDSTAD II",
+    "include": false
+  },
+  {
+    "id": "SN57789",
+    "name": "FV614 GRYTADALEN",
+    "include": false
+  },
+  {
+    "id": "SN44780",
+    "name": "FV316 TENGESDAL",
+    "include": false
+  },
+  {
+    "id": "SN92860",
+    "name": "\u00d8KSFJORD - DEALLJA",
+    "include": false
+  },
+  {
+    "id": "SN83960",
+    "name": "E6 SKJELLESVIKSKARET",
+    "include": false
+  },
+  {
+    "id": "SN25320",
+    "name": "\u00c5L III",
+    "include": false
+  },
+  {
+    "id": "SN701500",
+    "name": "LILLE-LESQUIN",
+    "include": false
+  },
+  {
+    "id": "SN17640",
+    "name": "FV155 R\u00c5KEN",
+    "include": false
+  },
+  {
+    "id": "SN607000",
+    "name": "AARHUS LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN47600",
+    "name": "LITLEDAL",
+    "include": false
+  },
+  {
+    "id": "SN1286000",
+    "name": "SZOLNOK",
+    "include": false
+  },
+  {
+    "id": "SN56850",
+    "name": "VIKSDALEN I GAULAR",
+    "include": false
+  },
+  {
+    "id": "SN30320",
+    "name": "SKIEN - ELSTR\u00d8M",
+    "include": false
+  },
+  {
+    "id": "SN52400",
+    "name": "EIKANGER - MYR",
+    "include": false
+  },
+  {
+    "id": "SN13390",
+    "name": "E6 FRYA",
+    "include": false
+  },
+  {
+    "id": "SN3019",
+    "name": "FREDRIKSTAD BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN88628",
+    "name": "FV862 SENJAHOPEN",
+    "include": false
+  },
+  {
+    "id": "SN612000",
+    "name": "ODENSE LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN48120",
+    "name": "STORD LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN66620",
+    "name": "RENNEBU - RAMSTAD",
+    "include": false
+  },
+  {
+    "id": "SN1647000",
+    "name": "PANTELLERIA",
+    "include": false
+  },
+  {
+    "id": "SN297600",
+    "name": "KOTKA RANKKI",
+    "include": false
+  },
+  {
+    "id": "SN58770",
+    "name": "E39 LOTETUNNELEN",
+    "include": false
+  },
+  {
+    "id": "SN19760",
+    "name": "ASKER - VARD\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN1551100",
+    "name": "LOM",
+    "include": false
+  },
+  {
+    "id": "SN30410",
+    "name": "SKIEN - KOLLMYR",
+    "include": false
+  },
+  {
+    "id": "SN227180",
+    "name": "J\u00d6RN D",
+    "include": false
+  },
+  {
+    "id": "SN853800",
+    "name": "SAGRES (8538-0)",
+    "include": false
+  },
+  {
+    "id": "SN19428",
+    "name": "B\u00c6RUM - H\u00d8VIK",
+    "include": false
+  },
+  {
+    "id": "SN92100",
+    "name": "TROLL AIRFIELD",
+    "include": false
+  },
+  {
+    "id": "SN28750",
+    "name": "FLESBERG",
+    "include": false
+  },
+  {
+    "id": "SN30275",
+    "name": "SKIEN - STALSBERG",
+    "include": false
+  },
+  {
+    "id": "SN1172300",
+    "name": "BRNO/TURANY",
+    "include": false
+  },
+  {
+    "id": "SN79764",
+    "name": "HJART\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN16620",
+    "name": "E6 AVSJ\u00d8EN",
+    "include": false
+  },
+  {
+    "id": "SN69150",
+    "name": "KVITHAMAR",
+    "include": false
+  },
+  {
+    "id": "SN228490",
+    "name": "HOLM\u00d6N D",
+    "include": false
+  },
+  {
+    "id": "SN266100",
+    "name": "KOSTA (ORREFORS)",
+    "include": false
+  },
+  {
+    "id": "SN64700",
+    "name": "INNERDALEN",
+    "include": false
+  },
+  {
+    "id": "SN15660",
+    "name": "SKJ\u00c5K",
+    "include": false
+  },
+  {
+    "id": "SN716800",
+    "name": "TROYES-BARBEREY",
+    "include": false
+  },
+  {
+    "id": "SN85380",
+    "name": "SKROVA FYR",
+    "include": false
+  },
+  {
+    "id": "SN1523000",
+    "name": "DEVA",
+    "include": false
+  },
+  {
+    "id": "SN76920",
+    "name": "EKOFISK",
+    "include": false
+  },
+  {
+    "id": "SN9380",
+    "name": "SN\u00d8HEIM",
+    "include": false
+  },
+  {
+    "id": "SN68863",
+    "name": "TRONDHEIM - VOLL PLU",
+    "include": false
+  },
+  {
+    "id": "SN53010",
+    "name": "RV13 VIKAFJELL",
+    "include": false
+  },
+  {
+    "id": "SN215400",
+    "name": "VIDSEL",
+    "include": false
+  },
+  {
+    "id": "SN24210",
+    "name": "SOKNA II",
+    "include": false
+  },
+  {
+    "id": "SN1049000",
+    "name": "DOBERLUG-KIRCHHAIN",
+    "include": false
+  },
+  {
+    "id": "SN325700",
+    "name": "LEEMING",
+    "include": false
+  },
+  {
+    "id": "SN85470",
+    "name": "KONGSMARKA",
+    "include": false
+  },
+  {
+    "id": "SN50480",
+    "name": "BERGEN - SANDSLI",
+    "include": false
+  },
+  {
+    "id": "SN91490",
+    "name": "E8 BOSSOVARRI",
+    "include": false
+  },
+  {
+    "id": "SN49080",
+    "name": "\u00d8VRE KROSSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN1604500",
+    "name": "UDINE/RIVOLTO",
+    "include": false
+  },
+  {
+    "id": "SN256500",
+    "name": "MALILLA",
+    "include": false
+  },
+  {
+    "id": "SN16611",
+    "name": "E6 FOKSTUGU",
+    "include": false
+  },
+  {
+    "id": "SN18235",
+    "name": "OSLO - FURUSET",
+    "include": false
+  },
+  {
+    "id": "SN1960",
+    "name": "E18 \u00d8RJE VEST",
+    "include": false
+  },
+  {
+    "id": "SN58070",
+    "name": "SANDANE",
+    "include": false
+  },
+  {
+    "id": "SN99735",
+    "name": "EDGE\u00d8YA - KAPP HEUGLIN",
+    "include": false
+  },
+  {
+    "id": "SN51440",
+    "name": "EVANGER",
+    "include": false
+  },
+  {
+    "id": "SN50040",
+    "name": "FV7 \u00c5LVIK AUST",
+    "include": false
+  },
+  {
+    "id": "SN1555200",
+    "name": "VARNA",
+    "include": false
+  },
+  {
+    "id": "SN202400",
+    "name": "STORA SJOFALLET",
+    "include": false
+  },
+  {
+    "id": "SN84770",
+    "name": "E6 H\u00c5LOGALANDSBRUA",
+    "include": false
+  },
+  {
+    "id": "SN99843",
+    "name": "PLAT\u00c5BERGET III",
+    "include": false
+  },
+  {
+    "id": "SN57810",
+    "name": "SVELGEN II",
+    "include": false
+  },
+  {
+    "id": "SN65310",
+    "name": "VEIHOLMEN",
+    "include": false
+  },
+  {
+    "id": "SN52310",
+    "name": "MODALEN III",
+    "include": false
+  },
+  {
+    "id": "SN223600",
+    "name": "HALLHAXASEN",
+    "include": false
+  },
+  {
+    "id": "SN243500",
+    "name": "BORLANGE",
+    "include": false
+  },
+  {
+    "id": "SN47232",
+    "name": "\u00c5KREHAMN AMFI",
+    "include": false
+  },
+  {
+    "id": "SN40880",
+    "name": "HOVDEN - LUNDANE",
+    "include": false
+  },
+  {
+    "id": "SN32850",
+    "name": "KVITESEID - MOEN",
+    "include": false
+  },
+  {
+    "id": "SN19527",
+    "name": "SKRIVERBERGET",
+    "include": false
+  },
+  {
+    "id": "SN217320",
+    "name": "BR\u00c4NNBERG D",
+    "include": false
+  },
+  {
+    "id": "SN53530",
+    "name": "MIDTSTOVA",
+    "include": false
+  },
+  {
+    "id": "SN218190",
+    "name": "KYP\u00c4SJ\u00c4RVI D",
+    "include": false
+  },
+  {
+    "id": "SN246900",
+    "name": "TULLINGE",
+    "include": false
+  },
+  {
+    "id": "SN68262",
+    "name": "KL\u00c6BU II",
+    "include": false
+  },
+  {
+    "id": "SN79791",
+    "name": "E6 SALTFJELLET ",
+    "include": false
+  },
+  {
+    "id": "SN1536000",
+    "name": "SULINA",
+    "include": false
+  },
+  {
+    "id": "SN39220",
+    "name": "MESTAD I ODDERNES",
+    "include": false
+  },
+  {
+    "id": "SN1623000",
+    "name": "PESCARA",
+    "include": false
+  },
+  {
+    "id": "SN232590",
+    "name": "YTTERHOGDAL",
+    "include": false
+  },
+  {
+    "id": "SN59586",
+    "name": "FV61 HAREIDSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN293500",
+    "name": "JYVASKYLA AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN1547000",
+    "name": "ROSIORII DE VEDE",
+    "include": false
+  },
+  {
+    "id": "SN226310",
+    "name": "BALSJ\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN397600",
+    "name": "BELMULLET",
+    "include": false
+  },
+  {
+    "id": "SN18280",
+    "name": "RV4 GJELLER\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN1664800",
+    "name": "LARISSA (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN59667",
+    "name": "VOLDA - BRATTEBERG SKOLE",
+    "include": false
+  },
+  {
+    "id": "SN224300",
+    "name": "JUNSELE",
+    "include": false
+  },
+  {
+    "id": "SN220900",
+    "name": "SYLARNA",
+    "include": false
+  },
+  {
+    "id": "SN10600",
+    "name": "AURSUND",
+    "include": false
+  },
+  {
+    "id": "SN51610",
+    "name": "E16 VOSS NORD",
+    "include": false
+  },
+  {
+    "id": "SN248210",
+    "name": "AVESTA",
+    "include": false
+  },
+  {
+    "id": "SN21680",
+    "name": "VEST-TORPA II",
+    "include": false
+  },
+  {
+    "id": "SN2625800",
+    "name": "PSKOV",
+    "include": false
+  },
+  {
+    "id": "SN60860",
+    "name": "E39 SOLAV\u00c5GEN FERGEKAI",
+    "include": false
+  },
+  {
+    "id": "SN3358700",
+    "name": "Uman",
+    "include": false
+  },
+  {
+    "id": "SN30293",
+    "name": "SKIEN - GIMS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN647600",
+    "name": "ST-HUBERT",
+    "include": false
+  },
+  {
+    "id": "SN1281200",
+    "name": "SZOMBATHELY",
+    "include": false
+  },
+  {
+    "id": "SN95590",
+    "name": "B\u00d8RSELV II",
+    "include": false
+  },
+  {
+    "id": "SN41795",
+    "name": "E39 OSESTAD",
+    "include": false
+  },
+  {
+    "id": "SN32240",
+    "name": "B\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN73250",
+    "name": "S\u00d8RLI",
+    "include": false
+  },
+  {
+    "id": "SN396900",
+    "name": "DUBLIN AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN61820",
+    "name": "ERESFJORD",
+    "include": false
+  },
+  {
+    "id": "SN22990",
+    "name": "E16 KALPLASSEN",
+    "include": false
+  },
+  {
+    "id": "SN275000",
+    "name": "HANKO TVARMINNE",
+    "include": false
+  },
+  {
+    "id": "SN34115",
+    "name": "E18 SPRANGFOSS BRU",
+    "include": false
+  },
+  {
+    "id": "SN94280",
+    "name": "HAMMERFEST LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN19455",
+    "name": "B\u00c6RUM - HAMANGSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN231980",
+    "name": "\u00c5SARNA D",
+    "include": false
+  },
+  {
+    "id": "SN240880",
+    "name": "T\u00d6CKSFORS D",
+    "include": false
+  },
+  {
+    "id": "SN22730",
+    "name": "HEDAL I VALDRES II",
+    "include": false
+  },
+  {
+    "id": "SN30248",
+    "name": "BREVIK",
+    "include": false
+  },
+  {
+    "id": "SN27162",
+    "name": "\u00c5SG\u00c5RDSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN857900",
+    "name": "LISBOA/GAGO COUTINHO",
+    "include": false
+  },
+  {
+    "id": "SN15050",
+    "name": "RV15 LOM",
+    "include": false
+  },
+  {
+    "id": "SN5495",
+    "name": "RV2 SIGERNESSJ\u00d8EN",
+    "include": false
+  },
+  {
+    "id": "SN92650",
+    "name": "NUVSV\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN25110",
+    "name": "HEMSEDAL II",
+    "include": false
+  },
+  {
+    "id": "SN4780",
+    "name": "GARDERMOEN",
+    "include": false
+  },
+  {
+    "id": "SN1242400",
+    "name": "WROCLAW II",
+    "include": false
+  },
+  {
+    "id": "SN68238",
+    "name": "E6 HEIMDAL",
+    "include": false
+  },
+  {
+    "id": "SN60890",
+    "name": "BRUSDALSVATN II",
+    "include": false
+  },
+  {
+    "id": "SN93000",
+    "name": "HASVIK - SLUSKFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN57660",
+    "name": "EIMHJELLEN",
+    "include": false
+  },
+  {
+    "id": "SN52860",
+    "name": "TAKLE",
+    "include": false
+  },
+  {
+    "id": "SN10800",
+    "name": "S\u00d8LENDET",
+    "include": false
+  },
+  {
+    "id": "SN3120",
+    "name": "ROLVS\u00d8Y - ELVENESVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN235500",
+    "name": "KUGGOREN",
+    "include": false
+  },
+  {
+    "id": "SN25541",
+    "name": "BAKKO I HOL II",
+    "include": false
+  },
+  {
+    "id": "SN34100",
+    "name": "E18 \u00d8DEG\u00c5RDENS VERK",
+    "include": false
+  },
+  {
+    "id": "SN61410",
+    "name": "MANNEN",
+    "include": false
+  },
+  {
+    "id": "SN81310",
+    "name": "FV17 \u00c5SELIBRUA",
+    "include": false
+  },
+  {
+    "id": "SN252600",
+    "name": "GOTEBORG-LANDVETTER",
+    "include": false
+  },
+  {
+    "id": "SN19718",
+    "name": "ASKER BRANNSTASJON II",
+    "include": false
+  },
+  {
+    "id": "SN41825",
+    "name": "LYNGDAL",
+    "include": false
+  },
+  {
+    "id": "SN54780",
+    "name": "\u00d8VRE \u00c5RDAL",
+    "include": false
+  },
+  {
+    "id": "SN90560",
+    "name": "KVAL\u00d8YSLETTA",
+    "include": false
+  },
+  {
+    "id": "SN19790",
+    "name": "ASKER \u2212 B\u00d8DALEN",
+    "include": false
+  },
+  {
+    "id": "SN48500",
+    "name": "ROSENDAL",
+    "include": false
+  },
+  {
+    "id": "SN219790",
+    "name": "\u00d6VERTORNE\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN267000",
+    "name": "KALMAR",
+    "include": false
+  },
+  {
+    "id": "SN67780",
+    "name": "\u00c5LEN",
+    "include": false
+  },
+  {
+    "id": "SN19458",
+    "name": "NADDERUD",
+    "include": false
+  },
+  {
+    "id": "SN12110",
+    "name": "STANGE - R\u00c5DHUSET",
+    "include": false
+  },
+  {
+    "id": "SN47172",
+    "name": "KARMSUND DYREHOSPITAL",
+    "include": false
+  },
+  {
+    "id": "SN4735",
+    "name": "GARDERMOEN - S\u00d8R\u00d8ST",
+    "include": false
+  },
+  {
+    "id": "SN93700",
+    "name": "KAUTOKEINO",
+    "include": false
+  },
+  {
+    "id": "SN80870",
+    "name": "FV472 SANDHORN\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN208100",
+    "name": "KARESUANDO",
+    "include": false
+  },
+  {
+    "id": "SN6700",
+    "name": "RV3 SVINGEN",
+    "include": false
+  },
+  {
+    "id": "SN94050",
+    "name": "\u00d8VRE LEIRBOTN",
+    "include": false
+  },
+  {
+    "id": "SN39160",
+    "name": "KRISTIANSAND - HOLDALSNUTEN",
+    "include": false
+  },
+  {
+    "id": "SN88640",
+    "name": "HUS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN27730",
+    "name": "E18 FOKSER\u00d8D",
+    "include": false
+  },
+  {
+    "id": "SN52555",
+    "name": "FV57 MONGSTAD S\u00d8R",
+    "include": false
+  },
+  {
+    "id": "SN224500",
+    "name": "VILHELMINA",
+    "include": false
+  },
+  {
+    "id": "SN48069",
+    "name": "FV542 B\u00d8MLABRUA",
+    "include": false
+  },
+  {
+    "id": "SN12666",
+    "name": "E6 VINGNES",
+    "include": false
+  },
+  {
+    "id": "SN1711600",
+    "name": "BURSA",
+    "include": false
+  },
+  {
+    "id": "SN28923",
+    "name": "FV40 VEGGLI",
+    "include": false
+  },
+  {
+    "id": "SN13420",
+    "name": "VENABU",
+    "include": false
+  },
+  {
+    "id": "SN27470",
+    "name": "TORP",
+    "include": false
+  },
+  {
+    "id": "SN1715000",
+    "name": "BALIKES\u0130R HAVAL\u0130MANI",
+    "include": false
+  },
+  {
+    "id": "SN75550",
+    "name": "SKLINNA FYR",
+    "include": false
+  },
+  {
+    "id": "SN68175",
+    "name": "E6 MOHOLTLIA",
+    "include": false
+  },
+  {
+    "id": "SN62200",
+    "name": "E39 FURSETFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN60800",
+    "name": "\u00d8RSKOG",
+    "include": false
+  },
+  {
+    "id": "SN280700",
+    "name": "INARI IVALO AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN90721",
+    "name": "REBBENES\u00d8Y - GR\u00c5HAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN63420",
+    "name": "SUNNDALS\u00d8RA III",
+    "include": false
+  },
+  {
+    "id": "SN43090",
+    "name": "J\u00d8SSINGFJORD",
+    "include": false
+  },
+  {
+    "id": "SN16560",
+    "name": "DOMB\u00c5S - NORDIGARD",
+    "include": false
+  },
+  {
+    "id": "SN7660",
+    "name": "\u00c5KRESTR\u00d8MMEN",
+    "include": false
+  },
+  {
+    "id": "SN302600",
+    "name": "STORNOWAY AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN19530",
+    "name": "AUREVANN",
+    "include": false
+  },
+  {
+    "id": "SN3356200",
+    "name": "Vinnytsia",
+    "include": false
+  },
+  {
+    "id": "SN55740",
+    "name": "ANEST\u00d8LEN",
+    "include": false
+  },
+  {
+    "id": "SN725",
+    "name": "FV221 VALLDALSFJELL",
+    "include": false
+  },
+  {
+    "id": "SN1246500",
+    "name": "LODZ-LUBLINEK",
+    "include": false
+  },
+  {
+    "id": "SN8880",
+    "name": "ALVDAL",
+    "include": false
+  },
+  {
+    "id": "SN241080",
+    "name": "LETAFORS D",
+    "include": false
+  },
+  {
+    "id": "SN30305",
+    "name": "FV32 KIKUT",
+    "include": false
+  },
+  {
+    "id": "SN3365800",
+    "name": "Chernivtsi",
+    "include": false
+  },
+  {
+    "id": "SN34800",
+    "name": "T\u00d8RDAL - SUVD\u00d8LA",
+    "include": false
+  },
+  {
+    "id": "SN99720",
+    "name": "HOPEN",
+    "include": false
+  },
+  {
+    "id": "SN667000",
+    "name": "ZUERICH / KLOTEN",
+    "include": false
+  },
+  {
+    "id": "SN1502000",
+    "name": "BOTOSANI",
+    "include": false
+  },
+  {
+    "id": "SN6440",
+    "name": "VERMUNDSJ\u00d8EN",
+    "include": false
+  },
+  {
+    "id": "SN47450",
+    "name": "STRAUM\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN27120",
+    "name": "HORTEN - NYKIRKE",
+    "include": false
+  },
+  {
+    "id": "SN261500",
+    "name": "FALSTERBO A",
+    "include": false
+  },
+  {
+    "id": "SN50070",
+    "name": "KVAMS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN20956",
+    "name": "SBADCP SAILBOUY 1",
+    "include": false
+  },
+  {
+    "id": "SN17870",
+    "name": "\u00c5S - RUSTADSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN43350",
+    "name": "EIGER\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN99460",
+    "name": "PASVIK - SVANVIK",
+    "include": false
+  },
+  {
+    "id": "SN91430",
+    "name": "RIHPOJAVRI",
+    "include": false
+  },
+  {
+    "id": "SN214990",
+    "name": "L\u00c5NGTR\u00c4SK D",
+    "include": false
+  },
+  {
+    "id": "SN294400",
+    "name": "TAMPERE-PIRKKALA AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN63725",
+    "name": "E6 OPPDAL",
+    "include": false
+  },
+  {
+    "id": "SN24240",
+    "name": "RV7 RALLERUD",
+    "include": false
+  },
+  {
+    "id": "SN9580",
+    "name": "TYNSET - HANSMOEN",
+    "include": false
+  },
+  {
+    "id": "SN56790",
+    "name": "E39 SANDE BRU",
+    "include": false
+  },
+  {
+    "id": "SN60190",
+    "name": "ROALDSHORNET",
+    "include": false
+  },
+  {
+    "id": "SN299200",
+    "name": "LOVIISA ORRENGRUND",
+    "include": false
+  },
+  {
+    "id": "SN201900",
+    "name": "KATTERJAKK A",
+    "include": false
+  },
+  {
+    "id": "SN262810",
+    "name": "KARLSHAMN",
+    "include": false
+  },
+  {
+    "id": "SN15950",
+    "name": "RV15 BREIDALEN",
+    "include": false
+  },
+  {
+    "id": "SN44660",
+    "name": "STAVANGER - HUNDV\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN7920",
+    "name": "FINSTAD - NYHUS",
+    "include": false
+  },
+  {
+    "id": "SN99370",
+    "name": "KIRKENES LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN27075",
+    "name": "E18 GRELLAND",
+    "include": false
+  },
+  {
+    "id": "SN257400",
+    "name": "NORRKOPING",
+    "include": false
+  },
+  {
+    "id": "SN84710",
+    "name": "NARVIK - STASJONSVN.",
+    "include": false
+  },
+  {
+    "id": "SN30350",
+    "name": "SKIEN - J\u00d8NNEVALL",
+    "include": false
+  },
+  {
+    "id": "SN91726",
+    "name": "ARN\u00d8YA - LANGFJORDEN",
+    "include": false
+  },
+  {
+    "id": "SN80610",
+    "name": "MYKEN",
+    "include": false
+  },
+  {
+    "id": "SN44552",
+    "name": "TANANGER",
+    "include": false
+  },
+  {
+    "id": "SN99765",
+    "name": "AKSEL\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN72580",
+    "name": "NAMSOS LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN91080",
+    "name": "YTRE HOLMEBUKT",
+    "include": false
+  },
+  {
+    "id": "SN17251",
+    "name": "MOSS BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN84701",
+    "name": "NARVIK SENTRUM",
+    "include": false
+  },
+  {
+    "id": "SN1628000",
+    "name": "PONZA",
+    "include": false
+  },
+  {
+    "id": "SN30242",
+    "name": "FV301 BERG KIRKE",
+    "include": false
+  },
+  {
+    "id": "SN77425",
+    "name": "MAJAVATN V",
+    "include": false
+  },
+  {
+    "id": "SN51990",
+    "name": "MYRKDALEN-VETLEBOTN",
+    "include": false
+  },
+  {
+    "id": "SN88200",
+    "name": "SENJA - LAUKHELLA",
+    "include": false
+  },
+  {
+    "id": "SN8970",
+    "name": "EINUNNA KRAFTVERK",
+    "include": false
+  },
+  {
+    "id": "SN17780",
+    "name": "BLEKSLITJERN",
+    "include": false
+  },
+  {
+    "id": "SN4825",
+    "name": "FV170 KOMPVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN56960",
+    "name": "HAUKEDAL",
+    "include": false
+  },
+  {
+    "id": "SN45530",
+    "name": "LIARVATN",
+    "include": false
+  },
+  {
+    "id": "SN11500",
+    "name": "\u00d8STRE TOTEN - APELSVOLL",
+    "include": false
+  },
+  {
+    "id": "SN30000",
+    "name": "LARVIK",
+    "include": false
+  },
+  {
+    "id": "SN645100",
+    "name": "BRUSSELS NATIONAL (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN42650",
+    "name": "FLEKKEFJORD",
+    "include": false
+  },
+  {
+    "id": "SN73630",
+    "name": "E6 FJERDINGEN",
+    "include": false
+  },
+  {
+    "id": "SN256700",
+    "name": "LANDSORT",
+    "include": false
+  },
+  {
+    "id": "SN288900",
+    "name": "SUOMUSSALMI PESIO",
+    "include": false
+  },
+  {
+    "id": "SN2686300",
+    "name": "MOGILEV",
+    "include": false
+  },
+  {
+    "id": "SN30278",
+    "name": "SKIEN - KLYVE",
+    "include": false
+  },
+  {
+    "id": "SN1702200",
+    "name": "ZONGULDAK",
+    "include": false
+  },
+  {
+    "id": "SN263100",
+    "name": "LUND",
+    "include": false
+  },
+  {
+    "id": "SN11440",
+    "name": "FV33 FEIRING",
+    "include": false
+  },
+  {
+    "id": "SN64320",
+    "name": "KRISTIANSUND ELVERK",
+    "include": false
+  },
+  {
+    "id": "SN98978",
+    "name": "REINHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN1233000",
+    "name": "POZNAN-LAWICA",
+    "include": false
+  },
+  {
+    "id": "SN38140",
+    "name": "LANDVIK",
+    "include": false
+  },
+  {
+    "id": "SN395300",
+    "name": "VALENTIA OBSERVATORY",
+    "include": false
+  },
+  {
+    "id": "SN50351",
+    "name": "SAMNANGER II",
+    "include": false
+  },
+  {
+    "id": "SN15262",
+    "name": "JUVFLYE - MIMISBRUNNR KLIMAPARK",
+    "include": false
+  },
+  {
+    "id": "SN17810",
+    "name": "NESODDEN - TANGEN\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN250010",
+    "name": "ED D",
+    "include": false
+  },
+  {
+    "id": "SN58165",
+    "name": "E39 KLAKEGG",
+    "include": false
+  },
+  {
+    "id": "SN1447400",
+    "name": "DUBROVNIK/CILIPI",
+    "include": false
+  },
+  {
+    "id": "SN50360",
+    "name": "FV7 GULLBOTN",
+    "include": false
+  },
+  {
+    "id": "SN3339300",
+    "name": "Lviv",
+    "include": false
+  },
+  {
+    "id": "SN26450",
+    "name": "FV211 HAGLEBU",
+    "include": false
+  },
+  {
+    "id": "SN17550",
+    "name": "E6 SONSVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN746000",
+    "name": "CLERMONT-FERRAND",
+    "include": false
+  },
+  {
+    "id": "SN1178200",
+    "name": "OSTRAVA/MOSNOV",
+    "include": false
+  },
+  {
+    "id": "SN231600",
+    "name": "SARNA",
+    "include": false
+  },
+  {
+    "id": "SN259000",
+    "name": "VISBY",
+    "include": false
+  },
+  {
+    "id": "SN86310",
+    "name": "GIMS\u00d8Y - OSAN",
+    "include": false
+  },
+  {
+    "id": "SN50539",
+    "name": "BERGEN - FLORIDA UIB",
+    "include": false
+  },
+  {
+    "id": "SN69380",
+    "name": "MER\u00c5KER - VARDETUN",
+    "include": false
+  },
+  {
+    "id": "SN39450",
+    "name": "RV9 DALEHEFTE",
+    "include": false
+  },
+  {
+    "id": "SN60875",
+    "name": "BRUSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN800100",
+    "name": "LA CORUNA",
+    "include": false
+  },
+  {
+    "id": "SN15890",
+    "name": "GROTLI III",
+    "include": false
+  },
+  {
+    "id": "SN1401500",
+    "name": "LJUBLJANA/BEZIGRAD",
+    "include": false
+  },
+  {
+    "id": "SN4460",
+    "name": "HAKADAL JERNBANESTASJON",
+    "include": false
+  },
+  {
+    "id": "SN66150",
+    "name": "ORKDAL - THAMSHAMN",
+    "include": false
+  },
+  {
+    "id": "SN180",
+    "name": "TRYSIL VEGSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN298700",
+    "name": "PORVOO KALLBADAGRUND",
+    "include": false
+  },
+  {
+    "id": "SN78370",
+    "name": "BJERKA - VALLA",
+    "include": false
+  },
+  {
+    "id": "SN91020",
+    "name": "BREIVIKEIDET",
+    "include": false
+  },
+  {
+    "id": "SN61090",
+    "name": "TRESFJORDEN",
+    "include": false
+  },
+  {
+    "id": "SN99902",
+    "name": "NY-\u00c5LESUND - RABBEN FLYPLASS",
+    "include": false
+  },
+  {
+    "id": "SN92895",
+    "name": "E6 LANGFJORDBOTN",
+    "include": false
+  },
+  {
+    "id": "SN226100",
+    "name": "LYCKSELE",
+    "include": false
+  },
+  {
+    "id": "SN20932",
+    "name": "VESTFJORDEN",
+    "include": false
+  },
+  {
+    "id": "SN31250",
+    "name": "STRENGEN",
+    "include": false
+  },
+  {
+    "id": "SN99938",
+    "name": "KVIT\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN58560",
+    "name": "STRYN",
+    "include": false
+  },
+  {
+    "id": "SN18420",
+    "name": "OSLO - DISEN",
+    "include": false
+  },
+  {
+    "id": "SN11790",
+    "name": "FV33 VARDALS\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN39100",
+    "name": "OKS\u00d8Y FYR",
+    "include": false
+  },
+  {
+    "id": "SN2640600",
+    "name": "LIEPAJA",
+    "include": false
+  },
+  {
+    "id": "SN90760",
+    "name": "FAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN4110",
+    "name": "L\u00d8RENSKOG - HANEBORG",
+    "include": false
+  },
+  {
+    "id": "SN226190",
+    "name": "RUSKSELE D",
+    "include": false
+  },
+  {
+    "id": "SN18160",
+    "name": "NORDSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN55770",
+    "name": "NJ\u00d8S",
+    "include": false
+  },
+  {
+    "id": "SN3334500",
+    "name": "Kyiv",
+    "include": false
+  },
+  {
+    "id": "SN76450",
+    "name": "VEGA - VALLSJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN30810",
+    "name": "TINNOSDAMMEN",
+    "include": false
+  },
+  {
+    "id": "SN68420",
+    "name": "AUNET",
+    "include": false
+  },
+  {
+    "id": "SN1257000",
+    "name": "KIELCE-SUKOW",
+    "include": false
+  },
+  {
+    "id": "SN80200",
+    "name": "LUR\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN741200",
+    "name": "COGNAC",
+    "include": false
+  },
+  {
+    "id": "SN33430",
+    "name": "E134 GR\u00d8NLIHEIA",
+    "include": false
+  },
+  {
+    "id": "SN99884",
+    "name": "KLAUVA",
+    "include": false
+  },
+  {
+    "id": "SN54110",
+    "name": "L\u00c6RDAL IV",
+    "include": false
+  },
+  {
+    "id": "SN81420",
+    "name": "FV813 BEIARFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN19461",
+    "name": "BRUNKOLLEN",
+    "include": false
+  },
+  {
+    "id": "SN87315",
+    "name": "RV85 LANGVASSBUKT",
+    "include": false
+  },
+  {
+    "id": "SN66760",
+    "name": "OPPDAL - MAURHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN46430",
+    "name": "R\u00d8LDALSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN212400",
+    "name": "ARJEPLOG",
+    "include": false
+  },
+  {
+    "id": "SN77006",
+    "name": "JOHAN HJORT",
+    "include": false
+  },
+  {
+    "id": "SN19470",
+    "name": "MUREN",
+    "include": false
+  },
+  {
+    "id": "SN98090",
+    "name": "BERLEV\u00c5G LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN47498",
+    "name": "ETNE II",
+    "include": false
+  },
+  {
+    "id": "SN330200",
+    "name": "VALLEY",
+    "include": false
+  },
+  {
+    "id": "SN63100",
+    "name": "\u00d8KSENDAL",
+    "include": false
+  },
+  {
+    "id": "SN225490",
+    "name": "YTTERRISSJ\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN659000",
+    "name": "LUXEMBOURG/LUXEMBOURG",
+    "include": false
+  },
+  {
+    "id": "SN1520000",
+    "name": "ARAD",
+    "include": false
+  },
+  {
+    "id": "SN66850",
+    "name": "KVIKNE I \u00d8STERDAL",
+    "include": false
+  },
+  {
+    "id": "SN90491",
+    "name": "TROMS\u00d8 LH - STORKJ\u00d8LEN",
+    "include": false
+  },
+  {
+    "id": "SN5680",
+    "name": "RV2 F\u00d8TTASKJ\u00c6RET",
+    "include": false
+  },
+  {
+    "id": "SN61790",
+    "name": "FV64 ISFJORDEN",
+    "include": false
+  },
+  {
+    "id": "SN93900",
+    "name": "SIHCCAJAVRI",
+    "include": false
+  },
+  {
+    "id": "SN293900",
+    "name": "ILOMANTSI MEKRIJARVI",
+    "include": false
+  },
+  {
+    "id": "SN58910",
+    "name": "RV15 MARKANE",
+    "include": false
+  },
+  {
+    "id": "SN76961",
+    "name": "SLEIPNER B",
+    "include": false
+  },
+  {
+    "id": "SN47480",
+    "name": "E134 VATS",
+    "include": false
+  },
+  {
+    "id": "SN12050",
+    "name": "E6 VIKSELV",
+    "include": false
+  },
+  {
+    "id": "SN82210",
+    "name": "RV80 BERTNES",
+    "include": false
+  },
+  {
+    "id": "SN77042",
+    "name": "MS COLOR FANTASY",
+    "include": false
+  },
+  {
+    "id": "SN33950",
+    "name": "HAUKELISETER TESTFELT",
+    "include": false
+  },
+  {
+    "id": "SN91460",
+    "name": "E8 GARDEBORGBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN27320",
+    "name": "E18 HEM NORD",
+    "include": false
+  },
+  {
+    "id": "SN19945",
+    "name": "LIER - SJ\u00c5STAD",
+    "include": false
+  },
+  {
+    "id": "SN267900",
+    "name": "HOBURG A",
+    "include": false
+  },
+  {
+    "id": "SN85610",
+    "name": "SKJELFJORD",
+    "include": false
+  },
+  {
+    "id": "SN27015",
+    "name": "DRAMMEN - JARLSBERGVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN5330",
+    "name": "FV24 STORSJ\u00d8EN",
+    "include": false
+  },
+  {
+    "id": "SN42940",
+    "name": "SIRDAL - SINNES",
+    "include": false
+  },
+  {
+    "id": "SN91675",
+    "name": "E6 DJUPVIK",
+    "include": false
+  },
+  {
+    "id": "SN228280",
+    "name": "KALVTR\u00c4SK D",
+    "include": false
+  },
+  {
+    "id": "SN7950",
+    "name": "RENA FLYPLASS",
+    "include": false
+  },
+  {
+    "id": "SN1230",
+    "name": "HALDEN",
+    "include": false
+  },
+  {
+    "id": "SN57340",
+    "name": "J\u00d8LSTER - KVAMSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN225400",
+    "name": "ASELE",
+    "include": false
+  },
+  {
+    "id": "SN764500",
+    "name": "NIMES-COURBESSAC",
+    "include": false
+  },
+  {
+    "id": "SN1165900",
+    "name": "PRIBYSLAV",
+    "include": false
+  },
+  {
+    "id": "SN91729",
+    "name": "ARN\u00d8YA - TROLLTINDEN",
+    "include": false
+  },
+  {
+    "id": "SN9870",
+    "name": "BLANKTJERNMOEN I KVIKNE",
+    "include": false
+  },
+  {
+    "id": "SN26970",
+    "name": "FV319 SAGBUKTA",
+    "include": false
+  },
+  {
+    "id": "SN232150",
+    "name": "ULVSJ\u00d6",
+    "include": false
+  },
+  {
+    "id": "SN85640",
+    "name": "E10 K\u00c5KERN BRU",
+    "include": false
+  },
+  {
+    "id": "SN1011300",
+    "name": "NORDERNEY",
+    "include": false
+  },
+  {
+    "id": "SN76937",
+    "name": "TROLL C",
+    "include": false
+  },
+  {
+    "id": "SN1636000",
+    "name": "S. MARIA DI LEUCA",
+    "include": false
+  },
+  {
+    "id": "SN27870",
+    "name": "FV40 RIENLIA",
+    "include": false
+  },
+  {
+    "id": "SN2240800",
+    "name": "KALEVALA",
+    "include": false
+  },
+  {
+    "id": "SN18315",
+    "name": "OSLO - SOFIENBERG",
+    "include": false
+  },
+  {
+    "id": "SN20926",
+    "name": "HJELMS\u00d8YBANKEN",
+    "include": false
+  },
+  {
+    "id": "SN77350",
+    "name": "RV76 TOSENFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN76946",
+    "name": "ROSS RIG",
+    "include": false
+  },
+  {
+    "id": "SN69661",
+    "name": "E39 KVIVSVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN89130",
+    "name": "RYDENG",
+    "include": false
+  },
+  {
+    "id": "SN32060",
+    "name": "GVARV - NES",
+    "include": false
+  },
+  {
+    "id": "SN62295",
+    "name": "MOLDE - HINDALSR\u00d8RA",
+    "include": false
+  },
+  {
+    "id": "SN2200400",
+    "name": "NIKEL\u02bc",
+    "include": false
+  },
+  {
+    "id": "SN50865",
+    "name": "GULLFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN820200",
+    "name": "SALAMANCA/MATACAN",
+    "include": false
+  },
+  {
+    "id": "SN34680",
+    "name": "FV38 BOSTRAK",
+    "include": false
+  },
+  {
+    "id": "SN207280",
+    "name": "VITTANGI",
+    "include": false
+  },
+  {
+    "id": "SN84070",
+    "name": "BJ\u00d8RK\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN19930",
+    "name": "GLITRE",
+    "include": false
+  },
+  {
+    "id": "SN240700",
+    "name": "MALUNG A",
+    "include": false
+  },
+  {
+    "id": "SN68010",
+    "name": "TRONDHEIM - H\u00d8VRINGEN",
+    "include": false
+  },
+  {
+    "id": "SN64242",
+    "name": "RV70 RENSVIK",
+    "include": false
+  },
+  {
+    "id": "SN88690",
+    "name": "HEKKINGEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN49860",
+    "name": "RV7 DYRANUT",
+    "include": false
+  },
+  {
+    "id": "SN751000",
+    "name": "BORDEAUX MERIGNAC",
+    "include": false
+  },
+  {
+    "id": "SN99340",
+    "name": "\u00d8VRE NEIDEN",
+    "include": false
+  },
+  {
+    "id": "SN236600",
+    "name": "SUNDSVALL HARNOSAND (2366-0)",
+    "include": false
+  },
+  {
+    "id": "SN82410",
+    "name": "HELLIGV\u00c6R II",
+    "include": false
+  },
+  {
+    "id": "SN70980",
+    "name": "E6 KVAM",
+    "include": false
+  },
+  {
+    "id": "SN83280",
+    "name": "FV835 ENGEL\u00d8YBRUA",
+    "include": false
+  },
+  {
+    "id": "SN76928",
+    "name": "HEIDRUN",
+    "include": false
+  },
+  {
+    "id": "SN6840",
+    "name": "RV3 RENA",
+    "include": false
+  },
+  {
+    "id": "SN1512000",
+    "name": "CLUJ-NAPOCA",
+    "include": false
+  },
+  {
+    "id": "SN210",
+    "name": "TRYSIL - NORDRE KANKEN",
+    "include": false
+  },
+  {
+    "id": "SN62950",
+    "name": "E39 GJEMNESSUNDBRUA",
+    "include": false
+  },
+  {
+    "id": "SN56320",
+    "name": "LAVIK",
+    "include": false
+  },
+  {
+    "id": "SN88430",
+    "name": "FV7862 KAPERSKARET",
+    "include": false
+  },
+  {
+    "id": "SN65130",
+    "name": "TUSTNA",
+    "include": false
+  },
+  {
+    "id": "SN1225000",
+    "name": "TORUN",
+    "include": false
+  },
+  {
+    "id": "SN77000",
+    "name": "POLARBJ\u00d8RN",
+    "include": false
+  },
+  {
+    "id": "SN69625",
+    "name": "E6 \u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN396200",
+    "name": "SHANNON AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN90305",
+    "name": "E8 LAVANGSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN6580",
+    "name": "RV2 SORMA",
+    "include": false
+  },
+  {
+    "id": "SN44190",
+    "name": "TIME - LYE",
+    "include": false
+  },
+  {
+    "id": "SN33890",
+    "name": "V\u00c5GSLI",
+    "include": false
+  },
+  {
+    "id": "SN64870",
+    "name": "T\u00c5GDALEN",
+    "include": false
+  },
+  {
+    "id": "SN264870",
+    "name": "TINGSRYD-DEGERHAGA",
+    "include": false
+  },
+  {
+    "id": "SN212600",
+    "name": "GUNNARN",
+    "include": false
+  },
+  {
+    "id": "SN41005",
+    "name": "E39 SUVATNET",
+    "include": false
+  },
+  {
+    "id": "SN120",
+    "name": "FV569 FLERMOBERGET",
+    "include": false
+  },
+  {
+    "id": "SN98640",
+    "name": "FINNESVATNET",
+    "include": false
+  },
+  {
+    "id": "SN98550",
+    "name": "VARD\u00d8 RADIO",
+    "include": false
+  },
+  {
+    "id": "SN222200",
+    "name": "GADDEDE",
+    "include": false
+  },
+  {
+    "id": "SN2642200",
+    "name": "RIGA LU",
+    "include": false
+  },
+  {
+    "id": "SN24820",
+    "name": "RV7 NESBYEN",
+    "include": false
+  },
+  {
+    "id": "SN93140",
+    "name": "ALTA LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN10070",
+    "name": "FV30 OSMOEN",
+    "include": false
+  },
+  {
+    "id": "SN94235",
+    "name": "RV94 SKJ\u00c5HOLMEN",
+    "include": false
+  },
+  {
+    "id": "SN20540",
+    "name": "GRAN",
+    "include": false
+  },
+  {
+    "id": "SN76964",
+    "name": "NJORD A",
+    "include": false
+  },
+  {
+    "id": "SN263300",
+    "name": "LUND, SOL",
+    "include": false
+  },
+  {
+    "id": "SN290700",
+    "name": "KALAJOKI ULKOKALLA",
+    "include": false
+  },
+  {
+    "id": "SN92880",
+    "name": "\u00d8KSFJORD - PARKVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN2830",
+    "name": "FV115 HEMNES",
+    "include": false
+  },
+  {
+    "id": "SN1014700",
+    "name": "HAMBURG-FUHLSBUETTEL",
+    "include": false
+  },
+  {
+    "id": "SN86600",
+    "name": "STOKMARKNES LH - SKAGEN",
+    "include": false
+  },
+  {
+    "id": "SN15480",
+    "name": "SKJ\u00c5K II",
+    "include": false
+  },
+  {
+    "id": "SN286600",
+    "name": "PUDASJARVI AIRFIELD",
+    "include": false
+  },
+  {
+    "id": "SN18405",
+    "name": "OSLO - SANDAKER",
+    "include": false
+  },
+  {
+    "id": "SN44567",
+    "name": "E39 FINNESTAD",
+    "include": false
+  },
+  {
+    "id": "SN46460",
+    "name": "R\u00d8LDAL KRAFTVERK",
+    "include": false
+  },
+  {
+    "id": "SN17005",
+    "name": "ONS\u00d8Y - \u00d8YENKILEN",
+    "include": false
+  },
+  {
+    "id": "SN211030",
+    "name": "AVASJ\u00d6-BORGAFJ\u00c4LL D",
+    "include": false
+  },
+  {
+    "id": "SN67140",
+    "name": "SKJETLEIN",
+    "include": false
+  },
+  {
+    "id": "SN59110",
+    "name": "KR\u00c5KENES",
+    "include": false
+  },
+  {
+    "id": "SN20280",
+    "name": "H\u00d8NEFOSS - HVERVEN",
+    "include": false
+  },
+  {
+    "id": "SN1662700",
+    "name": "ALEXANDROUPOLI (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN52390",
+    "name": "E39 OSTEREIDET",
+    "include": false
+  },
+  {
+    "id": "SN99600",
+    "name": "FARKOLLEN",
+    "include": false
+  },
+  {
+    "id": "SN218800",
+    "name": "RODKALLEN",
+    "include": false
+  },
+  {
+    "id": "SN17400",
+    "name": "FV120 R\u00d8DSUND",
+    "include": false
+  },
+  {
+    "id": "SN44800",
+    "name": "SVILAND",
+    "include": false
+  },
+  {
+    "id": "SN12600",
+    "name": "VEA",
+    "include": false
+  },
+  {
+    "id": "SN20361",
+    "name": "E16 EGGEMOEN",
+    "include": false
+  },
+  {
+    "id": "SN224515",
+    "name": "H\u00d6GLAND D",
+    "include": false
+  },
+  {
+    "id": "SN18970",
+    "name": "OSLO - LYSAKER",
+    "include": false
+  },
+  {
+    "id": "SN71850",
+    "name": "HALTEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN265220",
+    "name": "KRISTIANSTAD",
+    "include": false
+  },
+  {
+    "id": "SN18701",
+    "name": "OSLO - BLINDERN PLU",
+    "include": false
+  },
+  {
+    "id": "SN53700",
+    "name": "AURLAND",
+    "include": false
+  },
+  {
+    "id": "SN72200",
+    "name": "FV17 R\u00d8DHAMMER",
+    "include": false
+  },
+  {
+    "id": "SN50506",
+    "name": "E39 FJ\u00d8SANGERVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN38735",
+    "name": "RV41 HYNNEKLEIV",
+    "include": false
+  },
+  {
+    "id": "SN226130",
+    "name": "GRAN\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN18450",
+    "name": "MARIDALSOSET",
+    "include": false
+  },
+  {
+    "id": "SN1671600",
+    "name": "ATHINAI HELLINIKON",
+    "include": false
+  },
+  {
+    "id": "SN17050",
+    "name": "R\u00c5DE - TOMB",
+    "include": false
+  },
+  {
+    "id": "SN57630",
+    "name": "RV5 SVARTHUMLE",
+    "include": false
+  },
+  {
+    "id": "SN249600",
+    "name": "SVENSKA HOGARNA",
+    "include": false
+  },
+  {
+    "id": "SN19670",
+    "name": "ASKER - NESBRU",
+    "include": false
+  },
+  {
+    "id": "SN226300",
+    "name": "FREDRIKA",
+    "include": false
+  },
+  {
+    "id": "SN1293500",
+    "name": "SIOFOK",
+    "include": false
+  },
+  {
+    "id": "SN71805",
+    "name": "FV715 MOMYR",
+    "include": false
+  },
+  {
+    "id": "SN4920",
+    "name": "\u00c5RNES",
+    "include": false
+  },
+  {
+    "id": "SN23420",
+    "name": "FAGERNES",
+    "include": false
+  },
+  {
+    "id": "SN61030",
+    "name": "PV98851 SKJELTENE",
+    "include": false
+  },
+  {
+    "id": "SN99869",
+    "name": "ADVENTDALEN - LOESS TERRACE",
+    "include": false
+  },
+  {
+    "id": "SN1649000",
+    "name": "LAMPEDUSA",
+    "include": false
+  },
+  {
+    "id": "SN287300",
+    "name": "HAILUOTO MARJANIEMI",
+    "include": false
+  },
+  {
+    "id": "SN94800",
+    "name": "REPV\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN55970",
+    "name": "FV55 KONGSNES",
+    "include": false
+  },
+  {
+    "id": "SN1534600",
+    "name": "RAMNICU VALCEA",
+    "include": false
+  },
+  {
+    "id": "SN39040",
+    "name": "KJEVIK",
+    "include": false
+  },
+  {
+    "id": "SN99950",
+    "name": "JAN MAYEN",
+    "include": false
+  },
+  {
+    "id": "SN2480",
+    "name": "FV21 TANGEN",
+    "include": false
+  },
+  {
+    "id": "SN837300",
+    "name": "IBIZA/ES CODOLA",
+    "include": false
+  },
+  {
+    "id": "SN828400",
+    "name": "VALENCIA/AEROPUERTO",
+    "include": false
+  },
+  {
+    "id": "SN1672300",
+    "name": "SAMOS (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN87120",
+    "name": "AND\u00d8YA - TROLLTINDEN",
+    "include": false
+  },
+  {
+    "id": "SN20953",
+    "name": "VALEMON",
+    "include": false
+  },
+  {
+    "id": "SN60",
+    "name": "LINNES",
+    "include": false
+  },
+  {
+    "id": "SN98580",
+    "name": "VARD\u00d8 LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN78250",
+    "name": "LEIRFJORD",
+    "include": false
+  },
+  {
+    "id": "SN395700",
+    "name": "ROSSLARE",
+    "include": false
+  },
+  {
+    "id": "SN73800",
+    "name": "TUNNSJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN12648",
+    "name": "LILLEHAMMER - R\u00c5DHUSET",
+    "include": false
+  },
+  {
+    "id": "SN210100",
+    "name": "HEMAVAN",
+    "include": false
+  },
+  {
+    "id": "SN81650",
+    "name": "SALTDAL - NORDNES",
+    "include": false
+  },
+  {
+    "id": "SN382700",
+    "name": "PLYMOUTH, MOUNT BATTEN",
+    "include": false
+  },
+  {
+    "id": "SN75020",
+    "name": "OTTER\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN834800",
+    "name": "CIUDAD REAL",
+    "include": false
+  },
+  {
+    "id": "SN66120",
+    "name": "RV714 V\u00c5VATNET",
+    "include": false
+  },
+  {
+    "id": "SN1668400",
+    "name": "SKYROS (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN9050",
+    "name": "GRIMSE",
+    "include": false
+  },
+  {
+    "id": "SN67340",
+    "name": "E6 BUVATNET",
+    "include": false
+  },
+  {
+    "id": "SN85840",
+    "name": "V\u00c6R\u00d8Y HELIPORT",
+    "include": false
+  },
+  {
+    "id": "SN223100",
+    "name": "FOLLINGE",
+    "include": false
+  },
+  {
+    "id": "SN423100",
+    "name": "MITTARFIK KANGERLUSSUAQ (SDR. STROEMFJORD LUFTHAVN)",
+    "include": false
+  },
+  {
+    "id": "SN37150",
+    "name": "STORGAMA",
+    "include": false
+  },
+  {
+    "id": "SN99890",
+    "name": "KAFFI\u00d8YRA",
+    "include": false
+  },
+  {
+    "id": "SN4950",
+    "name": "FV175 FOLMO",
+    "include": false
+  },
+  {
+    "id": "SN32350",
+    "name": "\u00c5MOTSDAL",
+    "include": false
+  },
+  {
+    "id": "SN61060",
+    "name": "REKDAL",
+    "include": false
+  },
+  {
+    "id": "SN47055",
+    "name": "E39 EIKJE",
+    "include": false
+  },
+  {
+    "id": "SN217690",
+    "name": "KUSMARK D",
+    "include": false
+  },
+  {
+    "id": "SN26500",
+    "name": "GEITHUS",
+    "include": false
+  },
+  {
+    "id": "SN37500",
+    "name": "FOLDS\u00c6",
+    "include": false
+  },
+  {
+    "id": "SN246400",
+    "name": "STOCKHOLM/BROMMA",
+    "include": false
+  },
+  {
+    "id": "SN249800",
+    "name": "SVENSKA HOGARNA A",
+    "include": false
+  },
+  {
+    "id": "SN6170",
+    "name": "RV2 HASLEMOSLETTA",
+    "include": false
+  },
+  {
+    "id": "SN50150",
+    "name": "HATLESTRAND",
+    "include": false
+  },
+  {
+    "id": "SN213590",
+    "name": "SORSELE",
+    "include": false
+  },
+  {
+    "id": "SN3290",
+    "name": "RAKKESTAD",
+    "include": false
+  },
+  {
+    "id": "SN22840",
+    "name": "REINLI",
+    "include": false
+  },
+  {
+    "id": "SN27272",
+    "name": "T\u00d8NSBERG - EIK",
+    "include": false
+  },
+  {
+    "id": "SN26590",
+    "name": "DRAMMEN - SLETTA",
+    "include": false
+  },
+  {
+    "id": "SN20301",
+    "name": "H\u00d8NEFOSS - H\u00d8YBY",
+    "include": false
+  },
+  {
+    "id": "SN53990",
+    "name": "FV50 VESTREDALEN",
+    "include": false
+  },
+  {
+    "id": "SN54645",
+    "name": "E16 FILEFJELL V/SMEDDALEN",
+    "include": false
+  },
+  {
+    "id": "SN287500",
+    "name": "OULU AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN47270",
+    "name": "KARM\u00d8Y - HYDRO",
+    "include": false
+  },
+  {
+    "id": "SN74670",
+    "name": "E6 NAMSSKOGAN",
+    "include": false
+  },
+  {
+    "id": "SN1541000",
+    "name": "DROBETA-TURNU SEVERIN",
+    "include": false
+  },
+  {
+    "id": "SN95350",
+    "name": "BANAK",
+    "include": false
+  },
+  {
+    "id": "SN12280",
+    "name": "RV3 STABEKKEN",
+    "include": false
+  },
+  {
+    "id": "SN1230000",
+    "name": "GORZOW WLKP",
+    "include": false
+  },
+  {
+    "id": "SN41860",
+    "name": "KVINESHEI - S\u00d8RHELLE",
+    "include": false
+  },
+  {
+    "id": "SN300500",
+    "name": "LERWICK",
+    "include": false
+  },
+  {
+    "id": "SN51460",
+    "name": "E16 EIDESMOEN",
+    "include": false
+  },
+  {
+    "id": "SN76931",
+    "name": "TROLL A",
+    "include": false
+  },
+  {
+    "id": "SN76967",
+    "name": "OSEBERG S\u00d8R",
+    "include": false
+  },
+  {
+    "id": "SN20929",
+    "name": "JOHAN SVERDRUP",
+    "include": false
+  },
+  {
+    "id": "SN1718400",
+    "name": "AKHISAR",
+    "include": false
+  },
+  {
+    "id": "SN54600",
+    "name": "MARISTOVA",
+    "include": false
+  },
+  {
+    "id": "SN82000",
+    "name": "SETS\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN55820",
+    "name": "FJ\u00c6RLAND - BREMUSEET",
+    "include": false
+  },
+  {
+    "id": "SN96400",
+    "name": "SLETTNES FYR",
+    "include": false
+  },
+  {
+    "id": "SN296400",
+    "name": "KUSTAVI ISOKARI",
+    "include": false
+  },
+  {
+    "id": "SN52940",
+    "name": "E39 KRINGLA",
+    "include": false
+  },
+  {
+    "id": "SN619000",
+    "name": "BORNHOLMS LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN14550",
+    "name": "PRESTSTULEN",
+    "include": false
+  },
+  {
+    "id": "SN13150",
+    "name": "F\u00c5VANG",
+    "include": false
+  },
+  {
+    "id": "SN76922",
+    "name": "STATFJORD A",
+    "include": false
+  },
+  {
+    "id": "SN63940",
+    "name": "E6 GR\u00d8NBAKKEN",
+    "include": false
+  },
+  {
+    "id": "SN76240",
+    "name": "S\u00d8MNA - KVAL\u00d8YFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN219700",
+    "name": "HAPARANDA",
+    "include": false
+  },
+  {
+    "id": "SN19825",
+    "name": "TOFTE - RULLETO",
+    "include": false
+  },
+  {
+    "id": "SN69960",
+    "name": "BURAN",
+    "include": false
+  },
+  {
+    "id": "SN88460",
+    "name": "GRUNNFARNES",
+    "include": false
+  },
+  {
+    "id": "SN89985",
+    "name": "SJUFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN50500",
+    "name": "FLESLAND",
+    "include": false
+  },
+  {
+    "id": "SN69655",
+    "name": "FROSTA",
+    "include": false
+  },
+  {
+    "id": "SN97710",
+    "name": "ISKORAS II",
+    "include": false
+  },
+  {
+    "id": "SN27281",
+    "name": "T\u00d8NSBERG - BARK\u00c5KER",
+    "include": false
+  },
+  {
+    "id": "SN50850",
+    "name": "FV580 HAUKELAND",
+    "include": false
+  },
+  {
+    "id": "SN76330",
+    "name": "BR\u00d8NN\u00d8YSUND LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN8135",
+    "name": "RV3 EVENSTAD",
+    "include": false
+  },
+  {
+    "id": "SN2260200",
+    "name": "REBOLY",
+    "include": false
+  },
+  {
+    "id": "SN91528",
+    "name": "GAMANJUNNI - 1100MOH",
+    "include": false
+  },
+  {
+    "id": "SN606000",
+    "name": "FLYVESTATION KARUP",
+    "include": false
+  },
+  {
+    "id": "SN69520",
+    "name": "E14 TEVELDALEN",
+    "include": false
+  },
+  {
+    "id": "SN60620",
+    "name": "GR\u00d8NNING",
+    "include": false
+  },
+  {
+    "id": "SN12980",
+    "name": "LILLEHAMMER - BJ\u00d8RNERUD",
+    "include": false
+  },
+  {
+    "id": "SN250590",
+    "name": "LYSEKIL D",
+    "include": false
+  },
+  {
+    "id": "SN13760",
+    "name": "FV51 VALDRESFLYE",
+    "include": false
+  },
+  {
+    "id": "SN3730",
+    "name": "E18 SM\u00c5LENENES BRU",
+    "include": false
+  },
+  {
+    "id": "SN714900",
+    "name": "ORLY",
+    "include": false
+  },
+  {
+    "id": "SN25630",
+    "name": "GEILO - OLDEBR\u00c5TEN",
+    "include": false
+  },
+  {
+    "id": "SN14200",
+    "name": "LEIRFLATEN",
+    "include": false
+  },
+  {
+    "id": "SN57830",
+    "name": "FV614 LANGESI",
+    "include": false
+  },
+  {
+    "id": "SN89940",
+    "name": "DIVIDALEN II",
+    "include": false
+  },
+  {
+    "id": "SN76958",
+    "name": "\u00c5SGARD B",
+    "include": false
+  },
+  {
+    "id": "SN62980",
+    "name": "GJEMNES - REINSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN99872",
+    "name": "ADVENTDALEN - UPPER SNOWDRIFT",
+    "include": false
+  },
+  {
+    "id": "SN61580",
+    "name": "E136 BRUSTUGLIA",
+    "include": false
+  },
+  {
+    "id": "SN43520",
+    "name": "FV42 TVERRA",
+    "include": false
+  },
+  {
+    "id": "SN99540",
+    "name": "NYRUD",
+    "include": false
+  },
+  {
+    "id": "SN55300",
+    "name": "SKJOLDEN",
+    "include": false
+  },
+  {
+    "id": "SN226590",
+    "name": "S\u00d6DERSEL D",
+    "include": false
+  },
+  {
+    "id": "SN96310",
+    "name": "MEHAMN LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN92910",
+    "name": "SOPNESBUKT",
+    "include": false
+  },
+  {
+    "id": "SN91510",
+    "name": "MANNDALEN II",
+    "include": false
+  },
+  {
+    "id": "SN57480",
+    "name": "BOTNEN I F\u00d8RDE",
+    "include": false
+  },
+  {
+    "id": "SN84880",
+    "name": "KATTERAT",
+    "include": false
+  },
+  {
+    "id": "SN3304100",
+    "name": "GOMEL",
+    "include": false
+  },
+  {
+    "id": "SN9310",
+    "name": "HJERKINN II",
+    "include": false
+  },
+  {
+    "id": "SN56520",
+    "name": "HOVLANDSDAL",
+    "include": false
+  },
+  {
+    "id": "SN1211500",
+    "name": "USTKA",
+    "include": false
+  },
+  {
+    "id": "SN88630",
+    "name": "FJORDG\u00c5RD",
+    "include": false
+  },
+  {
+    "id": "SN263500",
+    "name": "MALMO",
+    "include": false
+  },
+  {
+    "id": "SN11060",
+    "name": "FV181 FINSBR\u00c5TAN",
+    "include": false
+  },
+  {
+    "id": "SN49800",
+    "name": "FET I EIDFJORD",
+    "include": false
+  },
+  {
+    "id": "SN243170",
+    "name": "ST\u00c4LLDALEN",
+    "include": false
+  },
+  {
+    "id": "SN3030",
+    "name": "FREDRIKSTAD",
+    "include": false
+  },
+  {
+    "id": "SN30340",
+    "name": "SKIEN - PETERSBORG",
+    "include": false
+  },
+  {
+    "id": "SN27460",
+    "name": "N\u00d8TTER\u00d8Y - BORGHEIM",
+    "include": false
+  },
+  {
+    "id": "SN84970",
+    "name": "EVENES LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN217430",
+    "name": "HARADS D",
+    "include": false
+  },
+  {
+    "id": "SN9400",
+    "name": "RV3 BERGER\u00d8NNINGEN",
+    "include": false
+  },
+  {
+    "id": "SN55928",
+    "name": "BALESTRAND - BALE",
+    "include": false
+  },
+  {
+    "id": "SN59660",
+    "name": "VOLDA",
+    "include": false
+  },
+  {
+    "id": "SN3990",
+    "name": "RV22 KROKEDAL",
+    "include": false
+  },
+  {
+    "id": "SN80340",
+    "name": "TR\u00c6NA - HUS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN23800",
+    "name": "YLJA KRAFTVERK",
+    "include": false
+  },
+  {
+    "id": "SN232700",
+    "name": "SVEG A",
+    "include": false
+  },
+  {
+    "id": "SN236100",
+    "name": "H\u00c4RN\u00d6SAND",
+    "include": false
+  },
+  {
+    "id": "SN60010",
+    "name": "SYKKYLVEN - VIK",
+    "include": false
+  },
+  {
+    "id": "SN24670",
+    "name": "FV280 ENDERUD BRU",
+    "include": false
+  },
+  {
+    "id": "SN44480",
+    "name": "S\u00d8YLAND I GJESDAL",
+    "include": false
+  },
+  {
+    "id": "SN56780",
+    "name": "SYGNA",
+    "include": false
+  },
+  {
+    "id": "SN99935",
+    "name": "KARL XII-\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN45350",
+    "name": "LYSEBOTN",
+    "include": false
+  },
+  {
+    "id": "SN1712900",
+    "name": "ETIMESGUT HAVAL\u0130MANI",
+    "include": false
+  },
+  {
+    "id": "SN223190",
+    "name": "L\u00c5NGAN D",
+    "include": false
+  },
+  {
+    "id": "SN50527",
+    "name": "KV4821 NIPEDALEN",
+    "include": false
+  },
+  {
+    "id": "SN18390",
+    "name": "OSLO - BJ\u00d8LSEN",
+    "include": false
+  },
+  {
+    "id": "SN250500",
+    "name": "MASESKAR",
+    "include": false
+  },
+  {
+    "id": "SN47264",
+    "name": "KARM\u00d8Y - HARALDSVIK",
+    "include": false
+  },
+  {
+    "id": "SN753500",
+    "name": "GOURDON",
+    "include": false
+  },
+  {
+    "id": "SN26934",
+    "name": "DRAMMEN - SOLUMSTRAND",
+    "include": false
+  },
+  {
+    "id": "SN90",
+    "name": "RV25 MIDTSKOGBERGET",
+    "include": false
+  },
+  {
+    "id": "SN27400",
+    "name": "N\u00d8TTER\u00d8Y - F\u00d8YNLAND",
+    "include": false
+  },
+  {
+    "id": "SN84910",
+    "name": "E10 SKITDALSH\u00d8GDA",
+    "include": false
+  },
+  {
+    "id": "SN30325",
+    "name": "SKIEN - LANGEDUKEN",
+    "include": false
+  },
+  {
+    "id": "SN1296000",
+    "name": "BAJA",
+    "include": false
+  },
+  {
+    "id": "SN661000",
+    "name": "PAYERNE (6610-0)",
+    "include": false
+  },
+  {
+    "id": "SN90490",
+    "name": "TROMS\u00d8 - LANGNES",
+    "include": false
+  },
+  {
+    "id": "SN63530",
+    "name": "HAFS\u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN99740",
+    "name": "KONGS\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN76934",
+    "name": "STATFJORD B",
+    "include": false
+  },
+  {
+    "id": "SN47820",
+    "name": "EIKEMO",
+    "include": false
+  },
+  {
+    "id": "SN76530",
+    "name": "TJ\u00d8TTA",
+    "include": false
+  },
+  {
+    "id": "SN241190",
+    "name": "S\u00d6LJE D",
+    "include": false
+  },
+  {
+    "id": "SN711000",
+    "name": "BREST-GUIPAVAS",
+    "include": false
+  },
+  {
+    "id": "SN1400",
+    "name": "BREKKE SLUSE",
+    "include": false
+  },
+  {
+    "id": "SN324000",
+    "name": "BOULMER",
+    "include": false
+  },
+  {
+    "id": "SN3331700",
+    "name": "Shepetivka",
+    "include": false
+  },
+  {
+    "id": "SN77490",
+    "name": "KAPPFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN28450",
+    "name": "E134 MEHEIA",
+    "include": false
+  },
+  {
+    "id": "SN58030",
+    "name": "FV615 HYEN",
+    "include": false
+  },
+  {
+    "id": "SN86740",
+    "name": "B\u00d8 I VESTER\u00c5LEN III",
+    "include": false
+  },
+  {
+    "id": "SN3015",
+    "name": "BORGE - BERG",
+    "include": false
+  },
+  {
+    "id": "SN33250",
+    "name": "RAULAND",
+    "include": false
+  },
+  {
+    "id": "SN47300",
+    "name": "UTSIRA FYR",
+    "include": false
+  },
+  {
+    "id": "SN57770",
+    "name": "YTTER\u00d8YANE FYR",
+    "include": false
+  },
+  {
+    "id": "SN264400",
+    "name": "OLANDS SODRA UDDE",
+    "include": false
+  },
+  {
+    "id": "SN76925",
+    "name": "DRAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN85080",
+    "name": "KANSTADBOTN",
+    "include": false
+  },
+  {
+    "id": "SN212310",
+    "name": "J\u00c4CKVIK",
+    "include": false
+  },
+  {
+    "id": "SN606900",
+    "name": "FOULUM",
+    "include": false
+  },
+  {
+    "id": "SN78800",
+    "name": "VARNTRESK",
+    "include": false
+  },
+  {
+    "id": "SN398000",
+    "name": "MALIN HEAD",
+    "include": false
+  },
+  {
+    "id": "SN43810",
+    "name": "MAUDAL",
+    "include": false
+  },
+  {
+    "id": "SN215100",
+    "name": "JOKKMOKK FPL",
+    "include": false
+  },
+  {
+    "id": "SN17280",
+    "name": "GULLHOLMEN",
+    "include": false
+  },
+  {
+    "id": "SN848700",
+    "name": "ALMERIA/AEROPUERTO",
+    "include": false
+  },
+  {
+    "id": "SN87000",
+    "name": "\u00c5NSTADBL\u00c5HEIA",
+    "include": false
+  },
+  {
+    "id": "SN9250",
+    "name": "FV29 GRAVBEKKLIA",
+    "include": false
+  },
+  {
+    "id": "SN91522",
+    "name": "L\u00d8KVOLLEN",
+    "include": false
+  },
+  {
+    "id": "SN49085",
+    "name": "FOLGEFONNA SKISENTER",
+    "include": false
+  },
+  {
+    "id": "SN11000",
+    "name": "FV705 LANGSVOLA",
+    "include": false
+  },
+  {
+    "id": "SN219900",
+    "name": "YLINENJARVI",
+    "include": false
+  },
+  {
+    "id": "SN211000",
+    "name": "GIELAS",
+    "include": false
+  },
+  {
+    "id": "SN243200",
+    "name": "OREBRO",
+    "include": false
+  },
+  {
+    "id": "SN70510",
+    "name": "VERA II",
+    "include": false
+  },
+  {
+    "id": "SN2970",
+    "name": "E16 \u00d8YERMOEN",
+    "include": false
+  },
+  {
+    "id": "SN31680",
+    "name": "HANSBU",
+    "include": false
+  },
+  {
+    "id": "SN30280",
+    "name": "FV353 BRUMYRDAL",
+    "include": false
+  },
+  {
+    "id": "SN87763",
+    "name": "E10 TJELDSUNDBRUA \u00d8ST",
+    "include": false
+  },
+  {
+    "id": "SN52360",
+    "name": "E39 ROMARHEIMDALEN",
+    "include": false
+  },
+  {
+    "id": "SN53230",
+    "name": "E16 LANGHUSO",
+    "include": false
+  },
+  {
+    "id": "SN5590",
+    "name": "KONGSVINGER",
+    "include": false
+  },
+  {
+    "id": "SN232900",
+    "name": "HAMRA",
+    "include": false
+  },
+  {
+    "id": "SN256200",
+    "name": "LINKOPING/MALMSLATT",
+    "include": false
+  },
+  {
+    "id": "SN87117",
+    "name": "FV82 KJ\u00d8LH\u00c5GEN",
+    "include": false
+  },
+  {
+    "id": "SN18240",
+    "name": "E6 FURUSET",
+    "include": false
+  },
+  {
+    "id": "SN30020",
+    "name": "E18 VESTMARKA",
+    "include": false
+  },
+  {
+    "id": "SN85448",
+    "name": "SVOLV\u00c6R LH - NORD",
+    "include": false
+  },
+  {
+    "id": "SN250700",
+    "name": "HUD",
+    "include": false
+  },
+  {
+    "id": "SN226010",
+    "name": "L\u00c4NN\u00c4S",
+    "include": false
+  },
+  {
+    "id": "SN99875",
+    "name": "JANSSONHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN2289200",
+    "name": "VYBORG",
+    "include": false
+  },
+  {
+    "id": "SN92500",
+    "name": "LANGFJORDJ\u00d8KELEN",
+    "include": false
+  },
+  {
+    "id": "SN24960",
+    "name": "GOL - STAKE",
+    "include": false
+  },
+  {
+    "id": "SN94680",
+    "name": "HONNINGSV\u00c5G LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN44985",
+    "name": "FV45 HUNNEDALEN",
+    "include": false
+  },
+  {
+    "id": "SN10300",
+    "name": "H\u00c5SJ\u00d8EN - SOLGL\u00d8TT",
+    "include": false
+  },
+  {
+    "id": "SN39010",
+    "name": "KRISTIANSAND - FIDJE\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN210300",
+    "name": "HEMAVAN-GIEREVARTO",
+    "include": false
+  },
+  {
+    "id": "SN46510",
+    "name": "E134 MIDTL\u00c6GER",
+    "include": false
+  },
+  {
+    "id": "SN75220",
+    "name": "R\u00d8RVIK LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN87772",
+    "name": "S\u00c6TERTINDEN VED TJELDSUNDET",
+    "include": false
+  },
+  {
+    "id": "SN1043900",
+    "name": "FRITZLAR (FLUGPLATZ)",
+    "include": false
+  },
+  {
+    "id": "SN26898",
+    "name": "DRAMMEN - \u00c5SSIDEN",
+    "include": false
+  },
+  {
+    "id": "SN27212",
+    "name": "FON",
+    "include": false
+  },
+  {
+    "id": "SN4827",
+    "name": "FV172 HOLTER",
+    "include": false
+  },
+  {
+    "id": "SN224700",
+    "name": "KRANGEDE",
+    "include": false
+  },
+  {
+    "id": "SN58703",
+    "name": "RV15 SKJ\u00c6RINGSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN23300",
+    "name": "FV51 GOLSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN7420",
+    "name": "RENA - \u00d8RNHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN776100",
+    "name": "AJACCIO",
+    "include": false
+  },
+  {
+    "id": "SN774700",
+    "name": "PERPIGNAN",
+    "include": false
+  },
+  {
+    "id": "SN84210",
+    "name": "LOSISTUA",
+    "include": false
+  },
+  {
+    "id": "SN1103500",
+    "name": "WIEN/HOHE WARTE",
+    "include": false
+  },
+  {
+    "id": "SN67280",
+    "name": "SOKNEDAL",
+    "include": false
+  },
+  {
+    "id": "SN60650",
+    "name": "LINGE",
+    "include": false
+  },
+  {
+    "id": "SN89360",
+    "name": "BARDUFOSS - RUSTAFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN59250",
+    "name": "REFVIK",
+    "include": false
+  },
+  {
+    "id": "SN49220",
+    "name": "ODDA - JORDAL",
+    "include": false
+  },
+  {
+    "id": "SN32290",
+    "name": "RV36 SELJORD",
+    "include": false
+  },
+  {
+    "id": "SN52970",
+    "name": "S\u00d8REB\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN611000",
+    "name": "FLYVESTATION SKRYDSTRUP",
+    "include": false
+  },
+  {
+    "id": "SN17980",
+    "name": "OSLO - LJABRUVEIEN",
+    "include": false
+  },
+  {
+    "id": "SN65145",
+    "name": "AURE",
+    "include": false
+  },
+  {
+    "id": "SN58990",
+    "name": "RV15 TOTLAND",
+    "include": false
+  },
+  {
+    "id": "SN26790",
+    "name": "MJ\u00d8NDALEN - ORKIDEH\u00d8GDA",
+    "include": false
+  },
+  {
+    "id": "SN213530",
+    "name": "FJ\u00c4LLSJ\u00d6N\u00c4S",
+    "include": false
+  },
+  {
+    "id": "SN205500",
+    "name": "NAIMAKKA",
+    "include": false
+  },
+  {
+    "id": "SN700",
+    "name": "DREVSJ\u00d8",
+    "include": false
+  },
+  {
+    "id": "SN26862",
+    "name": "DRAMMEN TINGHUS",
+    "include": false
+  },
+  {
+    "id": "SN220600",
+    "name": "STORLIEN-STORVALLEN",
+    "include": false
+  },
+  {
+    "id": "SN82290",
+    "name": "BOD\u00d8 VI",
+    "include": false
+  },
+  {
+    "id": "SN24350",
+    "name": "FV2830 NAKKERUD",
+    "include": false
+  },
+  {
+    "id": "SN226530",
+    "name": "HATTSJ\u00d6B\u00c4CKEN D",
+    "include": false
+  },
+  {
+    "id": "SN50503",
+    "name": "S\u00c6DALEN",
+    "include": false
+  },
+  {
+    "id": "SN18500",
+    "name": "BJ\u00d8RNHOLT",
+    "include": false
+  },
+  {
+    "id": "SN76790",
+    "name": "SANDNESSJ\u00d8EN - STAMNES\u00d8RA",
+    "include": false
+  },
+  {
+    "id": "SN91890",
+    "name": "E6 KV\u00c6NANGSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN88660",
+    "name": "BOTNHAMN",
+    "include": false
+  },
+  {
+    "id": "SN18195",
+    "name": "OSLO - H\u00d8YENHALL",
+    "include": false
+  },
+  {
+    "id": "SN77230",
+    "name": "MOSJ\u00d8EN LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN241800",
+    "name": "KARLSTAD FLYGPLATS",
+    "include": false
+  },
+  {
+    "id": "SN89010",
+    "name": "KISTEFJELL",
+    "include": false
+  },
+  {
+    "id": "SN62480",
+    "name": "ONA II",
+    "include": false
+  },
+  {
+    "id": "SN1509000",
+    "name": "IASI",
+    "include": false
+  },
+  {
+    "id": "SN74350",
+    "name": "NAMSSKOGAN",
+    "include": false
+  },
+  {
+    "id": "SN69550",
+    "name": "\u00d8ST\u00c5S I HEGRA",
+    "include": false
+  },
+  {
+    "id": "SN1013100",
+    "name": "CUXHAVEN",
+    "include": false
+  },
+  {
+    "id": "SN262920",
+    "name": "OSBY",
+    "include": false
+  },
+  {
+    "id": "SN88023",
+    "name": "FV848 FORNES",
+    "include": false
+  },
+  {
+    "id": "SN22690",
+    "name": "E16 BEGNADALEN",
+    "include": false
+  },
+  {
+    "id": "SN1645300",
+    "name": "GELA",
+    "include": false
+  },
+  {
+    "id": "SN283600",
+    "name": "SODANKYLA ARCTIC RESEARCH CENTRE",
+    "include": false
+  },
+  {
+    "id": "SN48170",
+    "name": "E39 MEHAMMAR",
+    "include": false
+  },
+  {
+    "id": "SN96250",
+    "name": "FV888 STORE REINOKSEVATN",
+    "include": false
+  },
+  {
+    "id": "SN19810",
+    "name": "R\u00d8YKEN - SKOGSBORG",
+    "include": false
+  },
+  {
+    "id": "SN826100",
+    "name": "CACERES (8261-0)",
+    "include": false
+  },
+  {
+    "id": "SN1659700",
+    "name": "LUQA",
+    "include": false
+  },
+  {
+    "id": "SN67890",
+    "name": "FV30 RUGLDALEN",
+    "include": false
+  },
+  {
+    "id": "SN298000",
+    "name": "LEMLAND NYHAMN",
+    "include": false
+  },
+  {
+    "id": "SN96600",
+    "name": "GAMVIK - SKJ\u00c5NES",
+    "include": false
+  },
+  {
+    "id": "SN25830",
+    "name": "FINSEVATN",
+    "include": false
+  },
+  {
+    "id": "SN47192",
+    "name": "SKUDENES INDUSTRI",
+    "include": false
+  },
+  {
+    "id": "SN33555",
+    "name": "E134 VINJE",
+    "include": false
+  },
+  {
+    "id": "SN79700",
+    "name": "STORFORSHEI",
+    "include": false
+  },
+  {
+    "id": "SN25115",
+    "name": "HEMSEDAL SKISENTER",
+    "include": false
+  },
+  {
+    "id": "SN68270",
+    "name": "L\u00d8KSMYR",
+    "include": false
+  },
+  {
+    "id": "SN4785",
+    "name": "GARDERMOEN PLU",
+    "include": false
+  },
+  {
+    "id": "SN63820",
+    "name": "DRIVDALEN",
+    "include": false
+  },
+  {
+    "id": "SN92350",
+    "name": "NORDSTRAUM I KV\u00c6NANGEN",
+    "include": false
+  },
+  {
+    "id": "SN253610",
+    "name": "BOR\u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN2603800",
+    "name": "TALLINN-HARKU",
+    "include": false
+  },
+  {
+    "id": "SN18180",
+    "name": "OSLO - TRASOP",
+    "include": false
+  },
+  {
+    "id": "SN218180",
+    "name": "TALLJ\u00c4RV D",
+    "include": false
+  },
+  {
+    "id": "SN39201",
+    "name": "KRISTIANSAND - BR\u00c5VANN",
+    "include": false
+  },
+  {
+    "id": "SN31853",
+    "name": "E134 GVAMMEN",
+    "include": false
+  },
+  {
+    "id": "SN27403",
+    "name": "N\u00d8TTER\u00d8Y - KNARRBERG",
+    "include": false
+  },
+  {
+    "id": "SN11900",
+    "name": "BIRI",
+    "include": false
+  },
+  {
+    "id": "SN54740",
+    "name": "FV53 NADDVIK",
+    "include": false
+  },
+  {
+    "id": "SN211900",
+    "name": "KVIKKJOKK ARRENJARKA",
+    "include": false
+  },
+  {
+    "id": "SN39210",
+    "name": "DUEKNIPEN",
+    "include": false
+  },
+  {
+    "id": "SN248110",
+    "name": "BROVALLEN",
+    "include": false
+  },
+  {
+    "id": "SN62160",
+    "name": "ISTAD KRAFTSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN81315",
+    "name": "FV17 SALTSTRAUMBRUA",
+    "include": false
+  },
+  {
+    "id": "SN41175",
+    "name": "LAUDAL - KLEIVEN",
+    "include": false
+  },
+  {
+    "id": "SN82840",
+    "name": "STYRKESNES - HESTVIKA",
+    "include": false
+  },
+  {
+    "id": "SN206490",
+    "name": "PARAKKA",
+    "include": false
+  },
+  {
+    "id": "SN1501000",
+    "name": "SATU MARE",
+    "include": false
+  },
+  {
+    "id": "SN254480",
+    "name": "SK\u00d6VDE",
+    "include": false
+  },
+  {
+    "id": "SN67005",
+    "name": "E39 KALLFOSS",
+    "include": false
+  },
+  {
+    "id": "SN19490",
+    "name": "GJETTUM PLU",
+    "include": false
+  },
+  {
+    "id": "SN13640",
+    "name": "OLSTAPPEN",
+    "include": false
+  },
+  {
+    "id": "SN1718800",
+    "name": "USAK",
+    "include": false
+  },
+  {
+    "id": "SN60850",
+    "name": "EMBLEM",
+    "include": false
+  },
+  {
+    "id": "SN818100",
+    "name": "BARCELONA/AEROPUERTO",
+    "include": false
+  },
+  {
+    "id": "SN49420",
+    "name": "SKJEGGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN1219500",
+    "name": "SUWALKI",
+    "include": false
+  },
+  {
+    "id": "SN22890",
+    "name": "FV33 TONS\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN703700",
+    "name": "ROUEN-BOOS",
+    "include": false
+  },
+  {
+    "id": "SN16610",
+    "name": "FOKSTUGU",
+    "include": false
+  },
+  {
+    "id": "SN35110",
+    "name": "FV76 \u00d8STERHOLTHEIA",
+    "include": false
+  },
+  {
+    "id": "SN228480",
+    "name": "NORDANB\u00c4CK D",
+    "include": false
+  },
+  {
+    "id": "SN298200",
+    "name": "HANKO RUSSARO",
+    "include": false
+  },
+  {
+    "id": "SN76470",
+    "name": "H\u00d8YHOLM",
+    "include": false
+  },
+  {
+    "id": "SN1564000",
+    "name": "SLIVEN *",
+    "include": false
+  },
+  {
+    "id": "SN61810",
+    "name": "FV660 VISTDALSHEIA",
+    "include": false
+  },
+  {
+    "id": "SN99420",
+    "name": "E6 KIRKENES SYD",
+    "include": false
+  },
+  {
+    "id": "SN224200",
+    "name": "HOTING",
+    "include": false
+  },
+  {
+    "id": "SN1269500",
+    "name": "PRZEMYSL",
+    "include": false
+  },
+  {
+    "id": "SN41480",
+    "name": "\u00c5SERAL",
+    "include": false
+  },
+  {
+    "id": "SN27161",
+    "name": "HORTEN - SKOPPUM",
+    "include": false
+  },
+  {
+    "id": "SN99770",
+    "name": "ISTJ\u00d8RNDALEN",
+    "include": false
+  },
+  {
+    "id": "SN91740",
+    "name": "S\u00d8RKJOSEN LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN96890",
+    "name": "KORG\u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN38250",
+    "name": "E18 STUDEVANN",
+    "include": false
+  },
+  {
+    "id": "SN29350",
+    "name": "UVDAL KRAFTVERK",
+    "include": false
+  },
+  {
+    "id": "SN50120",
+    "name": "SKULAFOSSEN KRAFTSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN77403",
+    "name": "E6 MAJAVATN",
+    "include": false
+  },
+  {
+    "id": "SN31970",
+    "name": "GAUSTATOPPEN",
+    "include": false
+  },
+  {
+    "id": "SN60500",
+    "name": "TAFJORD",
+    "include": false
+  },
+  {
+    "id": "SN91480",
+    "name": "E8 GALGO",
+    "include": false
+  },
+  {
+    "id": "SN217310",
+    "name": "PITE\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN44620",
+    "name": "STAVANGER - TASTA",
+    "include": false
+  },
+  {
+    "id": "SN730",
+    "name": "VALDALEN",
+    "include": false
+  },
+  {
+    "id": "SN13030",
+    "name": "GAUSDAL - FOLLEBU",
+    "include": false
+  },
+  {
+    "id": "SN8230",
+    "name": "RV3 KOPPANG",
+    "include": false
+  },
+  {
+    "id": "SN60240",
+    "name": "\u00c5KERNESET",
+    "include": false
+  },
+  {
+    "id": "SN1600",
+    "name": "FV21 AREBEKKEN",
+    "include": false
+  },
+  {
+    "id": "SN403000",
+    "name": "REYKJAVIK",
+    "include": false
+  },
+  {
+    "id": "SN230310",
+    "name": "LJUSNEDAL",
+    "include": false
+  },
+  {
+    "id": "SN89820",
+    "name": "\u00d8VERBYGD II",
+    "include": false
+  },
+  {
+    "id": "SN54731",
+    "name": "FV2515 FILEFJELL V/VARDEN",
+    "include": false
+  },
+  {
+    "id": "SN1950",
+    "name": "\u00d8RJE",
+    "include": false
+  },
+  {
+    "id": "SN44710",
+    "name": "E39 FORUS",
+    "include": false
+  },
+  {
+    "id": "SN1072900",
+    "name": "MANNHEIM",
+    "include": false
+  },
+  {
+    "id": "SN4543",
+    "name": "RV4 STRYKEN",
+    "include": false
+  },
+  {
+    "id": "SN17875",
+    "name": "E18 HOLSTAD",
+    "include": false
+  },
+  {
+    "id": "SN270100",
+    "name": "KILPISJARVI SAANA",
+    "include": false
+  },
+  {
+    "id": "SN1076300",
+    "name": "NUERNBERG",
+    "include": false
+  },
+  {
+    "id": "SN31620",
+    "name": "M\u00d8SSTRAND II",
+    "include": false
+  },
+  {
+    "id": "SN91130",
+    "name": "LYNGEN - GJERDVASSBU",
+    "include": false
+  },
+  {
+    "id": "SN94710",
+    "name": "HONNINGSV\u00c5G",
+    "include": false
+  },
+  {
+    "id": "SN84500",
+    "name": "STRAUMSNES",
+    "include": false
+  },
+  {
+    "id": "SN55700",
+    "name": "SOGNDAL LUFTHAMN",
+    "include": false
+  },
+  {
+    "id": "SN284500",
+    "name": "ROVANIEMI AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN222110",
+    "name": "DIGERN\u00c4SET D",
+    "include": false
+  },
+  {
+    "id": "SN58320",
+    "name": "MYKLEBUST I BREIM",
+    "include": false
+  },
+  {
+    "id": "SN2650",
+    "name": "AURSKOG II",
+    "include": false
+  },
+  {
+    "id": "SN66045",
+    "name": "FV710 KJ\u00d8RMOEN",
+    "include": false
+  },
+  {
+    "id": "SN279000",
+    "name": "KUMLINGE KK",
+    "include": false
+  },
+  {
+    "id": "SN58670",
+    "name": "RV15 FOSNES",
+    "include": false
+  },
+  {
+    "id": "SN18162",
+    "name": "OSLO - KV\u00c6RNERBYEN",
+    "include": false
+  },
+  {
+    "id": "SN206400",
+    "name": "SAITTAROVA",
+    "include": false
+  },
+  {
+    "id": "SN640000",
+    "name": "KOKSIJDE",
+    "include": false
+  },
+  {
+    "id": "SN71320",
+    "name": "RISSA III",
+    "include": false
+  },
+  {
+    "id": "SN3780",
+    "name": "IGSI I HOB\u00d8L",
+    "include": false
+  },
+  {
+    "id": "SN36330",
+    "name": "ARENDAL LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN29700",
+    "name": "FV40 DAGALIFJELL",
+    "include": false
+  },
+  {
+    "id": "SN229700",
+    "name": "BJUROKLUBB",
+    "include": false
+  },
+  {
+    "id": "SN18270",
+    "name": "OSLO - VESTLI",
+    "include": false
+  },
+  {
+    "id": "SN91731",
+    "name": "\u00c5RVIKSAND",
+    "include": false
+  },
+  {
+    "id": "SN77035",
+    "name": "KRONPRINS HAAKON",
+    "include": false
+  },
+  {
+    "id": "SN80615",
+    "name": "ENGABREEN - SKJ\u00c6RET",
+    "include": false
+  },
+  {
+    "id": "SN212420",
+    "name": "ARJEPLOG-MYRHEDEN D",
+    "include": false
+  },
+  {
+    "id": "SN224290",
+    "name": "L\u00d6VBERGA D",
+    "include": false
+  },
+  {
+    "id": "SN42700",
+    "name": "E39 REGEVIK",
+    "include": false
+  },
+  {
+    "id": "SN44970",
+    "name": "FV45 DIRDAL",
+    "include": false
+  },
+  {
+    "id": "SN2560",
+    "name": "FV169 \u00c5SERUD",
+    "include": false
+  },
+  {
+    "id": "SN4740",
+    "name": "UKKESTAD",
+    "include": false
+  },
+  {
+    "id": "SN30247",
+    "name": "E18 LANNER",
+    "include": false
+  },
+  {
+    "id": "SN26820",
+    "name": "HOKKSUND",
+    "include": false
+  },
+  {
+    "id": "SN93301",
+    "name": "SUOLOVUOPMI - LULIT",
+    "include": false
+  },
+  {
+    "id": "SN30256",
+    "name": "PORSGRUNN - HER\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN80050",
+    "name": "FV17 SJONFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN39165",
+    "name": "KRISTIANSAND BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN835900",
+    "name": "ALICANTE",
+    "include": false
+  },
+  {
+    "id": "SN1674300",
+    "name": "KYTHIRA",
+    "include": false
+  },
+  {
+    "id": "SN47240",
+    "name": "KARM\u00d8Y - BREKKEVANN",
+    "include": false
+  },
+  {
+    "id": "SN57710",
+    "name": "FLOR\u00d8 LUFTHAMN",
+    "include": false
+  },
+  {
+    "id": "SN27780",
+    "name": "TJ\u00d8LLING",
+    "include": false
+  },
+  {
+    "id": "SN18225",
+    "name": "OSLO - TONSENHAGEN",
+    "include": false
+  },
+  {
+    "id": "SN99752",
+    "name": "S\u00d8RKAPP\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN58060",
+    "name": "E39 REED",
+    "include": false
+  },
+  {
+    "id": "SN30875",
+    "name": "BUSNES",
+    "include": false
+  },
+  {
+    "id": "SN87640",
+    "name": "HARSTAD STADION",
+    "include": false
+  },
+  {
+    "id": "SN38600",
+    "name": "MYKLAND",
+    "include": false
+  },
+  {
+    "id": "SN44548",
+    "name": "SOLA PLU",
+    "include": false
+  },
+  {
+    "id": "SN26802",
+    "name": "MJ\u00d8NDALEN - \u00c5SEN",
+    "include": false
+  },
+  {
+    "id": "SN80705",
+    "name": "GLOMFJORD - SKIHYTTA",
+    "include": false
+  },
+  {
+    "id": "SN51250",
+    "name": "\u00d8VSTEDAL",
+    "include": false
+  },
+  {
+    "id": "SN89515",
+    "name": "SETERMOEN BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN226120",
+    "name": "GRANTR\u00c4SK D",
+    "include": false
+  },
+  {
+    "id": "SN266700",
+    "name": "KARLSKRONA-SODERSTJERNA",
+    "include": false
+  },
+  {
+    "id": "SN56400",
+    "name": "YTRE SOLUND",
+    "include": false
+  },
+  {
+    "id": "SN2673000",
+    "name": "VILNIUS (26730-0)",
+    "include": false
+  },
+  {
+    "id": "SN18440",
+    "name": "OSLO - KJELS\u00c5S",
+    "include": false
+  },
+  {
+    "id": "SN603000",
+    "name": "FLYVESTATION AALBORG",
+    "include": false
+  },
+  {
+    "id": "SN250580",
+    "name": "R\u00d6RASTRAND D",
+    "include": false
+  },
+  {
+    "id": "SN769000",
+    "name": "NICE",
+    "include": false
+  },
+  {
+    "id": "SN223620",
+    "name": "HAMMERDAL D",
+    "include": false
+  },
+  {
+    "id": "SN212190",
+    "name": "SVARTBERGET D",
+    "include": false
+  },
+  {
+    "id": "SN262800",
+    "name": "HANO",
+    "include": false
+  },
+  {
+    "id": "SN90110",
+    "name": "MORTENHALSSKOLTEN",
+    "include": false
+  },
+  {
+    "id": "SN28922",
+    "name": "VEGGLI II",
+    "include": false
+  },
+  {
+    "id": "SN377200",
+    "name": "HEATHROW",
+    "include": false
+  },
+  {
+    "id": "SN94255",
+    "name": "HAMMERFEST II",
+    "include": false
+  },
+  {
+    "id": "SN45870",
+    "name": "FISTER - SIGMUNDSTAD",
+    "include": false
+  },
+  {
+    "id": "SN31210",
+    "name": "M\u00c5R - SYNKEN",
+    "include": false
+  },
+  {
+    "id": "SN1237500",
+    "name": "WARSZAWA-OKECIE",
+    "include": false
+  },
+  {
+    "id": "SN1036100",
+    "name": "MAGDEBURG",
+    "include": false
+  },
+  {
+    "id": "SN223180",
+    "name": "TULLUS D",
+    "include": false
+  },
+  {
+    "id": "SN31560",
+    "name": "FV37 RAULANDSFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN850500",
+    "name": "HORTA/CASTELO BRANCO (ACORES)",
+    "include": false
+  },
+  {
+    "id": "SN37580",
+    "name": "FV45 SKAFS\u00c5",
+    "include": false
+  },
+  {
+    "id": "SN75190",
+    "name": "FV770 R\u00d8RVIK",
+    "include": false
+  },
+  {
+    "id": "SN4725",
+    "name": "E16 GARDERMOEN",
+    "include": false
+  },
+  {
+    "id": "SN32780",
+    "name": "H\u00d8IDALEN I SOLUM",
+    "include": false
+  },
+  {
+    "id": "SN38800",
+    "name": "TOVDAL",
+    "include": false
+  },
+  {
+    "id": "SN29900",
+    "name": "SKURDEVIK\u00c5I",
+    "include": false
+  },
+  {
+    "id": "SN60880",
+    "name": "E39 BRUSDALEN",
+    "include": false
+  },
+  {
+    "id": "SN1073800",
+    "name": "STUTTGART-ECHTERDINGEN",
+    "include": false
+  },
+  {
+    "id": "SN69035",
+    "name": "E6 MALVIK",
+    "include": false
+  },
+  {
+    "id": "SN39150",
+    "name": "KRISTIANSAND - S\u00d8MSKLEIVA",
+    "include": false
+  },
+  {
+    "id": "SN3720",
+    "name": "ASKIM - KYKKELSRUD",
+    "include": false
+  },
+  {
+    "id": "SN232520",
+    "name": "HEDEVIKEN",
+    "include": false
+  },
+  {
+    "id": "SN98974",
+    "name": "BERGEBYDALEN",
+    "include": false
+  },
+  {
+    "id": "SN1614900",
+    "name": "RIMINI",
+    "include": false
+  },
+  {
+    "id": "SN26670",
+    "name": "HAKAVIK",
+    "include": false
+  },
+  {
+    "id": "SN19663",
+    "name": "E16 SOLLIH\u00d8GDA VEST",
+    "include": false
+  },
+  {
+    "id": "SN47350",
+    "name": "R\u00d8V\u00c6R",
+    "include": false
+  },
+  {
+    "id": "SN18210",
+    "name": "OSLO - HOVIN",
+    "include": false
+  },
+  {
+    "id": "SN30860",
+    "name": "BERGELIGREND",
+    "include": false
+  },
+  {
+    "id": "SN298400",
+    "name": "INKOO BAGASKAR",
+    "include": false
+  },
+  {
+    "id": "SN59570",
+    "name": "BRANDAL II",
+    "include": false
+  },
+  {
+    "id": "SN27433",
+    "name": "N\u00d8TTER\u00d8Y - TENVIK",
+    "include": false
+  },
+  {
+    "id": "SN12710",
+    "name": "LILLEHAMMER - NORDSETERVEGEN H\u00d8YDEBASSENG",
+    "include": false
+  },
+  {
+    "id": "SN81775",
+    "name": "L\u00d8NSDAL STASJON",
+    "include": false
+  },
+  {
+    "id": "SN54815",
+    "name": "FV53 TYINOSEN",
+    "include": false
+  },
+  {
+    "id": "SN92900",
+    "name": "LANGFJORDBOTN",
+    "include": false
+  },
+  {
+    "id": "SN37230",
+    "name": "TVEITSUND",
+    "include": false
+  },
+  {
+    "id": "SN65940",
+    "name": "SULA",
+    "include": false
+  },
+  {
+    "id": "SN212100",
+    "name": "MIERKENIS",
+    "include": false
+  },
+  {
+    "id": "SN66810",
+    "name": "RV3 LITJFOSSEN",
+    "include": false
+  },
+  {
+    "id": "SN21700",
+    "name": "FV250 VINGOMR\u00c5SAN",
+    "include": false
+  },
+  {
+    "id": "SN25100",
+    "name": "HEMSEDAL - H\u00d8LTO",
+    "include": false
+  },
+  {
+    "id": "SN11463",
+    "name": "E6 MINNESUND",
+    "include": false
+  },
+  {
+    "id": "SN60225",
+    "name": "FV60 STRANDAFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN1519700",
+    "name": "BARLAD",
+    "include": false
+  },
+  {
+    "id": "SN27406",
+    "name": "N\u00d8TTER\u00d8Y - TOR\u00d8D",
+    "include": false
+  },
+  {
+    "id": "SN18165",
+    "name": "OSLO - RYEN",
+    "include": false
+  },
+  {
+    "id": "SN46220",
+    "name": "GULLINGEN SKISENTER",
+    "include": false
+  },
+  {
+    "id": "SN66900",
+    "name": "RV3 KVIKNESKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN700500",
+    "name": "ABBEVILLE",
+    "include": false
+  },
+  {
+    "id": "SN27415",
+    "name": "FV308 TJ\u00d8ME-BUDAL",
+    "include": false
+  },
+  {
+    "id": "SN608000",
+    "name": "ESBJERG LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN68120",
+    "name": "SAUPSTAD",
+    "include": false
+  },
+  {
+    "id": "SN26060",
+    "name": "SKOTSELV",
+    "include": false
+  },
+  {
+    "id": "SN54770",
+    "name": "FV53 BRENNBORG",
+    "include": false
+  },
+  {
+    "id": "SN89213",
+    "name": "FV84 GUMPEN",
+    "include": false
+  },
+  {
+    "id": "SN255210",
+    "name": "H\u00c4RSN\u00c4S",
+    "include": false
+  },
+  {
+    "id": "SN19780",
+    "name": "ASKER - VOLLEN",
+    "include": false
+  },
+  {
+    "id": "SN57390",
+    "name": "SKEI I J\u00d8LSTER",
+    "include": false
+  },
+  {
+    "id": "SN58960",
+    "name": "HORNINDAL",
+    "include": false
+  },
+  {
+    "id": "SN27630",
+    "name": "SANDEFJORD - ENGA",
+    "include": false
+  },
+  {
+    "id": "SN14711",
+    "name": "GROV - SOLHAUG",
+    "include": false
+  },
+  {
+    "id": "SN221000",
+    "name": "BLAHAMMAREN A",
+    "include": false
+  },
+  {
+    "id": "SN670",
+    "name": "FV26 SKARVEN",
+    "include": false
+  },
+  {
+    "id": "SN60835",
+    "name": "E39 DRAGSUNDET",
+    "include": false
+  },
+  {
+    "id": "SN70390",
+    "name": "FV72 INNSMOEN",
+    "include": false
+  },
+  {
+    "id": "SN214720",
+    "name": "ADAK D",
+    "include": false
+  },
+  {
+    "id": "SN6690",
+    "name": "RV3 EBRU",
+    "include": false
+  },
+  {
+    "id": "SN44300",
+    "name": "S\u00c6RHEIM",
+    "include": false
+  },
+  {
+    "id": "SN55425",
+    "name": "SP\u00d8RTEGGBU",
+    "include": false
+  },
+  {
+    "id": "SN1706000",
+    "name": "ISTANBUL/ATATURK",
+    "include": false
+  },
+  {
+    "id": "SN27065",
+    "name": "FV313 BOGEN",
+    "include": false
+  },
+  {
+    "id": "SN13060",
+    "name": "GAUSDAL - OVREHAGEN",
+    "include": false
+  },
+  {
+    "id": "SN41770",
+    "name": "LINDESNES FYR",
+    "include": false
+  },
+  {
+    "id": "SN3810",
+    "name": "ASKIM II",
+    "include": false
+  },
+  {
+    "id": "SN18703",
+    "name": "OSLO - BLINDERN TESTFELT",
+    "include": false
+  },
+  {
+    "id": "SN54420",
+    "name": "\u00d8LJUSJ\u00d8 PUMPEKRAFTVERK",
+    "include": false
+  },
+  {
+    "id": "SN75100",
+    "name": "LIAFOSS",
+    "include": false
+  },
+  {
+    "id": "SN19430",
+    "name": "E18 SANDVIKA",
+    "include": false
+  },
+  {
+    "id": "SN91725",
+    "name": "SKJERV\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN49351",
+    "name": "TYSSEDAL IA",
+    "include": false
+  },
+  {
+    "id": "SN212800",
+    "name": "GUNNARN",
+    "include": false
+  },
+  {
+    "id": "SN20955",
+    "name": "SLOKUM GLIDER 1",
+    "include": false
+  },
+  {
+    "id": "SN36055",
+    "name": "ARENDAL SENTRUM",
+    "include": false
+  },
+  {
+    "id": "SN208000",
+    "name": "KARESUANDO",
+    "include": false
+  },
+  {
+    "id": "SN96220",
+    "name": "LEBESBY - KARLMYHR",
+    "include": false
+  },
+  {
+    "id": "SN98400",
+    "name": "MAKKAUR FYR",
+    "include": false
+  },
+  {
+    "id": "SN91770",
+    "name": "NORDREISA \u2212 GALSOMELEN",
+    "include": false
+  },
+  {
+    "id": "SN53101",
+    "name": "VANGSNES",
+    "include": false
+  },
+  {
+    "id": "SN24230",
+    "name": "RV7 SOKNA",
+    "include": false
+  },
+  {
+    "id": "SN49360",
+    "name": "TYSSEDAL V",
+    "include": false
+  },
+  {
+    "id": "SN51980",
+    "name": "MYRKDALEN-ONDRAHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN90720",
+    "name": "M\u00c5SVIK",
+    "include": false
+  },
+  {
+    "id": "SN1288200",
+    "name": "DEBRECEN rep\u00fcl\u0151t\u00e9r",
+    "include": false
+  },
+  {
+    "id": "SN44605",
+    "name": "E39 RENNES\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN55730",
+    "name": "SOGNDAL - SELSENG",
+    "include": false
+  },
+  {
+    "id": "SN90451",
+    "name": "TROMS\u00d8 PLU",
+    "include": false
+  },
+  {
+    "id": "SN50311",
+    "name": "FV7 KVAMSKOGEN",
+    "include": false
+  },
+  {
+    "id": "SN241070",
+    "name": "L\u00d6TEN D",
+    "include": false
+  },
+  {
+    "id": "SN58350",
+    "name": "FV60 UTVIKFJELLET",
+    "include": false
+  },
+  {
+    "id": "SN98642",
+    "name": "KOMMAGDALEN",
+    "include": false
+  },
+  {
+    "id": "SN71000",
+    "name": "STEINKJER - S\u00d8NDRE EGGE",
+    "include": false
+  },
+  {
+    "id": "SN99710",
+    "name": "BJ\u00d8RN\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN25540",
+    "name": "BAKKO I HOL",
+    "include": false
+  },
+  {
+    "id": "SN36010",
+    "name": "E18 HASLESTAD",
+    "include": false
+  },
+  {
+    "id": "SN299100",
+    "name": "PORVOO EMASALO",
+    "include": false
+  },
+  {
+    "id": "SN719000",
+    "name": "STRASBOURG-ENTZHEIM",
+    "include": false
+  },
+  {
+    "id": "SN316200",
+    "name": "ESKDALEMUIR",
+    "include": false
+  },
+  {
+    "id": "SN3200",
+    "name": "BATER\u00d8D",
+    "include": false
+  },
+  {
+    "id": "SN221700",
+    "name": "ARE",
+    "include": false
+  },
+  {
+    "id": "SN91420",
+    "name": "E8 HALSEBAKKAN NEDRE",
+    "include": false
+  },
+  {
+    "id": "SN44560",
+    "name": "SOLA",
+    "include": false
+  },
+  {
+    "id": "SN27316",
+    "name": "REVETAL",
+    "include": false
+  },
+  {
+    "id": "SN26975",
+    "name": "SVELVIK - BOKER\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN226500",
+    "name": "HEMLING",
+    "include": false
+  },
+  {
+    "id": "SN1038400",
+    "name": "BERLIN-TEMPELHOF",
+    "include": false
+  },
+  {
+    "id": "SN90400",
+    "name": "TROMS\u00d8 - HOLT",
+    "include": false
+  },
+  {
+    "id": "SN724000",
+    "name": "TOURS",
+    "include": false
+  },
+  {
+    "id": "SN234730",
+    "name": "J\u00c4RVS\u00d6",
+    "include": false
+  },
+  {
+    "id": "SN226700",
+    "name": "ORNSKOLDSVIK",
+    "include": false
+  },
+  {
+    "id": "SN255410",
+    "name": "ASKERSUND",
+    "include": false
+  },
+  {
+    "id": "SN85645",
+    "name": "E10 AKKARVIKA",
+    "include": false
+  },
+  {
+    "id": "SN12291",
+    "name": "E6 VIEN",
+    "include": false
+  },
+  {
+    "id": "SN317100",
+    "name": "LEUCHARS",
+    "include": false
+  },
+  {
+    "id": "SN40005",
+    "name": "RV9 HEKNI",
+    "include": false
+  },
+  {
+    "id": "SN222600",
+    "name": "OSTERSUND FROSON",
+    "include": false
+  },
+  {
+    "id": "SN82110",
+    "name": "VALNESFJORD",
+    "include": false
+  },
+  {
+    "id": "SN49910",
+    "name": "ULVIK - HJELTNES",
+    "include": false
+  },
+  {
+    "id": "SN856200",
+    "name": "BEJA (8562-0)",
+    "include": false
+  },
+  {
+    "id": "SN76969",
+    "name": "KVITEBJ\u00d8RNFELTET",
+    "include": false
+  },
+  {
+    "id": "SN70680",
+    "name": "M\u00c6RE III",
+    "include": false
+  },
+  {
+    "id": "SN31850",
+    "name": "HJARTDAL",
+    "include": false
+  },
+  {
+    "id": "SN55930",
+    "name": "BALESTRAND BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN63000",
+    "name": "FV62 EIDS\u00d8RA",
+    "include": false
+  },
+  {
+    "id": "SN62291",
+    "name": "MOLDE - N\u00d8ISOMHED PLU",
+    "include": false
+  },
+  {
+    "id": "SN27301",
+    "name": "RAMNES - BERG",
+    "include": false
+  },
+  {
+    "id": "SN291100",
+    "name": "VAASA AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN23560",
+    "name": "BEITO",
+    "include": false
+  },
+  {
+    "id": "SN262300",
+    "name": "HORBY",
+    "include": false
+  },
+  {
+    "id": "SN289700",
+    "name": "KAJAANI AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN77032",
+    "name": "TRANSOCEAN ENABLER",
+    "include": false
+  },
+  {
+    "id": "SN71550",
+    "name": "\u00d8RLAND III",
+    "include": false
+  },
+  {
+    "id": "SN51597",
+    "name": "RV13 SVELGANE",
+    "include": false
+  },
+  {
+    "id": "SN82020",
+    "name": "E6 TUSSVIKA",
+    "include": false
+  },
+  {
+    "id": "SN36560",
+    "name": "NELAUG",
+    "include": false
+  },
+  {
+    "id": "SN97470",
+    "name": "RV92 SUOSSJAVRI",
+    "include": false
+  },
+  {
+    "id": "SN49955",
+    "name": "FV572 EDDEGJELET",
+    "include": false
+  },
+  {
+    "id": "SN221900",
+    "name": "GADDEDE A",
+    "include": false
+  },
+  {
+    "id": "SN213000",
+    "name": "ROPARUDDEN",
+    "include": false
+  },
+  {
+    "id": "SN11125",
+    "name": "E6 ANDELVA",
+    "include": false
+  },
+  {
+    "id": "SN49865",
+    "name": "RV7 SKULEVIKA",
+    "include": false
+  },
+  {
+    "id": "SN59860",
+    "name": "E39 FL\u00c5SKJ\u00c6R",
+    "include": false
+  },
+  {
+    "id": "SN78360",
+    "name": "SELJELIA",
+    "include": false
+  },
+  {
+    "id": "SN42930",
+    "name": "SIRDAL \u2212 SM\u00d8LEHEIKNUDEN",
+    "include": false
+  },
+  {
+    "id": "SN76933",
+    "name": "ORMEN LANGE",
+    "include": false
+  },
+  {
+    "id": "SN16400",
+    "name": "DOVRE-LANNEM",
+    "include": false
+  },
+  {
+    "id": "SN245200",
+    "name": "KILSBERGEN-SUTTARBODA",
+    "include": false
+  },
+  {
+    "id": "SN31500",
+    "name": "FR\u00d8YSTUL",
+    "include": false
+  },
+  {
+    "id": "SN34900",
+    "name": "POSTMYR I DRANGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN91010",
+    "name": "FV91 BREIVIKEIDET",
+    "include": false
+  },
+  {
+    "id": "SN228270",
+    "name": "MALK\u00c4LEN D",
+    "include": false
+  },
+  {
+    "id": "SN77005",
+    "name": "FF HELMER HANSSEN",
+    "include": false
+  },
+  {
+    "id": "SN221990",
+    "name": "H\u00c5KAFOT D",
+    "include": false
+  },
+  {
+    "id": "SN20931",
+    "name": "STATSRAAD LEHMKUHL",
+    "include": false
+  },
+  {
+    "id": "SN44563",
+    "name": "FV509 SUNDEKROSSEN",
+    "include": false
+  },
+  {
+    "id": "SN9160",
+    "name": "FOLLDAL - FREDHEIM",
+    "include": false
+  },
+  {
+    "id": "SN11340",
+    "name": "RV4 LYGNA",
+    "include": false
+  },
+  {
+    "id": "SN44545",
+    "name": "FV510 REGE",
+    "include": false
+  },
+  {
+    "id": "SN71200",
+    "name": "MOSVIK - TR\u00d8AHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN35860",
+    "name": "LYNG\u00d8R FYR",
+    "include": false
+  },
+  {
+    "id": "SN57940",
+    "name": "\u00c5LFOTEN II",
+    "include": false
+  },
+  {
+    "id": "SN52458",
+    "name": "FV217 STEINRUSTEN",
+    "include": false
+  },
+  {
+    "id": "SN241010",
+    "name": "DALA-J\u00c4RNA D",
+    "include": false
+  },
+  {
+    "id": "SN98645",
+    "name": "HUBEHYTTA",
+    "include": false
+  },
+  {
+    "id": "SN299300",
+    "name": "HAMMARLAND MARKET",
+    "include": false
+  },
+  {
+    "id": "SN94500",
+    "name": "FRUHOLMEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN59815",
+    "name": "FV5876 RUNDEBRUA",
+    "include": false
+  },
+  {
+    "id": "SN1675400",
+    "name": "HERAKLEION (AIRPORT)",
+    "include": false
+  },
+  {
+    "id": "SN44760",
+    "name": "IMS",
+    "include": false
+  },
+  {
+    "id": "SN76960",
+    "name": "GRANEFELTET",
+    "include": false
+  },
+  {
+    "id": "SN6020",
+    "name": "FLISA II",
+    "include": false
+  },
+  {
+    "id": "SN65530",
+    "name": "FV714 HITRA",
+    "include": false
+  },
+  {
+    "id": "SN250000",
+    "name": "NORDKOSTER",
+    "include": false
+  },
+  {
+    "id": "SN258900",
+    "name": "GOTSKA SANDON",
+    "include": false
+  },
+  {
+    "id": "SN58810",
+    "name": "RV651 STIGEDALEN",
+    "include": false
+  },
+  {
+    "id": "SN91728",
+    "name": "FV7940 ARN\u00d8YA",
+    "include": false
+  },
+  {
+    "id": "SN69280",
+    "name": "E14 ME\u00c5DAL",
+    "include": false
+  },
+  {
+    "id": "SN57850",
+    "name": "DAVIKNES",
+    "include": false
+  },
+  {
+    "id": "SN60030",
+    "name": "SYKKYLVEN - STRAUMGJERDET",
+    "include": false
+  },
+  {
+    "id": "SN71900",
+    "name": "BESSAKER",
+    "include": false
+  },
+  {
+    "id": "SN25040",
+    "name": "RV52 EIKREDAMMEN",
+    "include": false
+  },
+  {
+    "id": "SN218410",
+    "name": "MARKUSVINSA",
+    "include": false
+  },
+  {
+    "id": "SN380800",
+    "name": "CAMBORNE",
+    "include": false
+  },
+  {
+    "id": "SN77041",
+    "name": "GUDRUNFELTET",
+    "include": false
+  },
+  {
+    "id": "SN1648000",
+    "name": "COZZO SPADARO",
+    "include": false
+  },
+  {
+    "id": "SN86300",
+    "name": "GIMS\u00d8Y",
+    "include": false
+  },
+  {
+    "id": "SN295200",
+    "name": "PORI AIRPORT",
+    "include": false
+  },
+  {
+    "id": "SN286300",
+    "name": "KEMI I LIGHTHOUSE",
+    "include": false
+  },
+  {
+    "id": "SN84900",
+    "name": "BJ\u00d8RNFJELL",
+    "include": false
+  },
+  {
+    "id": "SN31410",
+    "name": "RJUKAN",
+    "include": false
+  },
+  {
+    "id": "SN624000",
+    "name": "AMSTERDAM AP SCHIPHOL",
+    "include": false
+  },
+  {
+    "id": "SN69020",
+    "name": "RANHEIM",
+    "include": false
+  },
+  {
+    "id": "SN251310",
+    "name": "K\u00c4RNA",
+    "include": false
+  },
+  {
+    "id": "SN604100",
+    "name": "SKAGEN FYR",
+    "include": false
+  },
+  {
+    "id": "SN224780",
+    "name": "V\u00c4STER\u00d6VSJ\u00d6 D",
+    "include": false
+  },
+  {
+    "id": "SN71990",
+    "name": "BUHOLMR\u00c5SA FYR",
+    "include": false
+  },
+  {
+    "id": "SN60990",
+    "name": "VIGRA",
+    "include": false
+  },
+  {
+    "id": "SN45460",
+    "name": "RV13 J\u00d8RPELAND",
+    "include": false
+  },
+  {
+    "id": "SN94195",
+    "name": "E6 AISAROAIVI",
+    "include": false
+  },
+  {
+    "id": "SN26996",
+    "name": "SANDE - LAUVKOLLMYR",
+    "include": false
+  },
+  {
+    "id": "SN61340",
+    "name": "\u00c5NDALSNES - KAMSHAUGEN",
+    "include": false
+  },
+  {
+    "id": "SN54710",
+    "name": "FILEFJELL - KYRKJEST\u00d8LANE",
+    "include": false
+  },
+  {
+    "id": "SN226000",
+    "name": "VASTMARKUM",
+    "include": false
+  },
+  {
+    "id": "SN73210",
+    "name": "FV74 SAND\u00d8LA",
+    "include": false
+  },
+  {
+    "id": "SN1284300",
+    "name": "BUDAPEST/PESTSZENTLORINC",
+    "include": false
+  },
+  {
+    "id": "SN26350",
+    "name": "SIGDAL - NEDRE EGGEDAL",
+    "include": false
+  },
+  {
+    "id": "SN11690",
+    "name": "RV4 EINA",
+    "include": false
+  },
+  {
+    "id": "SN58900",
+    "name": "STRYN - KROKEN",
+    "include": false
+  },
+  {
+    "id": "SN99910",
+    "name": "NY-\u00c5LESUND",
+    "include": false
+  },
+  {
+    "id": "SN44554",
+    "name": "SOLA - GRANNES",
+    "include": false
+  },
+  {
+    "id": "SN81760",
+    "name": "RV77 GRADDIS",
+    "include": false
+  },
+  {
+    "id": "SN205410",
+    "name": "ESRANGE",
+    "include": false
+  },
+  {
+    "id": "SN1635000",
+    "name": "CROTONE",
+    "include": false
+  },
+  {
+    "id": "SN226090",
+    "name": "MULTR\u00c5 D",
+    "include": false
+  },
+  {
+    "id": "SN55670",
+    "name": "VEITASTROND",
+    "include": false
+  },
+  {
+    "id": "SN84380",
+    "name": "E6 SKJOMENBRUA",
+    "include": false
+  },
+  {
+    "id": "SN3303600",
+    "name": "MOZYR",
+    "include": false
+  },
+  {
+    "id": "SN35340",
+    "name": "RIS\u00d8R BRANNSTASJON",
+    "include": false
+  },
+  {
+    "id": "SN18410",
+    "name": "RV150 AKER SYKEHUS",
+    "include": false
+  },
+  {
+    "id": "SN2606300",
+    "name": "ST.PETERSBURG (VOEJKOVO)",
+    "include": false
+  },
+  {
+    "id": "SN1229500",
+    "name": "BIALYSTOK",
+    "include": false
+  },
+  {
+    "id": "SN10380",
+    "name": "R\u00d8ROS LUFTHAVN",
+    "include": false
+  },
+  {
+    "id": "SN25112",
+    "name": "HEMSEDAL - HOLLEKOLTEN",
+    "include": false
+  },
+  {
+    "id": "SN30244",
+    "name": "E18 VASSBOTN",
+    "include": false
+  },
+  {
+    "id": "SN13655",
+    "name": "SK\u00c5BU",
+    "include": false
+  },
+  {
+    "id": "SN89350",
+    "name": "BARDUFOSS",
+    "include": false
+  },
+  {
+    "id": "SN82720",
+    "name": "SISOVATNET",
+    "include": false
+  },
+  {
+    "id": "SN47730",
+    "name": "E134 FJ\u00c6RA",
+    "include": false
+  },
+  {
+    "id": "SN241100",
+    "name": "ARVIKA",
+    "include": false
+  },
+  {
+    "id": "SN230800",
+    "name": "TANNAS",
+    "include": false
+  },
+  {
+    "id": "SN97120",
+    "name": "E6 BARTA",
+    "include": false
+  },
+  {
+    "id": "SN61062",
+    "name": "TOMREFJORD",
+    "include": false
+  },
+  {
+    "id": "SN99874",
+    "name": "JANSSONHAUGEN VEST",
+    "include": false
+  },
+  {
+    "id": "SN1615800",
+    "name": "PISA S. GIUSTO",
+    "include": false
+  },
+  {
+    "id": "SN15270",
+    "name": "JUVVASSH\u00d8E",
+    "include": false
+  },
+  {
+    "id": "SN74780",
+    "name": "NAMSVATN II",
+    "include": false
+  },
+  {
+    "id": "SN1292500",
+    "name": "NAGYKANIZSA",
+    "include": false
+  },
+  {
+    "id": "SN1712400",
+    "name": "ESKISEHIR HAVALIMANI",
+    "include": false
+  },
+  {
+    "id": "SN94805",
+    "name": "E69 VEDBOTN",
+    "include": false
+  },
+  {
+    "id": "SN248690",
+    "name": "S\u00d6DERT\u00c4LJE",
+    "include": false
+  },
+  {
+    "id": "SN90050",
+    "name": "STORJORDA I M\u00c5LSELV",
+    "include": false
+  },
+  {
+    "id": "GR0",
+    "name": "Norge",
+    "include": false
+  },
+  {
+    "id": "GR1",
+    "name": "\u00d8stlandet",
+    "include": false
+  },
+  {
+    "id": "GR2",
+    "name": "Agder",
+    "include": false
+  },
+  {
+    "id": "GR3",
+    "name": "Vestlandet",
+    "include": false
+  },
+  {
+    "id": "GR4",
+    "name": "Tr\u00f8ndelag",
+    "include": false
+  },
+  {
+    "id": "GR5",
+    "name": "Nord-Norge",
+    "include": false
+  },
+  {
+    "id": "GR100",
+    "name": "Global",
+    "include": false
+  },
+  {
+    "id": "GR101",
+    "name": "World (HadCRUT3v)",
+    "include": false
+  },
+  {
+    "id": "GR102",
+    "name": "World (NCEP)",
+    "include": false
+  },
+  {
+    "id": "GR103",
+    "name": "World (GISTEMP Land-Ocean)",
+    "include": false
+  },
+  {
+    "id": "NR1",
+    "name": "\u00d8stfold",
+    "include": false
+  },
+  {
+    "id": "NR2",
+    "name": "\u00d8stlandet",
+    "include": false
+  },
+  {
+    "id": "NR3",
+    "name": "S\u00f8rlandet",
+    "include": false
+  },
+  {
+    "id": "NR4",
+    "name": "S\u00f8r-Vestlandet",
+    "include": false
+  },
+  {
+    "id": "NR5",
+    "name": "Sunnhordland",
+    "include": false
+  },
+  {
+    "id": "NR6",
+    "name": "Sogn",
+    "include": false
+  },
+  {
+    "id": "NR7",
+    "name": "Dovre/Nord-\u00d8sterdal",
+    "include": false
+  },
+  {
+    "id": "NR8",
+    "name": "M\u00f8re og Romsdal",
+    "include": false
+  },
+  {
+    "id": "NR9",
+    "name": "Inntr\u00f8ndelag",
+    "include": false
+  },
+  {
+    "id": "NR10",
+    "name": "Tr\u00f8ndelag/Helgeland",
+    "include": false
+  },
+  {
+    "id": "NR11",
+    "name": "H\u00e5logaland",
+    "include": false
+  },
+  {
+    "id": "NR12",
+    "name": "Finnmarksvidda",
+    "include": false
+  },
+  {
+    "id": "NR13",
+    "name": "Varanger",
+    "include": false
+  },
+  {
+    "id": "TR1",
+    "name": "\u00d8stlandet",
+    "include": false
+  },
+  {
+    "id": "TR2",
+    "name": "Vestlandet",
+    "include": false
+  },
+  {
+    "id": "TR3",
+    "name": "Midt-Norge",
+    "include": false
+  },
+  {
+    "id": "TR4",
+    "name": "Nordland/Troms",
+    "include": false
+  },
+  {
+    "id": "TR5",
+    "name": "Finnmarksvidda",
+    "include": false
+  },
+  {
+    "id": "TR6",
+    "name": "Varanger",
+    "include": false
+  }
 ]
-

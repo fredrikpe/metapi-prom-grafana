@@ -8,9 +8,10 @@ import sys
 SOURCES = {}
 
 with open("sources.json", "r") as sources_file:
-    ss = json.load(sources_file)
-    for source in ss:
-        SOURCES[source["id"]] = source["shortName"]
+    sources = json.load(sources_file)
+    for source in sources:
+        if source["include"]:
+            SOURCES[source["id"]] = source["name"]
     
 
 DATE_FORMAT = "%Y-%m-%dT%H:%M:%S.000Z"
@@ -18,9 +19,6 @@ BLINDERN = "SN18700"
 
 MET_API_USER = os.getenv('MET_API_USER')
 MET_API_PASSWORD = os.getenv('MET_API_PASSWORD')
-
-
-#daily = f"https://frost.met.no/observations/v0.jsonld?sources={source}:0&referencetime={f}/{now}&elements=mean(surface_air_pressure P1D)&timeoffsets=PT0H&timeresolutions=P1D&timeseriesids=0&performancecategories=C&exposurecategories=2&levels=2.0",
 
 
 def yr_surface(source: str, _from: datetime.datetime):
@@ -56,7 +54,7 @@ def create_tables(db):
     cursor.execute(
         """ CREATE TABLE IF NOT EXISTS sources (
             source_id TEXT PRIMARY KEY,
-            short_name TEXT NOT NULL
+            name TEXT NOT NULL
         ) """
     )
     db.commit()
@@ -64,10 +62,10 @@ def create_tables(db):
 
 def insert_sources(db):
     stmt = """INSERT INTO sources (
-        source_id, short_name
+        source_id, name
     ) VALUES(%s,%s)
     ON CONFLICT (source_id) DO UPDATE
-    SET short_name = excluded.short_name;"""
+    SET name = excluded.name;"""
     cur = db.cursor()
 
     for k, v in SOURCES.items():
