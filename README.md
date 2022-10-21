@@ -14,3 +14,8 @@ docker compose up
 ## Requirements
 
 docker compose
+
+
+## TODO
+
+ - collect via availableTimeSeries first then

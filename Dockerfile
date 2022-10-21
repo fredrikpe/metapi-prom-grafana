@@ -13,8 +13,8 @@ USER root
 
 RUN cd /root
 
-COPY met-api-scraper.py /root/met-api-scraper.py 
+COPY src/ /root/src
 COPY sources.json /root/sources.json
 
 
-CMD cd root && python met-api-scraper.py & /usr/sbin/crond -f -l 8
+CMD cd root && python src/main.py & /usr/sbin/crond -f -l 8
