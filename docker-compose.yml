@@ -6,7 +6,7 @@ volumes:
 
 services:
   grafana:
-    image: grafana/grafana-oss:latest
+    build: ./grafana
     container_name: grafana
     restart: unless-stopped
     ports:
