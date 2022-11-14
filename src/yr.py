@@ -37,7 +37,8 @@ def fetch_time_series(
 
     json_response = response.json()
     if "error" in json_response:
-        print(json.dumps(json_response["error"], indent=2))
+        reason = json_response["error"]["reason"]
+        print(f"Error fetching element_id: {element}. reason: {reason}")
         return []
 
     observations = []

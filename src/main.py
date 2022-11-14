@@ -32,4 +32,4 @@ if __name__ == "__main__":
             for o in missing_observations:
                 database.insert(db, source_id, o.element_id, o.value, o.timestamp, o.level)
 
-    print("hello")
+    print("Done")
